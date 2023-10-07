@@ -15,3 +15,4 @@ SLList就像中介一样，可以帮助我们操纵裸递归数据结构
 ### 改进:添加头节点(Sentinel Nodes)
 
 ## DLLists
+### 改进1:添加last
