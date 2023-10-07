@@ -2,6 +2,7 @@ IntList——>SLList
 SLList就像中介一样，可以帮助我们操纵裸递归数据结构
 ![两者关系][IntListandSLList.png]
 
+## 静态内部类
 1. 静态内部类不能访问不能访问非静态的方法和属性
 2. 静态内部类可以声明普通成员变量和方法，而普通内部类不能声明static成员变量和方法。
 3. 静态内部类可以单独初始化:`Inner i = new Outer.Inner();`
