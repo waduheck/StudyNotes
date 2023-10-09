@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字电路/上课笔记.md",
+                "file": "随机过程/笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字电路/上课笔记.md",
+                "file": "随机过程/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数字电路/上课笔记.md",
+                "file": "随机过程/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数字电路/上课笔记.md"
+                "file": "随机过程/笔记.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "d3e7f4779682c1d3",
   "lastOpenFiles": [
-    "随机过程/笔记.md",
     "数字电路/上课笔记.md",
+    "随机过程/笔记.md",
     "数字电路",
     "概率论/上课笔记.md",
     "README.md",
