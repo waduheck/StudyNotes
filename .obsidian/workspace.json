@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8649cae97c99ecb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9308224863abb5ff",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "61B/Lists.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "61B/Lists.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "61B/Lists.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -171,15 +183,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d3e7f4779682c1d3",
+  "active": "8649cae97c99ecb3",
   "lastOpenFiles": [
+    "61B/Lists.md",
+    "未命名.md",
+    "未命名",
     "61B/IntListandSLList.png",
     "随机过程/笔记.md",
     "概率论/上课笔记.md",
     "数字电路/上课笔记.md",
     "数字电路",
     "README.md",
-    "61B/Lists.md",
     "概率论",
     "随机过程",
     "置身事内/未命名.md",
