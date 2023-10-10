@@ -16,3 +16,7 @@ SLList就像中介一样，可以帮助我们操纵裸递归数据结构
 
 ## DLLists
 ### 改进1:添加last
+
+## Arrays
+
+## The AList
