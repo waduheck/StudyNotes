@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "61B/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "61B/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "61B/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随机过程/笔记.md"
+                "file": "61B/Lists.md"
               }
             }
           }
@@ -173,9 +173,10 @@
   },
   "active": "d3e7f4779682c1d3",
   "lastOpenFiles": [
+    "61B/IntListandSLList.png",
+    "随机过程/笔记.md",
     "概率论/上课笔记.md",
     "数字电路/上课笔记.md",
-    "随机过程/笔记.md",
     "数字电路",
     "README.md",
     "61B/Lists.md",
@@ -183,7 +184,6 @@
     "随机过程",
     "置身事内/未命名.md",
     "置身事内",
-    "61B/IntListandSLList.png",
     "61B/IntList and SLList.png",
     "61B"
   ]
