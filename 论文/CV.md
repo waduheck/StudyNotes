@@ -28,7 +28,7 @@ Voxel Reresentation显示生成3D Object和3D Feature的方法，由于学习的
 GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制相机的姿势，物体在场景中摆放的位置与角度，以及物体的形状与外观。更强大的是，GIRAFFE 还可以在场景中自由地增加多个物体，将生成的场景从 single-object 扩展到 multi-object，即使训练数据中没有这样的素材。
 #### 动态场景：
 ##### D- NeRF
-将时间加入变量
+将时间加入变量，引入形变场
 
 
 #### 语义分割
