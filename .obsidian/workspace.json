@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论/杂七杂八.md",
+                "file": "论文/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率论/杂七杂八.md",
+                "file": "论文/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概率论/杂七杂八.md",
+                "file": "论文/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论/杂七杂八.md"
+                "file": "论文/CV.md"
               }
             }
           }
@@ -221,8 +221,8 @@
   },
   "active": "0750e534a88c13f0",
   "lastOpenFiles": [
-    "论文/CV.md",
     "概率论/杂七杂八.md",
+    "论文/CV.md",
     "人工智能导论/上课笔记.md",
     "论文",
     "数字电路/上课笔记.md",
