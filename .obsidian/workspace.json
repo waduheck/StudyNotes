@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/nerf发展.md",
+                "file": "论文/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/nerf发展.md",
+                "file": "论文/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/nerf发展.md",
+                "file": "论文/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/nerf发展.md"
+                "file": "论文/CV.md"
               }
             }
           }
@@ -210,7 +210,7 @@
   "active": "5cc3749edee3d8e9",
   "lastOpenFiles": [
     "人工智能导论/上课笔记.md",
-    "论文/nerf发展.md",
+    "论文/CV.md",
     "论文",
     "数字电路/上课笔记.md",
     "随机过程/笔记.md",
