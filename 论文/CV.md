@@ -6,3 +6,7 @@ SDF是Signed Distance Function的缩写。DeepSDF通过回归（regress）一个
 
 ### 2. NeRF
 采用体积渲染方法，用神经网络来拟合Radiance Fields，是一种隐式的三维场景表示
+### 训练技巧
+1. 分层采样
+2. 位置编码
+## GIRAFFE
