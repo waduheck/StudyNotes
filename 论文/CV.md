@@ -35,3 +35,5 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 ##### NSFF
 
 #### 语义分割
+
+#### 高质量重建
