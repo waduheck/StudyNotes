@@ -57,5 +57,8 @@ https://blog.csdn.net/weixin_50973728/article/details/126628235
 https://blog.csdn.net/weixin_50973728/article/details/126539716
 
 #### 语义分割
+##### Semantic-NeRF
+
+##### Semantic-Ray
 
 #### 高质量重建
