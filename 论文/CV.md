@@ -54,6 +54,7 @@ https://blog.csdn.net/weixin_50973728/article/details/126628235
 - 经典level set只有一个环境维度，但是本文可以加任意多环境维度增加自由度。
 - 并不把level sets限定在超平面，而是允许一般的弯曲的切片流形（用MLP表示），就是把每一帧建模成nerf切出来的非平面切片
 ##### NSFF
+https://blog.csdn.net/weixin_50973728/article/details/126539716
 
 #### 语义分割
 
