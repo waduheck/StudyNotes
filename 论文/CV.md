@@ -39,6 +39,8 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 将时间加入变量，引入形变场
 
 ##### Hyper NeRF
+https://blog.csdn.net/weixin_50973728/article/details/126628235
+参考DeepSDF与nerf
 切水果撕开纸张这种操作会改变拓扑，人脸中张合嘴巴也会改变皮肤表面连通性的变化，也就是拓扑变化，往往在三维重建中导致运动不连续或奇异点。
 
 本文把level set和deformable field结合了一下，用MLP来建立level set框架。
