@@ -10,7 +10,7 @@ https://blog.csdn.net/fb_941219/article/details/129838372
 #### SDF
 
 
-
+### ray warping function
 
 ### Level sets method
 
@@ -56,6 +56,8 @@ https://blog.csdn.net/weixin_50973728/article/details/126628235
 ##### NSFF
 https://blog.csdn.net/weixin_50973728/article/details/126539716
 
+
+##### DynlBaR
 #### 语义分割
 ##### Semantic-NeRF
 场景中的实体如果属于同一类别，那么他们的外观以及形状应当具有较高的相似性，语意这种 high level 的信息应当与几何以及辐射信息高度相关。
