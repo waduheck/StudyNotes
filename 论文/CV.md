@@ -1,8 +1,16 @@
 ## 基础知识
 
-### 体渲染(Volume rendering)
+### 渲染
+
+#### 体渲染
+
+#### 直接点表示
+
+#### SDF
 
 ### camera pose and camera matrix
+
+### Level sets method
 
 ## 模型
 ### SLAM
