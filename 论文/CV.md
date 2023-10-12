@@ -18,6 +18,10 @@ https://blog.csdn.net/fb_941219/article/details/129838372
 
 ## 模型
 ### SLAM
+
+### 语义分割
+
+#### U-net
 ### GAN
 ### NeRF家族
 #### 1. 前期工作：DeepSDF
