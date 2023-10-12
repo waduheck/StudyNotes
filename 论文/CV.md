@@ -30,5 +30,8 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 ##### D- NeRF
 将时间加入变量，引入形变场
 
+##### Hyper NeRF
+
+##### NSFF
 
 #### 语义分割
