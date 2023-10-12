@@ -41,6 +41,10 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 ##### Hyper NeRF
 切水果撕开纸张这种操作会改变拓扑，人脸中张合嘴巴也会改变皮肤表面连通性的变化，也就是拓扑变化，往往在三维重建中导致运动不连续或奇异点。
 
+本文把level set和deformable field结合了一下，用MLP来建立level set框架。  
+
+- 经典level set只有一个环境维度，但是本文可以加任意多环境维度增加自由度。
+- 并不把level sets限定在超平面，而是允许一般的弯曲的切片流形（用MLP表示），就是把每一帧建模成nerf切出来的非平面切片
 ##### NSFF
 
 #### 语义分割
