@@ -33,6 +33,23 @@ $$
 
 ![[透视投影.png]]
 再考虑主点不在图像坐标系原点与坐标轴倾斜的情况
+$$Z_c 
+\begin{bmatrix}
+X\\
+Y\\
+1
+\end{bmatrix}= 
+\begin{bmatrix}
+f_x & s & x_0 & 0\\
+0 & f_y & y_0 & 0\\
+0 & 0 & 1 & 0
+\end{bmatrix}
+\begin{bmatrix}
+X_c\\
+Y_c\\
+Z_c\\
+1
+\end{bmatrix}$$
 ### 光线追踪
 ### 渲染
 
