@@ -62,6 +62,13 @@ f_x & s & x_0 \\
 ### 可微分渲染器
 #### 立体渲染（volume rendering）
 https://zhuanlan.zhihu.com/p/595117334
+##### 吸收 (absorbing)
+
+##### 放射
+
+##### 外散射
+
+##### 内散射
 
 
 #### 直接点表示
