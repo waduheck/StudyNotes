@@ -50,6 +50,12 @@ Y_c\\
 Z_c\\
 1
 \end{bmatrix}$$
+$$内参矩阵K = 
+\begin{bmatrix}
+f_x & s & x_0 \\
+0 & f_y & y_0 \\
+0 & 0 & 1
+\end{bmatrix}$$
 ### 光线追踪
 ### 渲染
 
