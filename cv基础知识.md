@@ -90,8 +90,9 @@ $$I(s)=\int_0^sT(t)\sigma(t)C(t)dt+T(s)I_0$$
 我们再做简化，忽略背景光一项，即可获得nerf公式
 $$C(r)=\int_{t_n}^{t_f}T(t)\sigma(r(t))c(r(t),d)dt, \quad where T(t) = exp(-\int_{t_n}^t\sigma(r(s))ds)$$
 ###### 离散
-计算机中无法直接计算积分，我们需要将其离散化，将光路$[0,s]$,划分为N个等间距的区间:$[t_n,t_{n+1}]$,为了简化计算，我们假设每个区间nei
-
+计算机中无法直接计算积分，我们需要将其离散化，将光路$[0,s]$,划分为N个等间距的区间:$[t_n,t_{n+1}]$,为了简化计算，我们假设每个区间内，$\sigma(t)处处等于\sigma_n,C(t)处处等于C_n$
+$$那么I(t_n\rightarrow t_{n+1})=\sigma_nC_n\int_{t_n}^{t_{n+1}}T(t)dt$$
+$$其中T(t)=exp(-\int_0^{t_n}\sigma(u)du)exp(-\int_{t_n}^{t}\sigma(u)du)$$
 
 #### 直接点表示
 
