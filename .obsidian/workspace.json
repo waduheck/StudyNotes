@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "cv基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "cv基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "cv基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随机过程/笔记.md"
+                "file": "cv基础知识.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "76feb24794193a5e",
   "lastOpenFiles": [
+    "README.md",
+    "随机过程/笔记.md",
     "cv基础知识.md",
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
@@ -186,12 +188,10 @@
     "images/平移矩阵.png",
     "images/坐标变换.png",
     "images",
-    "README.md",
     "设计模式",
     "概率论/杂七杂八.md",
     "论文",
     "数字电路/上课笔记.md",
-    "随机过程/笔记.md",
     "置身事内/第一章.md",
     "人工智能导论",
     "数据结构/上课",
