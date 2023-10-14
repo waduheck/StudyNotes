@@ -62,14 +62,17 @@ f_x & s & x_0 \\
 ### 可微分渲染器
 #### 立体渲染（volume rendering）
 https://zhuanlan.zhihu.com/p/595117334
+![[体渲染.webp]]
 ##### 吸收 (absorbing)
 ![[体渲染吸收.webp]]
 $$\frac{dI}{ds}=-\rho(s)AI(s)=-\tau_aI(s)$$
 解微分方程得$$I(s)=I_0exp(-\int_0^s\tau_a(t)dt)$$
-
 ##### 放射
-
+假设单个粒子发射的一束光辐射强度为$I_e$
+$$\frac{dI}{ds}=I_e(s)\rho(s)A=I_e(s)\tau_a(s)$$
 ##### 外散射
+我们用$\tau_s来表示wai san$
+$$\frac{dI}{ds}=-\tau_s(s)I(s)$$
 
 ##### 内散射
 
