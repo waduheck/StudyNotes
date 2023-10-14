@@ -59,10 +59,10 @@ f_x & s & x_0 \\
 ### 光线追踪
 ![[ray casting.png]]
 一条射线可以用公式$r(t)=o+td$ 表示，其中$o$是原点坐标，$d$是方向向量
-### 渲染
+### 可微分渲染器
+#### 立体渲染（volume rendering）
+https://zhuanlan.zhihu.com/p/595117334
 
-#### 体渲染
-##### camera pose and camera matrix
 
 #### 直接点表示
 
