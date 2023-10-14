@@ -87,7 +87,7 @@ $$I(s)=\int_0^sexp(-\int_0^t\tau_t(u)du)[\tau_a(t)I_e(t)+\tau_s(t)I_s(t)dt]+I_0e
 $$I(s)=\int_0^sT(t)\sigma(t)C(t)dt+T(s)I_0$$
 其中$T(s)=exp(-\int_0^s\sigma(t)dt)$
 我们再做简化，忽略背景光一项，即可获得nerf公式
-$$C(r)=\int_{t_n}^{t}$$
+$$C(r)=\int_{t_n}^{t_f}T(t)\sigma(r(t))c(r(t),d)dt, \quad where T(t) = exp(-\int_{t_n}^t\sigma(r(s))$$
 #### 直接点表示
 
 #### SDF
