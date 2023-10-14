@@ -63,18 +63,22 @@ f_x & s & x_0 \\
 #### 立体渲染（volume rendering）
 https://zhuanlan.zhihu.com/p/595117334
 ![[体渲染.webp]]
-##### 吸收 (absorbing)
+##### 吸收absorbing
 ![[体渲染吸收.webp]]
 $$\frac{dI}{ds}=-\rho(s)AI(s)=-\tau_aI(s)$$
 解微分方程得$$I(s)=I_0exp(-\int_0^s\tau_a(t)dt)$$
-##### 放射
+##### 放射emission
 假设单个粒子发射的一束光辐射强度为$I_e$
 $$\frac{dI}{ds}=I_e(s)\rho(s)A=I_e(s)\tau_a(s)$$
-##### 外散射
-我们用$\tau_s来表示wai san$
+##### 外散射out-scattering
+我们用$\tau_s$来表示外散射对光线的削弱比例
 $$\frac{dI}{ds}=-\tau_s(s)I(s)$$
 
-##### 内散射
+##### 内散射in-scattering
+我们认为其他光路的辐射强度是$I_s$
+$$\frac{dI}{ds}=-\tau_s(s)I_s(s)$$
+##### 体渲染方程
+$$$$
 
 
 #### 直接点表示
