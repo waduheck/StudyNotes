@@ -1,4 +1,5 @@
 ## 基础知识
+### 齐次坐标系
 
 ### camera pose and camera matrix
 世界坐标系（world coordinate）：表示物理上的三维世界  
