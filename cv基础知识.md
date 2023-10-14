@@ -94,6 +94,7 @@ $$C(r)=\int_{t_n}^{t_f}T(t)\sigma(r(t))c(r(t),d)dt, \quad where T(t) = exp(-\int
 $$那么I(t_n\rightarrow t_{n+1})=\sigma_nC_n\int_{t_n}^{t_{n+1}}T(t)dt$$
 $$其中T(t)=exp(-\int_0^{t_n}\sigma(u)du)exp(-\int_{t_n}^{t}\sigma(u)du)=T(0\rightarrow t_n)T(t_n \rightarrow t)$$
 将其带回原式子，运算得$$$$那么$$I(t_n\rightarrow t_{n+1})=T(0 \rightarrow t_n)C_n(1-exp(-\sigma_n(t_{n+1 - t_n})))$$
+接下来累加每一段$I(t_n\rightarrow t_{n+1})$,并且离散化$T(0\rightarrow )$
 #### 直接点表示
 
 #### SDF
