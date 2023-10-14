@@ -78,9 +78,10 @@ $$\frac{dI}{ds}=-\tau_s(s)I(s)$$
 我们认为其他光路的辐射强度是$I_s$
 $$\frac{dI}{ds}=-\tau_s(s)I_s(s)$$
 ##### 体渲染方程
-$$$$
-
-
+将上述四个过程综合起来可以得到
+$$\frac{dI}{ds} = -\tau_a(s)I(s)-\tau_s(s)I(s)+\tau_a(s)I_e(s)+\tau_s(s)I_s(s)$$
+为了求解方便，定义$\tau_t = \tau_a + \tau_s$,于是
+$$I(s)=\int_0^sexp(-\int_0^t\tau_t(u)du)[\tau_a(t)I_e(t)+\tau_s(t)I_s(t)dt]+I_0$$
 #### 直接点表示
 
 #### SDF
