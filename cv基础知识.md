@@ -78,6 +78,7 @@ $$\frac{dI}{ds}=-\tau_s(s)I(s)$$
 我们认为其他光路的辐射强度是$I_s$
 $$\frac{dI}{ds}=-\tau_s(s)I_s(s)$$
 ##### 体渲染方程
+###### 连续
 将上述四个过程综合起来可以得到
 $$\frac{dI}{ds} = -\tau_a(s)I(s)-\tau_s(s)I(s)+\tau_a(s)I_e(s)+\tau_s(s)I_s(s)$$
 其中，**吸收**和**外散射**都会削弱光线的辐射强度，并且由于它们都和入射光有关，因此它们共同构成了体渲染中的**衰减项 (attenuation item)，而粒子发光**和**内散射**都来自独立的光源，因此被称为**源项 (source item)**。
@@ -88,6 +89,10 @@ $$I(s)=\int_0^sT(t)\sigma(t)C(t)dt+T(s)I_0$$
 其中$T(s)=exp(-\int_0^s\sigma(t)dt)$
 我们再做简化，忽略背景光一项，即可获得nerf公式
 $$C(r)=\int_{t_n}^{t_f}T(t)\sigma(r(t))c(r(t),d)dt, \quad where T(t) = exp(-\int_{t_n}^t\sigma(r(s))ds)$$
+###### 离散
+计算机中无法直接计算积分，我们需要将其离散化，将光路$[0,s]$,划分为N个等间距的区间:$[t_n,t_{n+1}]$,为了简化计算，我们假设每个区间nei
+
+
 #### 直接点表示
 
 #### SDF
