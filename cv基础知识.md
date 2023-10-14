@@ -96,7 +96,7 @@ $$其中T(t)=exp(-\int_0^{t_n}\sigma(u)du)exp(-\int_{t_n}^{t}\sigma(u)du)=T(0\ri
 将其带回原式子，运算得$$$$那么$$I(t_n\rightarrow t_{n+1})=T(0 \rightarrow t_n)C_n(1-exp(-\sigma_n(t_{n+1 - t_n})))$$
 接下来累加每一段$I(t_n\rightarrow t_{n+1})$,并且离散化$T(0\rightarrow t_n)$
 过程查看 https://zhuanlan.zhihu.com/p/595117334
-结果$$\hat C(r) = \sum_{i=1}^NT_i(1-exp(-\sigma_i\theta_i))c_i,\quad$$
+结果$$\hat C(r) = \sum_{i=1}^NT_i(1-exp(-\sigma_i\theta_i))c_i,\quad where\quad T=exp(-\sum_{j=1}^{i-1}\sigma_j\theta_j)$$
 #### 直接点表示
 
 #### SDF
