@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "随机过程/笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "随机过程/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "随机过程/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cv基础知识.md"
+                "file": "随机过程/笔记.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "76feb24794193a5e",
   "lastOpenFiles": [
+    "cv基础知识.md",
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
     "论文/CV.md",
-    "cv基础知识.md",
     "概率论/上课笔记.md",
     "数据结构/上课/上课笔记.md",
     "数据结构/61B/Lists.md",
