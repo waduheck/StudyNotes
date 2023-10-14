@@ -63,7 +63,7 @@ f_x & s & x_0 \\
 #### 立体渲染（volume rendering）
 https://zhuanlan.zhihu.com/p/595117334
 ##### 吸收 (absorbing)
-$$\frac{dI}{ds}=-\rho(s)AI(s)$ $
+$$\frac{dI}{ds}=-\rho(s)AI(s)=-\tau_a$$
 
 ##### 放射
 
