@@ -84,7 +84,10 @@ $$\frac{dI}{ds} = -\tau_a(s)I(s)-\tau_s(s)I(s)+\tau_a(s)I_e(s)+\tau_s(s)I_s(s)$$
 为了求解方便，定义$\tau_t = \tau_a + \tau_s$,于是
 $$I(s)=\int_0^sexp(-\int_0^t\tau_t(u)du)[\tau_a(t)I_e(t)+\tau_s(t)I_s(t)dt]+I_0exp(-\int_0^s\tau_t(t)dt)$$
 我们进一步大胆假设:**$\tau_t,\tau_a,\tau_s$这些都相等，统一用$\sigma$表示,同时令$C=I_e +I_s$**
-
+$$I(s)=\int_0^sT(t)\sigma(t)C(t)dt+T(s)I_0$$
+其中$T(s)=exp(-\int_0^s\sigma(t)dt)$
+我们再做简化，忽略背景光一项，即可获得nerf公式
+$$C(r)=\int_{t_n}^{t}$$
 #### 直接点表示
 
 #### SDF
