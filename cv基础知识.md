@@ -8,17 +8,28 @@ https://blog.csdn.net/fb_941219/article/details/129838372
 世界坐标系（world coordinate）：表示物理上的三维世界  
 相机坐标系（camera coordinate）：表示虚拟的三维相机坐标  
 图像坐标系（pixel coordinate）：表示二维的图片坐标
-从世界坐标系变换到相机坐标系是刚体变换，只需进行旋转与平移
+从世界坐标系变换到相机坐标系是***刚体变换***，只需进行旋转与平移
 ![[旋转矩阵.png]]
 ![[平移矩阵.png]]
 也就是说$$P_c = R P_w + T \Rightarrow 
 \begin{bmatrix}
-f_x &\\
-0 \\
-0 
+X_c\\
+Y_c\\
+Z_c\\
+1
+\end{bmatrix}= 
+\begin{bmatrix}
+R & T\\
+0 & 1
 \end{bmatrix}
-
-$$，用
+\begin{bmatrix}
+X_w\\
+Y_w\\
+Z_w\\
+1
+\end{bmatrix},R:3*3,T:3*1
+$$
+***外参矩阵***即旋转矩阵与平移矩阵
 ### 光线追踪
 ### 渲染
 
