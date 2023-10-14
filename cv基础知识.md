@@ -83,7 +83,7 @@ $$\frac{dI}{ds} = -\tau_a(s)I(s)-\tau_s(s)I(s)+\tau_a(s)I_e(s)+\tau_s(s)I_s(s)$$
 其中，**吸收**和**外散射**都会削弱光线的辐射强度，并且由于它们都和入射光有关，因此它们共同构成了体渲染中的**衰减项 (attenuation item)，而粒子发光**和**内散射**都来自独立的光源，因此被称为**源项 (source item)**。
 为了求解方便，定义$\tau_t = \tau_a + \tau_s$,于是
 $$I(s)=\int_0^sexp(-\int_0^t\tau_t(u)du)[\tau_a(t)I_e(t)+\tau_s(t)I_s(t)dt]+I_0exp(-\int_0^s\tau_t(t)dt)$$
-我们进一步大胆假设:**$\tau_t,\tau_a,\tau_s$这些都**
+我们进一步大胆假设:**$\tau_t,\tau_a,\tau_s$这些都相等，统一用$\sigma$表示,同时令$C=I_e +I_s$**
 
 #### 直接点表示
 
