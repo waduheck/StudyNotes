@@ -63,7 +63,9 @@ f_x & s & x_0 \\
 #### 立体渲染（volume rendering）
 https://zhuanlan.zhihu.com/p/595117334
 ##### 吸收 (absorbing)
-$$\frac{dI}{ds}=-\rho(s)AI(s)=-\tau_a$$
+![[体渲染吸收.webp]]
+$$\frac{dI}{ds}=-\rho(s)AI(s)=-\tau_aI(s)$$
+解微分方程得$$I(s)=I_0exp(-\int_0^s\tau_a(t)dt)$$
 
 ##### 放射
 
