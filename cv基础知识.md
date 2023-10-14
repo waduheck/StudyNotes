@@ -11,7 +11,14 @@ https://blog.csdn.net/fb_941219/article/details/129838372
 从世界坐标系变换到相机坐标系是刚体变换，只需进行旋转与平移
 ![[旋转矩阵.png]]
 ![[平移矩阵.png]]
+也就是说$$P_c = R P_w + T \Rightarrow 
+\begin{bmatrix}
+f_x &\\
+0 \\
+0 
+\end{bmatrix}
 
+$$，用
 ### 光线追踪
 ### 渲染
 
