@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理.md",
+                "file": "论文/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理.md",
+                "file": "论文/cv/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理.md",
+                "file": "论文/cv/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理.md"
+                "file": "论文/cv/CV.md"
               }
             }
           }
@@ -197,14 +197,14 @@
   },
   "active": "ffd796527691e5d1",
   "lastOpenFiles": [
-    "论文/cv/CV.md",
+    "人工智能导论/上课笔记.md",
     "物理.md",
+    "论文/cv/CV.md",
     "论文/cv/cv基础知识.md",
     "论文/cv",
     "数字电路/上课笔记.md",
     "概率论/上课笔记.md",
     "概率论/杂七杂八.md",
-    "人工智能导论/上课笔记.md",
     "images/体渲染.webp",
     "images/体渲染吸收.webp",
     "README.md",
