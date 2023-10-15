@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/CV.md",
+                "file": "论文/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/CV.md",
+                "file": "论文/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "论文/cv/cv基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "论文/cv/CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffd796527691e5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "物理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "物理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cv基础知识.md"
+                "file": "物理.md"
               }
             }
           }
@@ -183,11 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a6e270dc2ef8c9d",
+  "active": "ffd796527691e5d1",
   "lastOpenFiles": [
-    "论文/CV.md",
+    "论文/cv/CV.md",
+    "物理.md",
+    "论文/cv/cv基础知识.md",
+    "论文/cv",
     "数字电路/上课笔记.md",
-    "cv基础知识.md",
     "概率论/上课笔记.md",
     "概率论/杂七杂八.md",
     "人工智能导论/上课笔记.md",
@@ -214,7 +228,6 @@
     "数字电路",
     "概率论",
     "随机过程",
-    "置身事内",
     "61B/IntList and SLList.png"
   ]
 }
