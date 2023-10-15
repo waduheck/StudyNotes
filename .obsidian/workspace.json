@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a6e270dc2ef8c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "论文/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cv基础知识.md",
+                "file": "论文/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cv基础知识.md"
+                "file": "论文/CV.md"
               }
             }
           }
@@ -171,7 +183,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76feb24794193a5e",
+  "active": "9a6e270dc2ef8c9d",
   "lastOpenFiles": [
     "概率论/上课笔记.md",
     "概率论/杂七杂八.md",
