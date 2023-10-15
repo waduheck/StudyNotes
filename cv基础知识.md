@@ -104,6 +104,7 @@ $$其中T(t)=exp(-\int_0^{t_n}\sigma(u)du)exp(-\int_{t_n}^{t}\sigma(u)du)=T(0\ri
 
 ### ray warping function
 
-### Level sets method
-
+### 水平集算法
+https://blog.csdn.net/webzhuce/article/details/101120185
+https://blog.csdn.net/thedha3ege/article/details/103038173
 ### SFM

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/CV.md",
+                "file": "cv基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/CV.md",
+                "file": "cv基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/CV.md",
+                "file": "cv基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/CV.md"
+                "file": "cv基础知识.md"
               }
             }
           }
@@ -185,9 +185,9 @@
   },
   "active": "9a6e270dc2ef8c9d",
   "lastOpenFiles": [
+    "论文/CV.md",
     "数字电路/上课笔记.md",
     "cv基础知识.md",
-    "论文/CV.md",
     "概率论/上课笔记.md",
     "概率论/杂七杂八.md",
     "人工智能导论/上课笔记.md",
