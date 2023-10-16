@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖.md",
+                "file": "随机过程/笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖.md",
+                "file": "随机过程/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖.md",
+                "file": "随机过程/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖.md"
+                "file": "随机过程/笔记.md"
               }
             }
           }
@@ -209,11 +209,11 @@
   },
   "active": "bb52719c6103ec82",
   "lastOpenFiles": [
-    "论文/cv/CV.md",
+    "人工智能导论/上课笔记.md",
     "数理大乱炖.md",
+    "论文/cv/CV.md",
     "啊",
     "数学",
-    "人工智能导论/上课笔记.md",
     "物理.md",
     "论文/cv/cv基础知识.md",
     "论文/cv",
