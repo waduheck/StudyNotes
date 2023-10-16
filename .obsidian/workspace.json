@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "数学/概率论/上课笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "数学/概率论/上课笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随机过程/笔记.md",
+                "file": "数学/概率论/上课笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随机过程/笔记.md"
+                "file": "数学/概率论/上课笔记.md"
               }
             }
           }
@@ -209,6 +209,9 @@
   },
   "active": "bb52719c6103ec82",
   "lastOpenFiles": [
+    "数学/概率论/杂七杂八.md",
+    "数学/概率论/上课笔记.md",
+    "数学/随机过程/笔记.md",
     "人工智能导论/上课笔记.md",
     "数理大乱炖.md",
     "论文/cv/CV.md",
@@ -218,12 +221,9 @@
     "论文/cv/cv基础知识.md",
     "论文/cv",
     "数字电路/上课笔记.md",
-    "数学/概率论/上课笔记.md",
-    "数学/概率论/杂七杂八.md",
     "images/体渲染.webp",
     "images/体渲染吸收.webp",
     "README.md",
-    "随机过程/笔记.md",
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
     "数据结构/上课/上课笔记.md",
