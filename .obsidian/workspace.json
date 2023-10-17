@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/cv/CV.md",
+                "file": "数据结构/上课/上课笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/cv/CV.md",
+                "file": "数据结构/上课/上课笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/cv/CV.md",
+                "file": "数据结构/上课/上课笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/cv/CV.md"
+                "file": "数据结构/上课/上课笔记.md"
               }
             }
           }
@@ -257,6 +257,7 @@
   },
   "active": "08f9fcb558e4abce",
   "lastOpenFiles": [
+    "论文/cv/CV.md",
     "数理大乱炖/数理大乱炖.md",
     "数理大乱炖/微分方程.md",
     "数理大乱炖/微分几何.md",
@@ -268,7 +269,6 @@
     "数学/概率论/杂七杂八.md",
     "数学/随机过程/笔记.md",
     "人工智能导论/上课笔记.md",
-    "论文/cv/CV.md",
     "啊",
     "数学",
     "物理.md",
