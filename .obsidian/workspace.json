@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08f9fcb558e4abce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数理大乱炖/微分几何.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数理大乱炖/微分几何.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数理大乱炖/微分几何.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/线性代数.md"
+                "file": "数理大乱炖/微分几何.md"
               }
             }
           }
@@ -243,13 +255,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c2cbec533685736",
+  "active": "08f9fcb558e4abce",
   "lastOpenFiles": [
+    "数理大乱炖/线性代数.md",
     "数理大乱炖/微分几何.md",
     "数理大乱炖/数理大乱炖.md",
-    "数理大乱炖/线性代数.md",
-    "数理大乱炖",
+    "数理大乱炖/微分方程.md",
     "数据处理.md",
+    "数理大乱炖",
     "数学/概率论/上课笔记.md",
     "数学/概率论/杂七杂八.md",
     "数学/随机过程/笔记.md",
