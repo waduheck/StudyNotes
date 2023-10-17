@@ -29,7 +29,7 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 #### 动态场景：
 ##### D- NeRF
 将时间加入变量，引入形变场
-
+##### Nerfies
 ##### Hyper NeRF
 https://blog.csdn.net/weixin_50973728/article/details/126628235
 参考DeepSDF与nerf

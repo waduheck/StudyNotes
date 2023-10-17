@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/上课/上课笔记.md",
+                "file": "论文/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/上课/上课笔记.md",
+                "file": "论文/cv/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/上课/上课笔记.md",
+                "file": "论文/cv/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/上课/上课笔记.md"
+                "file": "论文/cv/CV.md"
               }
             }
           }
@@ -257,10 +257,11 @@
   },
   "active": "08f9fcb558e4abce",
   "lastOpenFiles": [
-    "数理大乱炖/微分几何.md",
-    "数理大乱炖/线性代数.md",
     "数理大乱炖/数理大乱炖.md",
     "数理大乱炖/微分方程.md",
+    "数理大乱炖/微分几何.md",
+    "数据结构/上课/上课笔记.md",
+    "数理大乱炖/线性代数.md",
     "数据处理.md",
     "数理大乱炖",
     "数学/概率论/上课笔记.md",
@@ -279,7 +280,6 @@
     "README.md",
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
-    "数据结构/上课/上课笔记.md",
     "数据结构/61B/Lists.md",
     "images/旋转矩阵.png",
     "images/透视投影.png",
