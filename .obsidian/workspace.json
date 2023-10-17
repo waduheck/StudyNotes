@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数字电路/上课笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00ea76b9a76a1e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数理大乱炖/微分几何.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数理大乱炖/微分几何.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数理大乱炖/微分几何.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/线性代数.md"
+                "file": "数理大乱炖/微分几何.md"
               }
             }
           }
@@ -146,27 +159,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "279baaaaff21925f",
+  "active": "00ea76b9a76a1e33",
   "lastOpenFiles": [
-    "数理大乱炖/数理大乱炖.md",
+    "数理大乱炖/随机过程.md",
     "数理大乱炖/流形,李群及刚体变换.md",
-    "数理大乱炖/微分几何.md",
+    "惩罚函数.md",
+    "数字电路/上课笔记.md",
     "数理大乱炖/线性代数.md",
+    "未命名",
+    "数理大乱炖/数理大乱炖.md",
+    "数理大乱炖/微分几何.md",
     "论文/cv/CV.md",
     "论文/cv/cv基础知识.md",
     "数理大乱炖/微分方程.md",
     "数据结构/上课/上课笔记.md",
     "数据处理.md",
     "数理大乱炖",
-    "数学/概率论/上课笔记.md",
-    "数学/概率论/杂七杂八.md",
-    "数学/随机过程/笔记.md",
+    "数理大乱炖/概率论/上课笔记.md",
+    "数理大乱炖/概率论/杂七杂八.md",
     "人工智能导论/上课笔记.md",
     "啊",
     "数学",
     "物理.md",
     "论文/cv",
-    "数字电路/上课笔记.md",
     "images/体渲染.webp",
     "images/体渲染吸收.webp",
     "README.md",
@@ -184,7 +199,6 @@
     "人工智能导论",
     "数据结构/上课",
     "数据结构/61B/IntListandSLList.png",
-    "数据结构",
     "61B/IntList and SLList.png"
   ]
 }
