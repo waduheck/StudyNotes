@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/微分几何.md",
+                "file": "惩罚函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/微分几何.md",
+                "file": "惩罚函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/微分几何.md",
+                "file": "惩罚函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/微分几何.md"
+                "file": "惩罚函数.md"
               }
             }
           }
@@ -161,19 +161,19 @@
   },
   "active": "00ea76b9a76a1e33",
   "lastOpenFiles": [
-    "数理大乱炖/随机过程.md",
-    "数理大乱炖/流形,李群及刚体变换.md",
+    "数据处理.md",
     "惩罚函数.md",
+    "数理大乱炖/数理大乱炖.md",
+    "数理大乱炖/随机过程.md",
+    "数理大乱炖/微分方程.md",
+    "数理大乱炖/微分几何.md",
+    "数理大乱炖/流形,李群及刚体变换.md",
     "数字电路/上课笔记.md",
     "数理大乱炖/线性代数.md",
     "未命名",
-    "数理大乱炖/数理大乱炖.md",
-    "数理大乱炖/微分几何.md",
     "论文/cv/CV.md",
     "论文/cv/cv基础知识.md",
-    "数理大乱炖/微分方程.md",
     "数据结构/上课/上课笔记.md",
-    "数据处理.md",
     "数理大乱炖",
     "数理大乱炖/概率论/上课笔记.md",
     "数理大乱炖/概率论/杂七杂八.md",
