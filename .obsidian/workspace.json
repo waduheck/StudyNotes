@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "279baaaaff21925f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数理大乱炖/流形,李群及刚体变换.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数理大乱炖/流形,李群及刚体变换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/线性代数.md",
+                "file": "数理大乱炖/流形,李群及刚体变换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/线性代数.md"
+                "file": "数理大乱炖/流形,李群及刚体变换.md"
               }
             }
           }
@@ -255,14 +267,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "279baaaaff21925f",
   "lastOpenFiles": [
+    "数理大乱炖/线性代数.md",
+    "数理大乱炖/流形,李群及刚体变换.md",
     "数理大乱炖/微分几何.md",
     "数理大乱炖/微分方程.md",
     "数据结构/上课/上课笔记.md",
     "论文/cv/CV.md",
     "数理大乱炖/数理大乱炖.md",
-    "数理大乱炖/线性代数.md",
     "数据处理.md",
     "数理大乱炖",
     "数学/概率论/上课笔记.md",
