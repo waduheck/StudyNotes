@@ -123,3 +123,5 @@ https://blog.csdn.net/thedha3ege/article/details/103038173
 3. 避免视频中由于移动物体引起的背景错位或误对齐问题。
 ### Camera Registration
 利用COLMAP软件
+###   "Local Light Field Fusion"（LLFF）
+是一种与光场摄影和计算摄影学有关的技术和方法。它旨在从多个视点捕获的图像数据中合成高质量的三维场景表示。这个技术的目标是生成逼真的三维重建，以便在计算机图形、虚拟现实、增强现实等领域中应用。
