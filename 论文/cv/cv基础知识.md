@@ -110,12 +110,16 @@ https://blog.csdn.net/thedha3ege/article/details/103038173
 ### SFM
 ### Coarse-to-Fine
 
-### Foreground Segmentation
-In some cases, SfM will match
-features on the moving subject, causing significant misalign
-ment in the background. This is problematic in video cap
-tures with correlated frames. In those cases, we found it
-helpful to discard image features on the subject, which can
-be detected using a foreground segmentation network
+### 前景分割
+在SfM中，图像的特征点被匹配以重建3D结构和相机的运动。但是，当场景中有移动的对象（例如行走的人或移动的车辆）时，SfM可能会匹配到这些移动对象上的特征点。这样做会导致背景的重建出现显著的错位或误对齐，尤其是在视频序列中，帧与帧之间有相互关联时。
+
+为了解决这个问题，前景分割被引入。前景分割的目的是在图像中识别并分割出前景移动物体（例如人或车辆）和背景。
+
+在给定的文本中，为了提高SfM的准确性，使用了前景分割网络来检测并丢弃在移动物体（或主体）上的图像特征。这样，SfM就可以主要关注背景上的特征，从而更准确地重建背景和计算相机的运动。
+
+总之，这一步的主要用途是：
+1. 识别并丢弃前景移动物体上的特征点。
+2. 提高背景的3D重建和相机运动估计的准确性。
+3. 避免视频中由于移动物体引起的背景错位或误对齐问题。
 ### Camera Registration
 利用COLMAP软件

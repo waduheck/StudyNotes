@@ -32,7 +32,7 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 ##### Nerfies
 https://blog.csdn.net/weixin_50973728/article/details/126542258
 https://zhuanlan.zhihu.com/p/532319893
-变形场：SO(3)与SE(3)
+引入变形场：SO(3)与SE(3)
 正则化：
 1. 弹性正则
 2. 背景正则
