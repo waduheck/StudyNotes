@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "惩罚函数.md",
+                "file": "论文/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "惩罚函数.md",
+                "file": "论文/cv/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "惩罚函数.md",
+                "file": "论文/cv/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "惩罚函数.md"
+                "file": "论文/cv/CV.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "00ea76b9a76a1e33",
   "lastOpenFiles": [
-    "数据处理.md",
     "惩罚函数.md",
+    "数据处理.md",
     "数理大乱炖/数理大乱炖.md",
     "数理大乱炖/随机过程.md",
     "数理大乱炖/微分方程.md",

@@ -32,6 +32,7 @@ GIRAFFE提出将场景表示为合成的neural feature fields，它可以控制�
 ##### Nerfies
 https://blog.csdn.net/weixin_50973728/article/details/126542258
 https://zhuanlan.zhihu.com/p/532319893
+变形场：SO(3)与SE(3)
 ##### Hyper NeRF
 https://blog.csdn.net/weixin_50973728/article/details/126628235
 参考DeepSDF与nerf
