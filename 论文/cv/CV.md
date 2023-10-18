@@ -36,7 +36,7 @@ https://zhuanlan.zhihu.com/p/532319893
 正则化：
 1. 弹性正则
 2. 背景正则
-3. C2F
+3. C2F, 退火ntk
 ##### Hyper NeRF
 https://blog.csdn.net/weixin_50973728/article/details/126628235
 参考DeepSDF与nerf
