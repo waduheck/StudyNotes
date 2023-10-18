@@ -109,3 +109,13 @@ https://blog.csdn.net/webzhuce/article/details/101120185
 https://blog.csdn.net/thedha3ege/article/details/103038173
 ### SFM
 ### Coarse-to-Fine
+
+### Foreground Segmentation
+In some cases, SfM will match
+features on the moving subject, causing significant misalign
+ment in the background. This is problematic in video cap
+tures with correlated frames. In those cases, we found it
+helpful to discard image features on the subject, which can
+be detected using a foreground segmentation network
+### Camera Registration
+利用COLMAP软件
