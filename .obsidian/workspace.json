@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d89ff1b842bd2ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/cv/cv基础知识.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/cv/cv基础知识.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/cv/cv基础知识.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -159,12 +171,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00ea76b9a76a1e33",
+  "active": "d89ff1b842bd2ad9",
   "lastOpenFiles": [
+    "论文/cv/cv基础知识.md",
+    "未命名.md",
     "信号处理.md",
     "惩罚函数.md",
     "论文/cv/CV.md",
-    "论文/cv/cv基础知识.md",
     "物理.md",
     "数理大乱炖/随机过程.md",
     "数理大乱炖/数理大乱炖.md",
