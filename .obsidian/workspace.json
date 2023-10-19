@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "468465e36f6e7f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数理大乱炖/线性代数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,13 +207,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a5ff9b669dc18e9",
+  "active": "468465e36f6e7f74",
   "lastOpenFiles": [
+    "环境配置.md",
+    "数理大乱炖/未命名.md",
+    "数理大乱炖/线性代数.md",
     "论文/代码精读任务.md",
     "数理大乱炖/随机过程.md",
     "数理大乱炖/数理大乱炖.md",
     "数理大乱炖/流形,李群及刚体变换.md",
-    "数理大乱炖/线性代数.md",
     "数理大乱炖/微分几何.md",
     "数理大乱炖/微分方程.md",
     "论文/cv/cv基础知识.md",
@@ -212,7 +226,6 @@
     "人工智能导论/上课笔记.md",
     "论文/cv/CV.md",
     "惩罚函数.md",
-    "环境配置.md",
     "信号处理.md",
     "物理.md",
     "数字电路/上课笔记.md",
