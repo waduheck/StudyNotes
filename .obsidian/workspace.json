@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a5ff9b669dc18e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "接口与继承.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/61B/Lists.md",
+                "file": "接口与继承.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/61B/Lists.md",
+                "file": "接口与继承.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/61B/Lists.md"
+                "file": "接口与继承.md"
               }
             }
           }
@@ -183,8 +195,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a7642b274e86270",
+  "active": "1a5ff9b669dc18e9",
   "lastOpenFiles": [
+    "数据结构/61B/Lists.md",
+    "接口与继承.md",
     "数据结构/61B/IntListandSLList.png",
     "人工智能导论/上课笔记.md",
     "论文/cv/CV.md",
@@ -214,7 +228,6 @@
     "README.md",
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
-    "数据结构/61B/Lists.md",
     "images/旋转矩阵.png",
     "images/透视投影.png",
     "images/平移矩阵.png",
