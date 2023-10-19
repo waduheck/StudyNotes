@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "环境配置.md",
+                "file": "数据结构/61B/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "环境配置.md",
+                "file": "数据结构/61B/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "环境配置.md",
+                "file": "数据结构/61B/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "环境配置.md"
+                "file": "数据结构/61B/Lists.md"
               }
             }
           }
@@ -185,12 +185,14 @@
   },
   "active": "7a7642b274e86270",
   "lastOpenFiles": [
+    "数据结构/61B/IntListandSLList.png",
+    "人工智能导论/上课笔记.md",
     "论文/cv/CV.md",
-    "环境配置.md",
     "论文/cv/cv基础知识.md",
+    "惩罚函数.md",
+    "环境配置.md",
     "论文/代码精读任务.md",
     "信号处理.md",
-    "惩罚函数.md",
     "物理.md",
     "数理大乱炖/随机过程.md",
     "数理大乱炖/数理大乱炖.md",
@@ -204,7 +206,6 @@
     "数理大乱炖",
     "数理大乱炖/概率论/上课笔记.md",
     "数理大乱炖/概率论/杂七杂八.md",
-    "人工智能导论/上课笔记.md",
     "啊",
     "数学",
     "论文/cv",
@@ -224,7 +225,6 @@
     "置身事内/第一章.md",
     "人工智能导论",
     "数据结构/上课",
-    "数据结构/61B/IntListandSLList.png",
     "61B/IntList and SLList.png"
   ]
 }
