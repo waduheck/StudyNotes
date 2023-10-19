@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/数理大乱炖.md",
+                "file": "数理大乱炖/随机过程.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/数理大乱炖.md",
+                "file": "数理大乱炖/随机过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/数理大乱炖.md",
+                "file": "数理大乱炖/随机过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/数理大乱炖.md"
+                "file": "数理大乱炖/随机过程.md"
               }
             }
           }
@@ -197,8 +197,12 @@
   },
   "active": "1a5ff9b669dc18e9",
   "lastOpenFiles": [
-    "数理大乱炖/微分方程.md",
+    "数理大乱炖/数理大乱炖.md",
+    "数理大乱炖/流形,李群及刚体变换.md",
+    "数理大乱炖/线性代数.md",
     "数理大乱炖/微分几何.md",
+    "数理大乱炖/微分方程.md",
+    "数理大乱炖/随机过程.md",
     "论文/代码精读任务.md",
     "论文/cv/cv基础知识.md",
     "接口与继承.md",
@@ -211,11 +215,7 @@
     "环境配置.md",
     "信号处理.md",
     "物理.md",
-    "数理大乱炖/随机过程.md",
-    "数理大乱炖/数理大乱炖.md",
-    "数理大乱炖/流形,李群及刚体变换.md",
     "数字电路/上课笔记.md",
-    "数理大乱炖/线性代数.md",
     "未命名",
     "数据结构/上课/上课笔记.md",
     "数理大乱炖",
