@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "接口与继承.md",
+                "file": "论文/cv/cv基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "接口与继承.md",
+                "file": "论文/cv/cv基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "接口与继承.md",
+                "file": "论文/cv/cv基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接口与继承.md"
+                "file": "论文/cv/cv基础知识.md"
               }
             }
           }
@@ -197,9 +197,9 @@
   },
   "active": "1a5ff9b669dc18e9",
   "lastOpenFiles": [
+    "接口与继承.md",
     "images/is-a.png",
     "数据结构/61B/Lists.md",
-    "接口与继承.md",
     "数据结构/61B/IntListandSLList.png",
     "人工智能导论/上课笔记.md",
     "论文/cv/CV.md",
@@ -238,7 +238,6 @@
     "论文",
     "置身事内/第一章.md",
     "人工智能导论",
-    "数据结构/上课",
-    "61B/IntList and SLList.png"
+    "数据结构/上课"
   ]
 }
