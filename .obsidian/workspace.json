@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/未命名.md",
+                "file": "物理.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "惩罚函数.md",
+                "file": "人工智能/惩罚函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/未命名.md",
+                "file": "物理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/未命名.md",
+                "file": "物理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/未命名.md"
+                "file": "物理.md"
               }
             }
           }
@@ -243,18 +243,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "99dbcf5cf2d8219d",
+  "active": "70a1cf98edfbe078",
   "lastOpenFiles": [
+    "未命名.md",
+    "数据结构/61B/接口与继承.md",
+    "环境配置.md",
+    "人工智能/注意力机制.md",
     "人工智能/ViT.md",
-    "人工智能/未命名.md",
     "人工智能/杂七杂八.md",
     "人工智能/cv/CV.md",
-    "未命名.md",
     "人工智能",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
     "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
-    "惩罚函数.md",
+    "人工智能/惩罚函数.md",
     "数理大乱炖/微分几何/曲面.md",
     "数理大乱炖/微分几何/曲线.md",
     "数理大乱炖/随机过程.md",
@@ -268,15 +270,13 @@
     "slam.md",
     "SLAM",
     "人工智能/cv/cv基础知识.md",
-    "信号处理.md",
+    "人工智能/信号处理.md",
     "数据结构/上课/上课笔记.md",
     "数据结构/61B/Lists.md",
     "置身事内/第一章.md",
     "数理大乱炖/微分几何",
     "数理大乱炖/数理大乱炖.md",
-    "环境配置.md",
     "论文/代码精读任务.md",
-    "接口与继承.md",
     "images/is-a.png",
     "数据结构/61B/IntListandSLList.png",
     "数理大乱炖",
