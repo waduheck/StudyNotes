@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理.md",
+                "file": "人工智能/注意力机制.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理.md",
+                "file": "人工智能/注意力机制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理.md",
+                "file": "人工智能/注意力机制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理.md"
+                "file": "人工智能/注意力机制.md"
               }
             }
           }
@@ -243,8 +243,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
+    "物理.md",
     "未命名.md",
     "数据结构/61B/接口与继承.md",
     "环境配置.md",
@@ -276,7 +277,6 @@
     "置身事内/第一章.md",
     "数理大乱炖/微分几何",
     "数理大乱炖/数理大乱炖.md",
-    "论文/代码精读任务.md",
     "images/is-a.png",
     "数据结构/61B/IntListandSLList.png",
     "数理大乱炖",
