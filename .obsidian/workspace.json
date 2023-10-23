@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/杂七杂八.md",
+                "file": "人工智能/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/杂七杂八.md",
+                "file": "人工智能/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/杂七杂八.md",
+                "file": "人工智能/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/杂七杂八.md"
+                "file": "人工智能/未命名.md"
               }
             }
           }
@@ -246,6 +246,7 @@
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
     "人工智能/ViT.md",
+    "人工智能/未命名.md",
     "人工智能/杂七杂八.md",
     "人工智能/cv/CV.md",
     "未命名.md",
@@ -278,7 +279,6 @@
     "接口与继承.md",
     "images/is-a.png",
     "数据结构/61B/IntListandSLList.png",
-    "人工智能导论/上课笔记.md",
     "数理大乱炖",
     "啊",
     "数学",
