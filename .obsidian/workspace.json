@@ -245,6 +245,9 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
+    "images/多头注意力.svg",
+    "images/多头注意力.png",
+    "images/未确认 895955.crdownload",
     "物理.md",
     "未命名.md",
     "数据结构/61B/接口与继承.md",
@@ -276,7 +279,6 @@
     "数据结构/61B/Lists.md",
     "置身事内/第一章.md",
     "数理大乱炖/微分几何",
-    "数理大乱炖/数理大乱炖.md",
     "images/is-a.png",
     "数据结构/61B/IntListandSLList.png",
     "数理大乱炖",
@@ -288,8 +290,6 @@
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
     "images/旋转矩阵.png",
-    "images/透视投影.png",
-    "images",
-    "设计模式"
+    "images"
   ]
 }
