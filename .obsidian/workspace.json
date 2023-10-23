@@ -245,8 +245,9 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
-    "images/多头注意力.svg",
     "images/多头注意力.png",
+    "多头注意力.png",
+    "images/多头注意力.svg",
     "images/未确认 895955.crdownload",
     "物理.md",
     "未命名.md",
@@ -289,7 +290,6 @@
     "images/体渲染吸收.webp",
     "images/5c53198d6ddc4015b1504af576f06049.png",
     "images/ray casting.png",
-    "images/旋转矩阵.png",
     "images"
   ]
 }
