@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "惩罚函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "惩罚函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "惩罚函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md"
+                "file": "惩罚函数.md"
               }
             }
           }
@@ -231,10 +231,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
-    "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+    "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "images/常见变换的性质比较.png",
     "常见变换的性质比较.png",
     "数理大乱炖/概率论/杂七杂八.md",
