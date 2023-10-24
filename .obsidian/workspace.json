@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "人工智能/ViT.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "人工智能/ViT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "人工智能/ViT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md"
+                "file": "人工智能/ViT.md"
               }
             }
           }
@@ -233,8 +233,10 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
-    "数理大乱炖/矩阵分析.md",
+    "images/vit动画.gif",
+    "images/vit动画.gif.crdownload",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+    "数理大乱炖/矩阵分析.md",
     "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
     "images/指数与对数映射.png",
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
@@ -259,7 +261,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/jquery.min.js",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/index.min.js",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/hm.js",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/github-markdown.css",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/6184e14b2ab3f51d912026fc.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/60ebc1765132923bf88a64f9.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29a8ac2a9a83be55ea47e.jpg",
@@ -277,7 +278,6 @@
     "数理大乱炖/微分方程.md",
     "数理大乱炖/线性代数.md",
     "数理大乱炖/概率论/杂七杂八.md",
-    "数理大乱炖/概率论/上课笔记.md",
-    "slam.md"
+    "数理大乱炖/概率论/上课笔记.md"
   ]
 }
