@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/yolo.md",
+                "file": "人工智能/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/yolo.md",
+                "file": "人工智能/cv/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/yolo.md",
+                "file": "人工智能/cv/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/yolo.md"
+                "file": "人工智能/cv/CV.md"
               }
             }
           }
@@ -233,8 +233,9 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
-    "人工智能/注意力机制.md",
+    "人工智能/信号处理.md",
     "人工智能/yolo.md",
+    "人工智能/注意力机制.md",
     "人工智能/杂七杂八.md",
     "人工智能/惩罚函数.md",
     "人工智能/ViT.md",
@@ -243,7 +244,6 @@
     "未命名.md",
     "1灵感，有空来做",
     "数字电路/学习灵感，有空来搞",
-    "人工智能/信号处理.md",
     "images/vit动画.gif",
     "images/vit动画.gif.crdownload",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
