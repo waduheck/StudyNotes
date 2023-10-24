@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "数理大乱炖/矩阵分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "数理大乱炖/矩阵分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+                "file": "数理大乱炖/矩阵分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/流形,李群及刚体变换/李群与李代数.md"
+                "file": "数理大乱炖/矩阵分析.md"
               }
             }
           }
@@ -233,10 +233,11 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
-    "images/指数与对数映射.png",
-    "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
-    "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
+    "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
+    "数理大乱炖/矩阵分析.md",
+    "images/指数与对数映射.png",
+    "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数据结构/上课/二叉树.md",
     "数据结构/上课/上课笔记.md",
     "未命名 1.md",
@@ -267,7 +268,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea296f0c2a9a83be55a5633.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea295c1c2a9a83be558eecd.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29582c2a9a83be558a1c7.jpg",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29480c2a9a83be557541f.jpg",
     "物理.md",
     "数据结构/61B/接口与继承.md",
     "环境配置.md",
