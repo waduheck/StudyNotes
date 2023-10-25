@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "人工智能/杂七杂八.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "人工智能/杂七杂八.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "人工智能/杂七杂八.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md"
+                "file": "人工智能/杂七杂八.md"
               }
             }
           }
@@ -233,6 +233,7 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
+    "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/cv/CV.md",
     "人工智能/信号处理.md",
     "人工智能/yolo.md",
@@ -240,7 +241,6 @@
     "人工智能/杂七杂八.md",
     "人工智能/惩罚函数.md",
     "人工智能/ViT.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "未命名.md",
     "1灵感，有空来做",
     "数字电路/学习灵感，有空来搞",
