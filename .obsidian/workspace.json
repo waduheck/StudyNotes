@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/信号处理.md",
+                "file": "人工智能/网络架构.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/信号处理.md",
+                "file": "人工智能/网络架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/信号处理.md",
+                "file": "人工智能/网络架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/信号处理.md"
+                "file": "人工智能/网络架构.md"
               }
             }
           }
@@ -233,6 +233,7 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
+    "人工智能/信号处理.md",
     "人工智能/各个领域.md",
     "数理大乱炖/概率论/多变量.md",
     "数理大乱炖/概率论/杂七杂八.md",
@@ -243,7 +244,6 @@
     "人工智能/cv/CV.md",
     "人工智能/惩罚函数.md",
     "人工智能/网络架构.md",
-    "人工智能/信号处理.md",
     "人工智能/cv/cv基础知识.md",
     "人工智能/cv/滤波器.md",
     "人工智能/杂七杂八.md",
