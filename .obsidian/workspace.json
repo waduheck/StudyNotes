@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "人工智能/信号处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "人工智能/信号处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "人工智能/信号处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md"
+                "file": "人工智能/信号处理.md"
               }
             }
           }
@@ -233,16 +233,19 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
+    "人工智能/各个领域.md",
+    "数理大乱炖/概率论/多变量.md",
+    "数理大乱炖/概率论/杂七杂八.md",
+    "数理大乱炖/概率论/上课笔记.md",
+    "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/ViT.md",
     "人工智能/yolo.md",
     "人工智能/cv/CV.md",
-    "人工智能/各个领域.md",
     "人工智能/惩罚函数.md",
     "人工智能/网络架构.md",
     "人工智能/信号处理.md",
     "人工智能/cv/cv基础知识.md",
     "人工智能/cv/滤波器.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/杂七杂八.md",
     "人工智能/注意力机制.md",
     "数理大乱炖/矩阵分析.md",
@@ -275,9 +278,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea296f0c2a9a83be55a5633.jpg",
     "物理.md",
     "数据结构/61B/接口与继承.md",
-    "环境配置.md",
-    "数理大乱炖/微分几何/曲面.md",
-    "数理大乱炖/微分几何/曲线.md",
-    "数理大乱炖/随机过程.md"
+    "环境配置.md"
   ]
 }
