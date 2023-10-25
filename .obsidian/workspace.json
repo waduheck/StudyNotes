@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/各个领域.md",
+                "file": "数理大乱炖/矩阵分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/各个领域.md",
+                "file": "数理大乱炖/矩阵分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/各个领域.md",
+                "file": "数理大乱炖/矩阵分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/各个领域.md"
+                "file": "数理大乱炖/矩阵分析.md"
               }
             }
           }
@@ -233,12 +233,12 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
+    "1灵感，有空来做/偶然碰到的知识点.md",
+    "人工智能/各个领域.md",
     "images/图像分割.png",
     "人工智能/信号处理.md",
-    "人工智能/各个领域.md",
     "人工智能/惩罚函数.md",
     "人工智能/cv/cv基础知识.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/杂七杂八.md",
     "人工智能/cv/CV.md",
     "人工智能/yolo.md",
@@ -271,7 +271,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29a5ac2a9a83be55e6d0f.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29902c2a9a83be55cdc7b.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea296f0c2a9a83be55a5633.jpg",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea295c1c2a9a83be558eecd.jpg",
     "物理.md",
     "数据结构/61B/接口与继承.md",
     "环境配置.md",
