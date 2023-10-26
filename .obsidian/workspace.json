@@ -221,12 +221,15 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "images/VAE损失函数.png",
+    "人工智能/损失函数.md",
+    "人工智能/路径规划算法.md",
+    "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
+    "人工智能/网络架构.md",
+    "images/高斯混合模型.jpeg",
     "人工智能/信号处理.md",
     "人工智能/杂七杂八.md",
     "人工智能/注意力机制.md",
-    "人工智能/损失函数.md",
-    "人工智能/网络架构.md",
-    "人工智能/路径规划算法.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
     "数理大乱炖/概率论/杂七杂八.md",
     "人工智能/各个领域.md",
@@ -245,7 +248,6 @@
     "数字电路/学习灵感，有空来搞",
     "images/vit动画.gif",
     "images/vit动画.gif.crdownload",
-    "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
     "images/指数与对数映射.png",
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数据结构/上课/二叉树.md",
@@ -264,8 +266,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29a8ac2a9a83be55ea47e.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29a5ac2a9a83be55e6d0f.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29902c2a9a83be55cdc7b.jpg",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea296f0c2a9a83be55a5633.jpg",
-    "物理.md",
-    "数据结构/61B/接口与继承.md"
+    "物理.md"
   ]
 }
