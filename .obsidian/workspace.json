@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/网络架构.md",
+                "file": "人工智能/路径规划算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/网络架构.md",
+                "file": "人工智能/路径规划算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/网络架构.md",
+                "file": "人工智能/路径规划算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/网络架构.md"
+                "file": "人工智能/路径规划算法.md"
               }
             }
           }
@@ -233,8 +233,9 @@
   },
   "active": "99dbcf5cf2d8219d",
   "lastOpenFiles": [
-    "人工智能/各个领域.md",
     "人工智能/网络架构.md",
+    "人工智能/路径规划算法.md",
+    "人工智能/各个领域.md",
     "人工智能/信号处理.md",
     "数理大乱炖/概率论/多变量.md",
     "数理大乱炖/概率论/杂七杂八.md",
@@ -277,7 +278,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29902c2a9a83be55cdc7b.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea296f0c2a9a83be55a5633.jpg",
     "物理.md",
-    "数据结构/61B/接口与继承.md",
-    "环境配置.md"
+    "数据结构/61B/接口与继承.md"
   ]
 }
