@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/杂七杂八.md",
+                "file": "数据结构/上课/二叉树.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/杂七杂八.md",
+                "file": "数据结构/上课/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/杂七杂八.md",
+                "file": "数据结构/上课/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/杂七杂八.md"
+                "file": "数据结构/上课/二叉树.md"
               }
             }
           }
@@ -221,6 +221,8 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "数理大乱炖/概率论/杂七杂八.md",
+    "images/二叉树遍历顺序.png",
     "数理大乱炖/概率论/上课笔记.md",
     "人工智能/网络架构.md",
     "images/VAE损失函数.png",
@@ -232,7 +234,6 @@
     "人工智能/杂七杂八.md",
     "人工智能/注意力机制.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
-    "数理大乱炖/概率论/杂七杂八.md",
     "人工智能/各个领域.md",
     "数理大乱炖/概率论/多变量.md",
     "1灵感，有空来做/偶然碰到的知识点.md",
@@ -264,7 +265,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/6184e14b2ab3f51d912026fc.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/60ebc1765132923bf88a64f9.jpg",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29a8ac2a9a83be55ea47e.jpg",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/5ea29a5ac2a9a83be55e6d0f.jpg",
     "物理.md"
   ]
 }
