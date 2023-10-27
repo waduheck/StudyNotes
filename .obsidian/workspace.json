@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/上课/二叉树.md",
+                "file": "人工智能/网络架构.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/上课/二叉树.md",
+                "file": "人工智能/网络架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/上课/二叉树.md",
+                "file": "人工智能/网络架构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/上课/二叉树.md"
+                "file": "人工智能/网络架构.md"
               }
             }
           }
@@ -221,12 +221,14 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "人工智能/损失函数.md",
+    "1灵感，有空来做/偶然碰到的知识点.md",
+    "数据结构/上课/二叉树.md",
     "数理大乱炖/概率论/杂七杂八.md",
     "images/二叉树遍历顺序.png",
     "数理大乱炖/概率论/上课笔记.md",
     "人工智能/网络架构.md",
     "images/VAE损失函数.png",
-    "人工智能/损失函数.md",
     "人工智能/路径规划算法.md",
     "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
     "images/高斯混合模型.jpeg",
@@ -236,7 +238,6 @@
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
     "人工智能/各个领域.md",
     "数理大乱炖/概率论/多变量.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/ViT.md",
     "人工智能/yolo.md",
     "人工智能/cv/CV.md",
@@ -251,7 +252,6 @@
     "images/vit动画.gif.crdownload",
     "images/指数与对数映射.png",
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
-    "数据结构/上课/二叉树.md",
     "数据结构/上课/上课笔记.md",
     "未命名 1.md",
     "images/自注意力.png",
