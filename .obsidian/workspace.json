@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/cv/CV.md",
+                "file": "人工智能/cv/三维建模.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/cv/CV.md",
+                "file": "人工智能/cv/三维建模.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/cv/CV.md",
+                "file": "人工智能/cv/三维建模.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/cv/CV.md"
+                "file": "人工智能/cv/三维建模.md"
               }
             }
           }
@@ -221,6 +221,7 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "人工智能/cv/CV.md",
     "人工智能/cv/三维建模.md",
     "人工智能/损失函数.md",
     "人工智能/路径规划算法.md",
@@ -229,7 +230,6 @@
     "人工智能/网络架构.md",
     "人工智能/信号处理.md",
     "人工智能/cv/cv基础知识.md",
-    "人工智能/cv/CV.md",
     "数据结构/图.md",
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
