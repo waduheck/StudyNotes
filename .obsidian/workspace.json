@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md",
+                "file": "数理大乱炖/概率论/多变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md",
+                "file": "数理大乱炖/概率论/多变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md",
+                "file": "数理大乱炖/概率论/多变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md"
+                "file": "数理大乱炖/概率论/多变量.md"
               }
             }
           }
@@ -221,20 +221,22 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
-    "数理大乱炖/概率论/多变量.md",
+    "数理大乱炖/概率论/上课笔记.md",
     "数理大乱炖/概率论/统计特性.md",
+    "数据结构/上课/上课笔记.md",
+    "1灵感，有空来做/偶然碰到的知识点.md",
+    "数据结构/图.md",
+    "数理大乱炖/概率论/多变量.md",
     "人工智能/cv/nerf改进.md",
     "人工智能/cv/滤波器.md",
     "人工智能/cv/CV.md",
     "人工智能/损失函数.md",
     "人工智能/路径规划算法.md",
     "人工智能/信号处理.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/cv/三维建模.md",
     "人工智能/各个领域.md",
     "人工智能/网络架构.md",
     "人工智能/cv/cv基础知识.md",
-    "数据结构/图.md",
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
     "数理大乱炖/微分几何/曲面.md",
@@ -245,8 +247,6 @@
     "数理大乱炖/微分方程.md",
     "数理大乱炖/线性代数.md",
     "数理大乱炖/微分几何/曲线.md",
-    "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
-    "数据结构/上课/二叉树.md",
     "images/二叉树遍历顺序.png",
     "images/VAE损失函数.png",
     "images/高斯混合模型.jpeg",
