@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/网络架构.md",
+                "file": "人工智能/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/网络架构.md",
+                "file": "人工智能/cv/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/网络架构.md",
+                "file": "人工智能/cv/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/网络架构.md"
+                "file": "人工智能/cv/CV.md"
               }
             }
           }
@@ -219,13 +219,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
-    "人工智能/信号处理.md",
+    "人工智能/cv/cv基础知识.md",
     "人工智能/网络架构.md",
+    "人工智能/信号处理.md",
     "人工智能/路径规划算法.md",
     "人工智能/cv/三维建模+渲染.md",
-    "人工智能/cv/cv基础知识.md",
     "人工智能/损失函数.md",
     "数据结构/八叉树.md",
     "images/voxel hash.png",
