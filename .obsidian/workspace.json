@@ -222,8 +222,10 @@
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
     "人工智能/网络架构.md",
-    "人工智能/cv/cv基础知识.md",
+    "人工智能/cv/抗锯齿.md",
     "人工智能/信号处理.md",
+    "images/频域与时域.webp",
+    "人工智能/cv/cv基础知识.md",
     "人工智能/一些术语.md",
     "人工智能/杂七杂八.md",
     "人工智能/路径规划算法.md",
@@ -248,7 +250,6 @@
     "数理大乱炖/微分几何/曲面.md",
     "人工智能/注意力机制.md",
     "数理大乱炖/矩阵分析.md",
-    "数理大乱炖/随机过程.md",
     "images/二叉树遍历顺序.png",
     "images/VAE损失函数.png",
     "images/高斯混合模型.jpeg",
@@ -265,7 +266,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/prism.js",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/prism.css",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/normalize.min.css",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/jquery.min.js",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/6184e14b2ab3f51d912026fc.jpg"
+    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/jquery.min.js"
   ]
 }
