@@ -99,8 +99,6 @@ $$其中T(t)=exp(-\int_0^{t_n}\sigma(u)du)exp(-\int_{t_n}^{t}\sigma(u)du)=T(0\ri
 结果$$\hat C(r) = \sum_{i=1}^NT_i(1-exp(-\sigma_i\theta_i))c_i,\quad where\quad T=exp(-\sum_{j=1}^{i-1}\sigma_j\theta_j)$$
 #### 直接点表示
 
-#### SDF
-
 
 ### ray warping function
 
