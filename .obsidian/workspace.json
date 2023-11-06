@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/cv/特征提取.md",
+                "file": "人工智能/图形学/三维建模+渲染.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/cv/特征提取.md",
+                "file": "人工智能/图形学/三维建模+渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/cv/特征提取.md",
+                "file": "人工智能/图形学/三维建模+渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/cv/特征提取.md"
+                "file": "人工智能/图形学/三维建模+渲染.md"
               }
             }
           }
@@ -221,6 +221,7 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "人工智能/cv/特征提取.md",
     "人工智能/cv/各种算子.md",
     "人工智能/cv/对极几何.md",
     "人工智能/cv/尺度空间表达与金字塔分辨率.md",
@@ -234,7 +235,6 @@
     "人工智能/网络架构.md",
     "人工智能/cv/nerf改进.md",
     "人工智能/cv/CV.md",
-    "人工智能/cv/特征提取.md",
     "论文/代码精读任务.md",
     "images/高斯金字塔与DoG金字塔.webp",
     "数理大乱炖/微分几何/曲面.md",
