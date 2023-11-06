@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/基函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/基函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/基函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md"
+                "file": "数理大乱炖/基函数.md"
               }
             }
           }
@@ -221,6 +221,8 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "数理大乱炖/概率论/多变量.md",
+    "数理大乱炖/基函数.md",
     "images/visualization-splatting.pdf",
     "images/未确认 510408.crdownload",
     "人工智能/图形学/三维建模+渲染.md",
@@ -255,7 +257,6 @@
     "人工智能/路径规划算法.md",
     "images/频域与时域.webp",
     "环境配置.md",
-    "数据结构/八叉树.md",
     "images/voxel hash.png",
     "images/八叉树.png",
     "images/二叉树遍历顺序.png",
@@ -265,7 +266,6 @@
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站.html",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/social-share.min.js",
     "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/share.min.css",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/prism.js",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/prism.css"
+    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/prism.js"
   ]
 }
