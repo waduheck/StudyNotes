@@ -6,5 +6,3 @@ https://whuhenry.github.io/posts/40a4b471/#:~:text=MVS%E6%98%AF%E6%8C%87Multivie
 4. 在重建时优先考虑的形状约束（shape prior）；
 5. 重建算法（reconstruction algorithm）；
 6. 初始化条件（initialization requirements）。
-## GAMES203：三维重建和理解
-https://zhuanlan.zhihu.com/p/602861595
