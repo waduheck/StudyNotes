@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/上课/面向对象语言特性.md",
+                "file": "数据结构/上课/算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/上课/面向对象语言特性.md",
+                "file": "数据结构/上课/算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/上课/面向对象语言特性.md",
+                "file": "数据结构/上课/算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/上课/面向对象语言特性.md"
+                "file": "数据结构/上课/算法.md"
               }
             }
           }
@@ -221,10 +221,11 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
-    "数据结构/上课/堆.md",
-    "数据结构/上课/面向对象语言特性.md",
-    "数据结构/上课/并查集.md",
+    "数据结构/上课/未命名.md",
     "数据结构/上课/算法.md",
+    "数据结构/61B/面向对象语言特性.md",
+    "数据结构/上课/堆.md",
+    "数据结构/上课/并查集.md",
     "数据结构/上课/上课笔记.md",
     "数据结构/上课/树.md",
     "数据结构/上课/二叉树.md",
@@ -250,7 +251,6 @@
     "人工智能/cv/各种算子.md",
     "数理大乱炖/基函数.md",
     "images/nerf阵营.avif",
-    "数理大乱炖/概率论/多变量.md",
     "images/visualization-splatting.pdf",
     "images/未确认 510408.crdownload",
     "images/高斯金字塔与DoG金字塔.webp",
