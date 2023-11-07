@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/上课/算法.md",
+                "file": "数据结构/上课/堆.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/上课/算法.md",
+                "file": "数据结构/上课/堆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/上课/算法.md",
+                "file": "数据结构/上课/堆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/上课/算法.md"
+                "file": "数据结构/上课/堆.md"
               }
             }
           }
@@ -221,10 +221,12 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "数据结构/上课/并查集.md",
+    "数据结构/上课/堆.md",
+    "数据结构/上课/算法.md",
     "数据结构/上课/上课笔记.md",
     "数据结构/上课/树.md",
     "数据结构/上课/二叉树.md",
-    "数据结构/上课/算法.md",
     "数据结构/八叉树.md",
     "人工智能/图形学/三维建模+渲染.md",
     "人工智能/图形学/MVS.md",
@@ -251,9 +253,7 @@
     "images/visualization-splatting.pdf",
     "images/未确认 510408.crdownload",
     "人工智能/信号处理.md",
-    "论文/代码精读任务.md",
     "images/高斯金字塔与DoG金字塔.webp",
-    "数理大乱炖/微分几何/曲面.md",
     "images/高斯滤波.png",
     "images/Pasted image 20231105094118.png",
     "images/ssaa与msaa的区别.jpeg",
