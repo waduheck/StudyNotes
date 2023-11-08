@@ -221,6 +221,7 @@
   },
   "active": "a32eec3fca09de1b",
   "lastOpenFiles": [
+    "images/lambert模型.webp",
     "人工智能/图形学/抗锯齿.md",
     "人工智能/图形学/光栅化.md",
     "人工智能/图形学/光线追踪.md",
@@ -250,7 +251,6 @@
     "images/光栅化gpu阶段.jpeg",
     "光栅化gpu阶段.jpeg",
     "人工智能/cv/特征提取.md",
-    "人工智能/网络架构.md",
     "images/光栅化渲染管线.jpeg",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
