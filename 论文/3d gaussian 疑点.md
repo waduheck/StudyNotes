@@ -1,0 +1,1 @@
+1. cuda_rasterizer/forward.cu中的in_frustum函数只判断了点与像素的深度关系，并没有进行视锥判定
