@@ -12,3 +12,4 @@
         scales = scales,
         rotations = rotations,
         cov3D_precomp = cov3D_precomp)
+6. 高斯spilt是按固定模式计算分裂后的模型
