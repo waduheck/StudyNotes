@@ -13,4 +13,4 @@
         rotations = rotations,
         cov3D_precomp = cov3D_precomp)
 6. 高斯spilt是按固定模式计算分裂后的模型
-7. 颜色是怎么来的
+7. 颜色是怎么来的，哦哦使用球谐函数近似
