@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/概率论/模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/概率论/模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/概率论/模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md"
+                "file": "数理大乱炖/概率论/模型.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/standard gaussian.png",
+    "数理大乱炖/概率论/多变量.md",
+    "数理大乱炖/概率论/模型.md",
     "论文/人工智能导论.md",
     "论文/bert.md",
     "论文/代码精读任务.md",
@@ -256,9 +259,6 @@
     "人工智能/信号处理.md",
     "人工智能/yolo.md",
     "人工智能/ViT.md",
-    "人工智能/cv/CV.md",
-    "人工智能/网络架构.md",
-    "人工智能/路径规划算法.md",
     "计算机体系结构",
     "images/vit动画.gif",
     "数据结构/61B/IntListandSLList.png",
