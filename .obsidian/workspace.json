@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/概率论/模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/概率论/模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md",
+                "file": "数理大乱炖/概率论/模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/多变量.md"
+                "file": "数理大乱炖/概率论/模型.md"
               }
             }
           }
@@ -233,10 +233,10 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数理大乱炖/概率论/多变量.md",
     "数理大乱炖/概率论/模型.md",
     "images/gaussian .png",
     "images/standard gaussian.png",
-    "数理大乱炖/概率论/多变量.md",
     "论文/人工智能导论.md",
     "论文/bert.md",
     "论文/代码精读任务.md",
