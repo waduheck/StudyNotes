@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md",
+                "file": "人工智能/图形学/三维建模+渲染.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md",
+                "file": "人工智能/图形学/三维建模+渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md",
+                "file": "人工智能/图形学/三维建模+渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/统计特性.md"
+                "file": "人工智能/图形学/三维建模+渲染.md"
               }
             }
           }
@@ -231,18 +231,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "人工智能/图形学/几何表示.md",
+    "人工智能/图形学/光照模型.md",
     "人工智能/图形学/MVS.md",
+    "人工智能/图形学/transform.md",
+    "人工智能/图形学/阴影.md",
+    "人工智能/图形学/纹理映射与mipmap方法.md",
+    "人工智能/一些术语.md",
+    "数理大乱炖/概率论/统计特性.md",
     "人工智能/图形学/图形学基础知识.md",
     "人工智能/图形学/三维建模+渲染.md",
-    "人工智能/图形学/纹理映射与mipmap方法.md",
-    "人工智能/图形学/阴影.md",
     "人工智能/图形学/信号处理.md",
     "人工智能/图形学/抗锯齿.md",
-    "人工智能/图形学/transform.md",
     "人工智能/图形学/着色频率.md",
-    "人工智能/图形学/几何表示.md",
     "数理大乱炖/概率论/模型.md",
     "数理大乱炖/概率论/多变量.md",
     "images/gaussian .png",
@@ -252,11 +255,9 @@
     "论文/代码精读任务.md",
     "论文/3d gaussian 疑点.md",
     "论文/gaussian splatting改进.md",
-    "人工智能/图形学/光照模型.md",
     "人工智能/图形学/光线追踪.md",
     "人工智能/图形学/光栅化.md",
     "人工智能/杂七杂八.md",
-    "人工智能/一些术语.md",
     "人工智能/信号处理.md",
     "人工智能/yolo.md",
     "人工智能/ViT.md",
