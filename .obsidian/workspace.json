@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/图形学/transform.md",
+                "file": "论文/人工智能导论.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/图形学/transform.md",
+                "file": "论文/人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/图形学/transform.md",
+                "file": "论文/人工智能导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/图形学/transform.md"
+                "file": "论文/人工智能导论.md"
               }
             }
           }
@@ -233,19 +233,24 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
-    "人工智能/图形学/MVS.md",
-    "人工智能/图形学/三维建模+渲染.md",
+    "论文/代码精读任务.md",
+    "论文/3d gaussian 疑点.md",
+    "论文/人工智能导论.md",
+    "论文/bert.md",
+    "论文/gaussian splatting改进.md",
     "人工智能/图形学/图形学基础知识.md",
+    "人工智能/图形学/纹理映射与mipmap方法.md",
+    "人工智能/图形学/几何表示.md",
+    "人工智能/图形学/信号处理.md",
+    "人工智能/图形学/MVS.md",
+    "人工智能/图形学/着色频率.md",
     "人工智能/图形学/阴影.md",
     "人工智能/图形学/transform.md",
-    "人工智能/图形学/信号处理.md",
-    "人工智能/图形学/纹理映射与mipmap方法.md",
+    "人工智能/图形学/三维建模+渲染.md",
     "人工智能/图形学/抗锯齿.md",
-    "人工智能/图形学/几何表示.md",
     "人工智能/图形学/光照模型.md",
     "人工智能/图形学/光线追踪.md",
     "人工智能/图形学/光栅化.md",
-    "人工智能/图形学/着色频率.md",
     "人工智能/杂七杂八.md",
     "人工智能/一些术语.md",
     "人工智能/信号处理.md",
@@ -254,11 +259,6 @@
     "人工智能/cv/CV.md",
     "人工智能/网络架构.md",
     "人工智能/路径规划算法.md",
-    "人工智能/损失函数.md",
-    "人工智能/cv/nerf改进.md",
-    "人工智能/cv/特征提取.md",
-    "人工智能/cv/尺度空间表达与金字塔分辨率.md",
-    "人工智能/cv/对极几何.md",
     "计算机体系结构",
     "images/vit动画.gif",
     "数据结构/61B/IntListandSLList.png",
