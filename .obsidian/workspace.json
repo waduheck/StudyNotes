@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "数据结构与算法/61B/面向对象语言特性.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "数据结构与算法/61B/面向对象语言特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "数据结构与算法/61B/面向对象语言特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/内存.md"
+                "file": "数据结构与算法/61B/面向对象语言特性.md"
               }
             }
           }
@@ -233,10 +233,14 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数据结构与算法/61B/接口与继承.md",
+    "数据结构与算法/61B/面向对象语言特性.md",
+    "数据结构与算法/61B/IntListandSLList.png",
+    "数据结构与算法/61B/Lists.md",
+    "计算机体系结构/内存.md",
     "数据结构与算法/算法.md",
     "images/Dram Bank Operation.png",
     "images/多核处理器架构.png",
-    "计算机体系结构/内存.md",
     "计算机体系结构/针对硬件的攻击.md",
     "人工智能/图形学/三维建模+渲染.md",
     "人工智能/图形学/几何表示.md",
@@ -259,12 +263,8 @@
     "论文/bert.md",
     "论文/代码精读任务.md",
     "论文/3d gaussian 疑点.md",
-    "论文/gaussian splatting改进.md",
-    "人工智能/图形学/光线追踪.md",
-    "人工智能/图形学/光栅化.md",
     "计算机体系结构",
     "images/vit动画.gif",
-    "数据结构与算法/61B/IntListandSLList.png",
     "images/时域卷机.png",
     "images/渲染掩饰.png",
     "images/OpenGL渲染管线.png",
