@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/面向对象语言特性.md",
+                "file": "数据结构与算法/算法/时间与空间估计.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/面向对象语言特性.md",
+                "file": "数据结构与算法/算法/时间与空间估计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/面向对象语言特性.md",
+                "file": "数据结构与算法/算法/时间与空间估计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/面向对象语言特性.md"
+                "file": "数据结构与算法/算法/时间与空间估计.md"
               }
             }
           }
@@ -233,8 +233,12 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
-    "数据结构与算法/61B/接口与继承.md",
+    "images/Pasted image 20231127160744.png",
+    "数据结构与算法/算法/时间与空间估计.md",
     "数据结构与算法/61B/面向对象语言特性.md",
+    "数据结构与算法/算法",
+    "images/Pasted image 20231127160724.png",
+    "数据结构与算法/61B/接口与继承.md",
     "数据结构与算法/61B/IntListandSLList.png",
     "数据结构与算法/61B/Lists.md",
     "计算机体系结构/内存.md",
@@ -262,13 +266,10 @@
     "论文/人工智能导论.md",
     "论文/bert.md",
     "论文/代码精读任务.md",
-    "论文/3d gaussian 疑点.md",
     "计算机体系结构",
     "images/vit动画.gif",
     "images/时域卷机.png",
     "images/渲染掩饰.png",
-    "images/OpenGL渲染管线.png",
-    "images/全局光照方法.png",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
     "images/未确认 510408.crdownload",
@@ -276,7 +277,6 @@
     "1灵感，有空来做",
     "数字电路/学习灵感，有空来搞",
     "images/vit动画.gif.crdownload",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站.html",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站_files/social-share.min.js"
+    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站.html"
   ]
 }
