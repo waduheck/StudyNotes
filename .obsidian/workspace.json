@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/算法.md",
+                "file": "计算机体系结构/内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/算法.md",
+                "file": "计算机体系结构/内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/算法.md",
+                "file": "计算机体系结构/内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/算法.md"
+                "file": "计算机体系结构/内存.md"
               }
             }
           }
@@ -233,10 +233,10 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数据结构与算法/算法.md",
     "images/Dram Bank Operation.png",
     "images/多核处理器架构.png",
     "计算机体系结构/内存.md",
-    "数据结构与算法/算法.md",
     "计算机体系结构/针对硬件的攻击.md",
     "人工智能/图形学/三维建模+渲染.md",
     "人工智能/图形学/几何表示.md",
@@ -269,7 +269,6 @@
     "images/渲染掩饰.png",
     "images/OpenGL渲染管线.png",
     "images/全局光照方法.png",
-    "images/lambert模型.webp",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
     "images/未确认 510408.crdownload",
