@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/树.md",
+                "file": "计算机体系结构/芯片.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/树.md",
+                "file": "计算机体系结构/芯片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/树.md",
+                "file": "计算机体系结构/芯片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/树.md"
+                "file": "计算机体系结构/芯片.md"
               }
             }
           }
@@ -233,6 +233,16 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231128193801.png",
+    "计算机体系结构/针对硬件的攻击.md",
+    "计算机体系结构/芯片.md",
+    "计算机体系结构/内存.md",
+    "计算机体系结构/cuda.md",
+    "数据结构与算法/61B/面向对象语言特性.md",
+    "人工智能/cv/各种算子，滤波.md",
+    "人工智能/图形学/图形学基础知识.md",
+    "人工智能/cv/nerf改进.md",
+    "数据结构与算法/61B/树.md",
     "images/Pasted image 20231128183041.png",
     "images/Pasted image 20231128183023.png",
     "images/Pasted image 20231128155947.png",
@@ -240,21 +250,16 @@
     "images/Pasted image 20231128155711.png",
     "images/Pasted image 20231128155615.png",
     "数据结构与算法/61B/并查集.md",
-    "数据结构与算法/61B/树.md",
     "images/Pasted image 20231128142429.png",
     "images/Pasted image 20231128142355.png",
     "images/Pasted image 20231128142309.png",
     "images/Pasted image 20231128142249.png",
     "数据结构与算法/上课/并查集.md",
     "数据结构与算法/算法/时间与空间估计.md",
-    "images/Pasted image 20231128134240.png",
-    "数据结构与算法/61B/面向对象语言特性.md",
     "数据结构与算法/算法",
     "数据结构与算法/61B/接口与继承.md",
     "数据结构与算法/61B/Lists.md",
-    "计算机体系结构/内存.md",
     "数据结构与算法/算法.md",
-    "计算机体系结构/针对硬件的攻击.md",
     "人工智能/图形学/三维建模+渲染.md",
     "人工智能/图形学/几何表示.md",
     "人工智能/图形学/光照模型.md",
@@ -264,12 +269,7 @@
     "人工智能/图形学/纹理映射与mipmap方法.md",
     "人工智能/一些术语.md",
     "数理大乱炖/概率论/统计特性.md",
-    "人工智能/图形学/图形学基础知识.md",
     "人工智能/图形学/信号处理.md",
-    "人工智能/图形学/抗锯齿.md",
-    "人工智能/图形学/着色频率.md",
-    "数理大乱炖/概率论/模型.md",
-    "数理大乱炖/概率论/多变量.md",
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
