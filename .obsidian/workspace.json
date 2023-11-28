@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/并查集.md",
+                "file": "数据结构与算法/61B/树.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/并查集.md",
+                "file": "数据结构与算法/61B/树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/并查集.md",
+                "file": "数据结构与算法/61B/树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/并查集.md"
+                "file": "数据结构与算法/61B/树.md"
               }
             }
           }
@@ -233,12 +233,13 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数据结构与算法/61B/并查集.md",
+    "数据结构与算法/61B/树.md",
     "images/Pasted image 20231128142429.png",
     "images/Pasted image 20231128142355.png",
     "images/Pasted image 20231128142309.png",
     "images/Pasted image 20231128142249.png",
     "数据结构与算法/上课/并查集.md",
-    "数据结构与算法/61B/并查集.md",
     "数据结构与算法/算法/时间与空间估计.md",
     "images/Pasted image 20231128134240.png",
     "images/Pasted image 20231128115508.png",
@@ -246,7 +247,6 @@
     "images/Pasted image 20231128113751.png",
     "images/Pasted image 20231128105646.png",
     "images/Pasted image 20231128104722.png",
-    "images/Pasted image 20231127160744.png",
     "数据结构与算法/61B/面向对象语言特性.md",
     "数据结构与算法/算法",
     "数据结构与算法/61B/接口与继承.md",
