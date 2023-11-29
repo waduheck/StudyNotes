@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/芯片.md",
+                "file": "计算机体系结构/逻辑门.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/芯片.md",
+                "file": "计算机体系结构/逻辑门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/芯片.md",
+                "file": "计算机体系结构/逻辑门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/芯片.md"
+                "file": "计算机体系结构/逻辑门.md"
               }
             }
           }
@@ -233,9 +233,11 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231129103316.png",
+    "计算机体系结构/芯片.md",
+    "计算机体系结构/逻辑门.md",
     "images/Pasted image 20231128193801.png",
     "计算机体系结构/针对硬件的攻击.md",
-    "计算机体系结构/芯片.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/cuda.md",
     "数据结构与算法/61B/面向对象语言特性.md",
@@ -253,7 +255,6 @@
     "images/Pasted image 20231128142429.png",
     "images/Pasted image 20231128142355.png",
     "images/Pasted image 20231128142309.png",
-    "images/Pasted image 20231128142249.png",
     "数据结构与算法/上课/并查集.md",
     "数据结构与算法/算法/时间与空间估计.md",
     "数据结构与算法/算法",
@@ -269,7 +270,6 @@
     "人工智能/图形学/纹理映射与mipmap方法.md",
     "人工智能/一些术语.md",
     "数理大乱炖/概率论/统计特性.md",
-    "人工智能/图形学/信号处理.md",
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
