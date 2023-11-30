@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/逻辑门.md",
+                "file": "数理大乱炖/大物/期中.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/逻辑门.md",
+                "file": "数理大乱炖/大物/期中.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/逻辑门.md",
+                "file": "数理大乱炖/大物/期中.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/逻辑门.md"
+                "file": "数理大乱炖/大物/期中.md"
               }
             }
           }
@@ -233,42 +233,44 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231130211905.png",
+    "images/Pasted image 20231130211549.png",
+    "images/Pasted image 20231130210711.png",
+    "images/Pasted image 20231130210440.png",
+    "images/Pasted image 20231130205556.png",
+    "images/Pasted image 20231130205153.png",
+    "images/Pasted image 20231130195854.png",
+    "images/Pasted image 20231130194250.png",
+    "images/Pasted image 20231130194139.png",
+    "数据结构与算法/61B/接口与继承.md",
+    "数理大乱炖/微分方程.md",
+    "数理大乱炖/随机过程.md",
+    "数理大乱炖/矩阵分析.md",
+    "数理大乱炖/数学分析.md",
+    "数理大乱炖/线性代数.md",
+    "数理大乱炖/大物/期中.md",
+    "images/Pasted image 20231130191607.png",
+    "images/Pasted image 20231130191520.png",
+    "1灵感，有空来做/偶然碰到的知识点.md",
+    "数理大乱炖/大物",
+    "数据结构与算法/61B/树.md",
+    "数据结构与算法/61B/并查集.md",
+    "计算机体系结构/逻辑门.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/芯片.md",
     "计算机体系结构/高级电路.md",
-    "images/Pasted image 20231130160009.png",
-    "images/Pasted image 20231130155817.png",
-    "images/Pasted image 20231130155638.png",
-    "images/Pasted image 20231130155421.png",
-    "images/Pasted image 20231130155226.png",
-    "images/Pasted image 20231130155225.png",
-    "images/Pasted image 20231130155218.png",
-    "images/Pasted image 20231130153536.png",
-    "images/Pasted image 20231130153228.png",
-    "images/Pasted image 20231130153120.png",
-    "计算机体系结构/逻辑门.md",
     "计算机体系结构/针对硬件的攻击.md",
     "计算机体系结构/cuda.md",
     "数据结构与算法/61B/面向对象语言特性.md",
     "人工智能/cv/各种算子，滤波.md",
     "人工智能/图形学/图形学基础知识.md",
     "人工智能/cv/nerf改进.md",
-    "数据结构与算法/61B/树.md",
-    "数据结构与算法/61B/并查集.md",
     "数据结构与算法/上课/并查集.md",
     "数据结构与算法/算法/时间与空间估计.md",
     "数据结构与算法/算法",
-    "数据结构与算法/61B/接口与继承.md",
     "数据结构与算法/61B/Lists.md",
     "数据结构与算法/算法.md",
     "人工智能/图形学/三维建模+渲染.md",
-    "人工智能/图形学/几何表示.md",
-    "人工智能/图形学/光照模型.md",
-    "人工智能/图形学/MVS.md",
-    "人工智能/图形学/transform.md",
-    "人工智能/图形学/阴影.md",
-    "人工智能/图形学/纹理映射与mipmap方法.md",
-    "人工智能/一些术语.md",
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
@@ -276,7 +278,6 @@
     "人工智能/图形学",
     "1灵感，有空来做",
     "数字电路/学习灵感，有空来搞",
-    "images/vit动画.gif.crdownload",
-    "images/自注意力机制(Self-Attention Mechanism) - 郑之杰的个人网站.html"
+    "images/vit动画.gif.crdownload"
   ]
 }
