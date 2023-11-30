@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/高级电路.md",
+                "file": "计算机体系结构/逻辑门.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/高级电路.md",
+                "file": "计算机体系结构/逻辑门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/高级电路.md",
+                "file": "计算机体系结构/逻辑门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/高级电路.md"
+                "file": "计算机体系结构/逻辑门.md"
               }
             }
           }
@@ -233,6 +233,10 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "计算机体系结构/内存.md",
+    "计算机体系结构/芯片.md",
+    "计算机体系结构/高级电路.md",
+    "images/Pasted image 20231130160009.png",
     "images/Pasted image 20231130155817.png",
     "images/Pasted image 20231130155638.png",
     "images/Pasted image 20231130155421.png",
@@ -242,13 +246,8 @@
     "images/Pasted image 20231130153536.png",
     "images/Pasted image 20231130153228.png",
     "images/Pasted image 20231130153120.png",
-    "images/Pasted image 20231130152320.png",
-    "images/Pasted image 20231130151400.png",
     "计算机体系结构/逻辑门.md",
-    "计算机体系结构/高级电路.md",
-    "计算机体系结构/芯片.md",
     "计算机体系结构/针对硬件的攻击.md",
-    "计算机体系结构/内存.md",
     "计算机体系结构/cuda.md",
     "数据结构与算法/61B/面向对象语言特性.md",
     "人工智能/cv/各种算子，滤波.md",
