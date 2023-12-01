@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/大物/期中.md",
+                "file": "数理大乱炖/大物/光.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/大物/期中.md",
+                "file": "数理大乱炖/大物/光.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/大物/期中.md",
+                "file": "数理大乱炖/大物/光.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/大物/期中.md"
+                "file": "数理大乱炖/大物/光.md"
               }
             }
           }
@@ -233,6 +233,10 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231201105953.png",
+    "images/Pasted image 20231201105851.png",
+    "数理大乱炖/大物/波与振动.md",
+    "数理大乱炖/大物/光.md",
     "images/Pasted image 20231130211905.png",
     "images/Pasted image 20231130211549.png",
     "images/Pasted image 20231130210711.png",
@@ -248,9 +252,6 @@
     "数理大乱炖/矩阵分析.md",
     "数理大乱炖/数学分析.md",
     "数理大乱炖/线性代数.md",
-    "数理大乱炖/大物/期中.md",
-    "images/Pasted image 20231130191607.png",
-    "images/Pasted image 20231130191520.png",
     "1灵感，有空来做/偶然碰到的知识点.md",
     "数理大乱炖/大物",
     "数据结构与算法/61B/树.md",
@@ -270,7 +271,6 @@
     "数据结构与算法/算法",
     "数据结构与算法/61B/Lists.md",
     "数据结构与算法/算法.md",
-    "人工智能/图形学/三维建模+渲染.md",
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
