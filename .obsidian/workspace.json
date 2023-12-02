@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/上课/二维分布.md",
+                "file": "数理大乱炖/概率论/上课/概率特征.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/上课/二维分布.md",
+                "file": "数理大乱炖/概率论/上课/概率特征.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/上课/二维分布.md",
+                "file": "数理大乱炖/概率论/上课/概率特征.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/上课/二维分布.md"
+                "file": "数理大乱炖/概率论/上课/概率特征.md"
               }
             }
           }
@@ -233,20 +233,20 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
-    "images/Pasted image 20231202175425.png",
-    "images/Pasted image 20231202175315.png",
-    "images/Pasted image 20231202174941.png",
-    "images/Pasted image 20231202174707.png",
-    "images/Pasted image 20231202174603.png",
-    "images/Pasted image 20231202173541.png",
-    "images/Pasted image 20231202173512.png",
-    "images/Pasted image 20231202173454.png",
-    "images/Pasted image 20231202172229.png",
-    "images/Pasted image 20231202172124.png",
-    "images/Pasted image 20231202171933.png",
-    "数理大乱炖/概率论/上课/第二章.md",
     "数理大乱炖/概率论/上课/二维分布.md",
+    "数理大乱炖/概率论/上课/第二章.md",
     "数理大乱炖/概率论/上课/上课笔记.md",
+    "数理大乱炖/概率论/上课/概率特征.md",
+    "images/Pasted image 20231202204340.png",
+    "images/Pasted image 20231202202449.png",
+    "images/Pasted image 20231202202151.png",
+    "images/Pasted image 20231202201950.png",
+    "images/Pasted image 20231202201547.png",
+    "images/Pasted image 20231202194237.png",
+    "images/Pasted image 20231202194039.png",
+    "images/Pasted image 20231202194012.png",
+    "images/Pasted image 20231202193601.png",
+    "images/Pasted image 20231202175425.png",
     "数理大乱炖/概率论/上课",
     "数理大乱炖/概率论/统计特性.md",
     "数理大乱炖/概率论/多变量.md",
@@ -272,7 +272,6 @@
     "计算机体系结构/针对硬件的攻击.md",
     "计算机体系结构/cuda.md",
     "数据结构与算法/61B/面向对象语言特性.md",
-    "人工智能/cv/各种算子，滤波.md",
     "数据结构与算法/算法",
     "计算机体系结构",
     "images/nerf阵营.avif",
