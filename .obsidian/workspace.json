@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/上课笔记.md",
+                "file": "数理大乱炖/概率论/上课/第二章.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/上课笔记.md",
+                "file": "数理大乱炖/概率论/上课/第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/上课笔记.md",
+                "file": "数理大乱炖/概率论/上课/第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/上课笔记.md"
+                "file": "数理大乱炖/概率论/上课/第二章.md"
               }
             }
           }
@@ -233,6 +233,13 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231202161630.png",
+    "images/Pasted image 20231202161524.png",
+    "images/Pasted image 20231202161502.png",
+    "images/Pasted image 20231202161429.png",
+    "数理大乱炖/概率论/上课/上课笔记.md",
+    "数理大乱炖/概率论/上课/第二章.md",
+    "数理大乱炖/概率论/上课",
     "images/Pasted image 20231202160525.png",
     "images/Pasted image 20231202160242.png",
     "images/Pasted image 20231202154949.png",
@@ -240,14 +247,9 @@
     "images/Pasted image 20231202154738.png",
     "images/Pasted image 20231202154639.png",
     "images/Pasted image 20231202154548.png",
-    "images/Pasted image 20231202153915.png",
-    "images/Pasted image 20231202153850.png",
     "数理大乱炖/概率论/统计特性.md",
-    "数理大乱炖/概率论/上课笔记.md",
     "数理大乱炖/概率论/多变量.md",
     "数理大乱炖/大物/偏振.md",
-    "images/Pasted image 20231202123833.png",
-    "images/Pasted image 20231202123634.png",
     "数理大乱炖/大物/光.md",
     "数理大乱炖/大物/波与振动.md",
     "images/ITRANSFORMER.pdf",
@@ -271,13 +273,11 @@
     "数据结构与算法/61B/面向对象语言特性.md",
     "人工智能/cv/各种算子，滤波.md",
     "人工智能/图形学/图形学基础知识.md",
-    "人工智能/cv/nerf改进.md",
     "数据结构与算法/算法",
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
     "images/未确认 510408.crdownload",
-    "人工智能/图形学",
-    "1灵感，有空来做"
+    "人工智能/图形学"
   ]
 }
