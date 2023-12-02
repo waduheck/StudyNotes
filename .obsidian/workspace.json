@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/大物/光.md",
+                "file": "数理大乱炖/大物/偏振.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/大物/光.md",
+                "file": "数理大乱炖/大物/偏振.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/大物/光.md",
+                "file": "数理大乱炖/大物/偏振.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/大物/光.md"
+                "file": "数理大乱炖/大物/偏振.md"
               }
             }
           }
@@ -233,6 +233,10 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数理大乱炖/大物/光.md",
+    "数理大乱炖/大物/波与振动.md",
+    "数理大乱炖/大物/偏振.md",
+    "images/Pasted image 20231202122956.png",
     "images/Pasted image 20231202120911.png",
     "images/Pasted image 20231202120845.png",
     "images/Pasted image 20231202115756.png",
@@ -242,12 +246,8 @@
     "images/Pasted image 20231202111615.png",
     "images/Pasted image 20231202111450.png",
     "images/Pasted image 20231202111336.png",
-    "images/Pasted image 20231202104337.png",
-    "images/Pasted image 20231202103009.png",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
-    "数理大乱炖/大物/波与振动.md",
-    "数理大乱炖/大物/光.md",
     "数据结构与算法/61B/接口与继承.md",
     "数理大乱炖/微分方程.md",
     "数理大乱炖/随机过程.md",
@@ -272,7 +272,6 @@
     "数据结构与算法/算法/时间与空间估计.md",
     "数据结构与算法/算法",
     "数据结构与算法/61B/Lists.md",
-    "数据结构与算法/算法.md",
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
