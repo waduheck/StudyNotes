@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/概率论/上课/第二章.md",
+                "file": "数理大乱炖/概率论/上课/二维分布.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/概率论/上课/第二章.md",
+                "file": "数理大乱炖/概率论/上课/二维分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/概率论/上课/第二章.md",
+                "file": "数理大乱炖/概率论/上课/二维分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/概率论/上课/第二章.md"
+                "file": "数理大乱炖/概率论/上课/二维分布.md"
               }
             }
           }
@@ -233,6 +233,11 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231202171933.png",
+    "images/Pasted image 20231202171900.png",
+    "images/Pasted image 20231202171840.png",
+    "数理大乱炖/概率论/上课/第二章.md",
+    "数理大乱炖/概率论/上课/二维分布.md",
     "images/Pasted image 20231202163620.png",
     "images/Pasted image 20231202163154.png",
     "images/Pasted image 20231202163129.png",
@@ -241,11 +246,7 @@
     "images/Pasted image 20231202162211.png",
     "images/Pasted image 20231202161907.png",
     "images/Pasted image 20231202161823.png",
-    "images/Pasted image 20231202161630.png",
-    "images/Pasted image 20231202161524.png",
-    "images/Pasted image 20231202161502.png",
     "数理大乱炖/概率论/上课/上课笔记.md",
-    "数理大乱炖/概率论/上课/第二章.md",
     "数理大乱炖/概率论/上课",
     "数理大乱炖/概率论/统计特性.md",
     "数理大乱炖/概率论/多变量.md",
@@ -272,7 +273,6 @@
     "计算机体系结构/cuda.md",
     "数据结构与算法/61B/面向对象语言特性.md",
     "人工智能/cv/各种算子，滤波.md",
-    "人工智能/图形学/图形学基础知识.md",
     "数据结构与算法/算法",
     "计算机体系结构",
     "images/nerf阵营.avif",
