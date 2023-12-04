@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/存储元素.md",
+                "file": "计算机体系结构/时序电路.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/存储元素.md",
+                "file": "计算机体系结构/时序电路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/存储元素.md",
+                "file": "计算机体系结构/时序电路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/存储元素.md"
+                "file": "计算机体系结构/时序电路.md"
               }
             }
           }
@@ -233,10 +233,13 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231204150301.png",
+    "images/Pasted image 20231204150202.png",
+    "计算机体系结构/存储元素.md",
+    "计算机体系结构/时序电路.md",
     "images/Pasted image 20231204143349.png",
     "images/Pasted image 20231204143219.png",
     "计算机体系结构/高级电路.md",
-    "计算机体系结构/存储元素.md",
     "images/Pasted image 20231204142726.png",
     "images/Pasted image 20231204141932.png",
     "images/Pasted image 20231204141931.png",
@@ -244,8 +247,6 @@
     "images/Pasted image 20231204141450.png",
     "images/Pasted image 20231204141023.png",
     "images/Pasted image 20231204140707.png",
-    "images/Pasted image 20231204140511.png",
-    "images/Pasted image 20231204140302.png",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/未命名.md",
@@ -272,7 +273,6 @@
     "数据结构与算法/61B/树.md",
     "数据结构与算法/61B/并查集.md",
     "计算机体系结构/芯片.md",
-    "计算机体系结构/针对硬件的攻击.md",
     "数据结构与算法/算法",
     "计算机体系结构",
     "images/nerf阵营.avif",
