@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/verilog.md",
+                "file": "计算机体系结构/时序电路.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/verilog.md",
+                "file": "计算机体系结构/时序电路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/verilog.md",
+                "file": "计算机体系结构/时序电路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/verilog.md"
+                "file": "计算机体系结构/时序电路.md"
               }
             }
           }
@@ -233,13 +233,16 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231204190027.png",
+    "计算机体系结构/内存.md",
+    "计算机体系结构/高级电路.md",
+    "计算机体系结构/存储元素.md",
+    "计算机体系结构/未命名.md",
+    "计算机体系结构/verilog.md",
     "images/Pasted image 20231204172452.png",
     "images/Pasted image 20231204172305.png",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
-    "计算机体系结构/内存.md",
-    "计算机体系结构/存储元素.md",
-    "计算机体系结构/verilog.md",
     "images/Pasted image 20231204170223.png",
     "images/Pasted image 20231204170215.png",
     "images/Pasted image 20231204170006.png",
@@ -248,9 +251,6 @@
     "images/Pasted image 20231204165623.png",
     "images/Pasted image 20231204165531.png",
     "images/Pasted image 20231204165351.png",
-    "images/Pasted image 20231204165325.png",
-    "计算机体系结构/高级电路.md",
-    "计算机体系结构/未命名.md",
     "数理大乱炖/概率论/上课/概率特征.md",
     "数理大乱炖/概率论/上课/第二章.md",
     "数理大乱炖/概率论/上课/二维分布.md",
