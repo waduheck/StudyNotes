@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/时序电路.md",
+                "file": "计算机体系结构/verilog.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/时序电路.md",
+                "file": "计算机体系结构/verilog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/时序电路.md",
+                "file": "计算机体系结构/verilog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/时序电路.md"
+                "file": "计算机体系结构/verilog.md"
               }
             }
           }
@@ -233,22 +233,23 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231204165351.png",
+    "images/Pasted image 20231204165325.png",
+    "images/Pasted image 20231204165229.png",
+    "images/Pasted image 20231204165216.png",
+    "images/Pasted image 20231204165158.png",
+    "计算机体系结构/时序电路.md",
+    "计算机体系结构/verilog.md",
     "images/Pasted image 20231204154712.png",
     "images/Pasted image 20231204154546.png",
     "images/Pasted image 20231204153126.png",
     "计算机体系结构/内存.md",
-    "计算机体系结构/时序电路.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/高级电路.md",
     "计算机体系结构/存储元素.md",
     "images/Pasted image 20231204152842.png",
     "images/Pasted image 20231204152659.png",
     "images/Pasted image 20231204152515.png",
-    "images/Pasted image 20231204152402.png",
-    "images/Pasted image 20231204152204.png",
-    "images/Pasted image 20231204151714.png",
-    "images/Pasted image 20231204151533.png",
-    "images/Pasted image 20231204151529.png",
     "计算机体系结构/未命名.md",
     "数理大乱炖/概率论/上课/概率特征.md",
     "数理大乱炖/概率论/上课/第二章.md",
@@ -272,7 +273,6 @@
     "数理大乱炖/大物",
     "数据结构与算法/61B/树.md",
     "数据结构与算法/61B/并查集.md",
-    "计算机体系结构/芯片.md",
     "数据结构与算法/算法",
     "计算机体系结构",
     "images/nerf阵营.avif",
