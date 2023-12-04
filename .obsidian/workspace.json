@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/时序电路.md",
+                "file": "计算机体系结构/存储元素.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/时序电路.md",
+                "file": "计算机体系结构/存储元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/时序电路.md",
+                "file": "计算机体系结构/存储元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/时序电路.md"
+                "file": "计算机体系结构/存储元素.md"
               }
             }
           }
@@ -233,20 +233,19 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "计算机体系结构/高级电路.md",
+    "计算机体系结构/时序电路.md",
+    "images/Pasted image 20231204151013.png",
     "images/Pasted image 20231204150711.png",
     "images/Pasted image 20231204150510.png",
     "images/Pasted image 20231204150301.png",
     "images/Pasted image 20231204150202.png",
     "计算机体系结构/存储元素.md",
-    "计算机体系结构/时序电路.md",
     "images/Pasted image 20231204143349.png",
     "images/Pasted image 20231204143219.png",
-    "计算机体系结构/高级电路.md",
     "images/Pasted image 20231204142726.png",
     "images/Pasted image 20231204141932.png",
     "images/Pasted image 20231204141931.png",
-    "images/Pasted image 20231204141546.png",
-    "images/Pasted image 20231204141450.png",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/未命名.md",
