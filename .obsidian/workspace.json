@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/逻辑门与逻辑运算.md",
+                "file": "计算机体系结构/存储元素.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/逻辑门与逻辑运算.md",
+                "file": "计算机体系结构/存储元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/逻辑门与逻辑运算.md",
+                "file": "计算机体系结构/存储元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/逻辑门与逻辑运算.md"
+                "file": "计算机体系结构/存储元素.md"
               }
             }
           }
@@ -233,6 +233,8 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "计算机体系结构/逻辑门与逻辑运算.md",
+    "计算机体系结构/存储元素.md",
     "images/Pasted image 20231204132602.png",
     "计算机体系结构/内存.md",
     "计算机体系结构/未命名.md",
@@ -253,7 +255,6 @@
     "images/Pasted image 20231203113634.png",
     "数理大乱炖/大物/偏振.md",
     "数理大乱炖/概率论/上课/上课笔记.md",
-    "images/Pasted image 20231202204340.png",
     "数理大乱炖/概率论/上课",
     "数理大乱炖/概率论/统计特性.md",
     "数理大乱炖/概率论/多变量.md",
@@ -269,7 +270,6 @@
     "数理大乱炖/大物",
     "数据结构与算法/61B/树.md",
     "数据结构与算法/61B/并查集.md",
-    "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/芯片.md",
     "计算机体系结构/针对硬件的攻击.md",
     "计算机体系结构/cuda.md",
