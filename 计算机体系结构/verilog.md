@@ -58,3 +58,8 @@ always @(*)
 ## 阻塞赋值与非阻塞赋值
 非阻塞赋值是在block的结尾并行执行的，并没有语句之间的顺序
 ![[Pasted image 20231204194514.png]]
+赋值造成的信号变化也会导致always再次运行
+![[Pasted image 20231204194727.png]]
+## 设计规范
+![[Pasted image 20231204194903.png]]
+![[Pasted image 20231204194924.png]]
