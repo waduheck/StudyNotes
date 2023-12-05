@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/哈希.md",
+                "file": "计算机体系结构/延迟.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/哈希.md",
+                "file": "计算机体系结构/延迟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/哈希.md",
+                "file": "计算机体系结构/延迟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/哈希.md"
+                "file": "计算机体系结构/延迟.md"
               }
             }
           }
@@ -233,22 +233,23 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231205140101.png",
+    "计算机体系结构/逻辑门与逻辑运算.md",
+    "计算机体系结构/延迟.md",
+    "计算机体系结构/存储元素.md",
+    "数据结构与算法/61B/哈希.md",
     "images/Pasted image 20231205121719.png",
     "images/Pasted image 20231205121640.png",
     "images/Pasted image 20231205121004.png",
     "images/Pasted image 20231205120412.png",
     "images/Pasted image 20231205115905.png",
     "数据结构与算法/61B/树.md",
-    "数据结构与算法/61B/哈希.md",
     "images/Pasted image 20231205105754.png",
     "images/Pasted image 20231205105649.png",
     "images/Pasted image 20231205105610.png",
     "images/Pasted image 20231205102848.png",
     "images/Pasted image 20231205102654.png",
-    "images/Pasted image 20231205102419.png",
     "计算机体系结构/verilog.md",
-    "计算机体系结构/逻辑门与逻辑运算.md",
-    "计算机体系结构/存储元素.md",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/高级电路.md",
@@ -271,7 +272,6 @@
     "数理大乱炖/矩阵分析.md",
     "数理大乱炖/数学分析.md",
     "数理大乱炖/线性代数.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "数理大乱炖/大物",
     "数据结构与算法/算法",
     "计算机体系结构",
