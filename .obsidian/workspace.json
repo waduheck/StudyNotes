@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/verilog.md",
+                "file": "数据结构与算法/61B/树.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/verilog.md",
+                "file": "数据结构与算法/61B/树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/verilog.md",
+                "file": "数据结构与算法/61B/树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/verilog.md"
+                "file": "数据结构与算法/61B/树.md"
               }
             }
           }
@@ -233,6 +233,8 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231205095456.png",
+    "计算机体系结构/verilog.md",
     "images/Pasted image 20231204195800.png",
     "images/Pasted image 20231204195758 1.png",
     "images/Pasted image 20231204195758.png",
@@ -243,14 +245,12 @@
     "images/Pasted image 20231204194139.png",
     "images/Pasted image 20231204193917.png",
     "images/Pasted image 20231204192038.png",
-    "images/Pasted image 20231204191949.png",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/高级电路.md",
     "计算机体系结构/未命名.md",
-    "计算机体系结构/verilog.md",
     "数理大乱炖/概率论/上课/概率特征.md",
     "数理大乱炖/概率论/上课/第二章.md",
     "数理大乱炖/概率论/上课/二维分布.md",
