@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/mac编译verilog方法.md",
+                "file": "计算机体系结构/延迟.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/mac编译verilog方法.md",
+                "file": "计算机体系结构/延迟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/mac编译verilog方法.md",
+                "file": "计算机体系结构/延迟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/mac编译verilog方法.md"
+                "file": "计算机体系结构/延迟.md"
               }
             }
           }
@@ -233,9 +233,12 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
-    "计算机体系结构/verilog.md",
-    "计算机体系结构/mac编译verilog方法.md",
+    "images/Pasted image 20231205141315.png",
+    "计算机体系结构/针对硬件的攻击.md",
+    "计算机体系结构/高级电路.md",
     "计算机体系结构/cuda.md",
+    "计算机体系结构/mac编译verilog方法.md",
+    "计算机体系结构/verilog.md",
     "计算机体系结构/延迟.md",
     "images/Pasted image 20231205140235.png",
     "images/Pasted image 20231205140101.png",
@@ -253,7 +256,6 @@
     "images/Pasted image 20231205105610.png",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/内存.md",
-    "计算机体系结构/高级电路.md",
     "计算机体系结构/未命名.md",
     "数理大乱炖/概率论/上课/概率特征.md",
     "数理大乱炖/概率论/上课/第二章.md",
@@ -270,8 +272,6 @@
     "数据结构与算法/61B/接口与继承.md",
     "数理大乱炖/微分方程.md",
     "数理大乱炖/随机过程.md",
-    "数理大乱炖/矩阵分析.md",
-    "数理大乱炖/数学分析.md",
     "数理大乱炖/大物",
     "数据结构与算法/算法",
     "计算机体系结构",
