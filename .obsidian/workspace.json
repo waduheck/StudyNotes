@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数理大乱炖/微分几何/曲面.md",
+                "file": "数据结构与算法/61B/树.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数理大乱炖/微分几何/曲面.md",
+                "file": "数据结构与算法/61B/树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数理大乱炖/微分几何/曲面.md",
+                "file": "数据结构与算法/61B/树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数理大乱炖/微分几何/曲面.md"
+                "file": "数据结构与算法/61B/树.md"
               }
             }
           }
@@ -233,6 +233,11 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数据结构与算法/61B/接口与继承.md",
+    "数据结构与算法/61B/哈希.md",
+    "数据结构与算法/61B/树.md",
+    "数据结构与算法/61B/Lists.md",
+    "数理大乱炖/微分几何/曲面.md",
     "计算机体系结构/延迟.md",
     "计算机体系结构/芯片.md",
     "images/Pasted image 20231205160319.png",
@@ -252,8 +257,6 @@
     "计算机体系结构/verilog.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/存储元素.md",
-    "数据结构与算法/61B/哈希.md",
-    "数据结构与算法/61B/树.md",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/未命名.md",
@@ -269,9 +272,6 @@
     "数理大乱炖/概率论/多变量.md",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
-    "数据结构与算法/61B/接口与继承.md",
-    "数理大乱炖/微分方程.md",
-    "数理大乱炖/随机过程.md",
     "数理大乱炖/大物",
     "数据结构与算法/算法",
     "计算机体系结构",
