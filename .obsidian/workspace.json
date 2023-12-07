@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md",
+                "file": "计算机体系结构/内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md",
+                "file": "计算机体系结构/内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md",
+                "file": "计算机体系结构/内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md"
+                "file": "计算机体系结构/内存.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "计算机体系结构/存储元素.md",
+    "计算机体系结构/冯诺依曼结构.md",
+    "images/Pasted image 20231207202007.png",
     "images/Pasted image 20231207201846.png",
     "images/Pasted image 20231207201808.png",
     "images/Pasted image 20231207201530.png",
@@ -242,10 +245,7 @@
     "images/Pasted image 20231207191442.png",
     "images/Pasted image 20231207191124.png",
     "images/Pasted image 20231207190413.png",
-    "images/Pasted image 20231207190234.png",
-    "images/Pasted image 20231207185802.png",
     "计算机体系结构/内存.md",
-    "计算机体系结构/冯诺依曼结构.md",
     "计算机体系结构/组成结构.md",
     "数据结构与算法/61B/图.md",
     "论文/bert.md",
@@ -265,7 +265,6 @@
     "计算机体系结构/mac编译verilog方法.md",
     "计算机体系结构/verilog.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
-    "计算机体系结构/存储元素.md",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/未命名.md",
     "数理大乱炖/概率论/上课/概率特征.md",
