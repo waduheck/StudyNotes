@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "计算机体系结构/cpu.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "计算机体系结构/cpu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "计算机体系结构/cpu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/内存.md"
+                "file": "计算机体系结构/cpu.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "计算机体系结构/内存.md",
+    "计算机体系结构/cpu.md",
+    "images/Pasted image 20231207185116.png",
     "images/Pasted image 20231207185028.png",
     "计算机体系结构/组成结构.md",
     "数据结构与算法/61B/图.md",
@@ -249,10 +252,8 @@
     "images/Pasted image 20231206191350.png",
     "images/Pasted image 20231206190953.png",
     "数据结构与算法/61B/总结.md",
-    "images/Pasted image 20231206165210.png",
     "数据结构与算法/61B/堆.md",
     "数据结构与算法/61B/哈希.md",
-    "images/Pasted image 20231206163305.png",
     "数据结构与算法/61B/接口与继承.md",
     "数据结构与算法/61B/Lists.md",
     "计算机体系结构/延迟.md",
@@ -265,7 +266,6 @@
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/时序电路.md",
-    "计算机体系结构/内存.md",
     "计算机体系结构/未命名.md",
     "数理大乱炖/概率论/上课/概率特征.md",
     "数理大乱炖/概率论/上课/第二章.md",
