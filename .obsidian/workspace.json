@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/图.md",
+                "file": "计算机体系结构/组成结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/图.md",
+                "file": "计算机体系结构/组成结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/图.md",
+                "file": "计算机体系结构/组成结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/图.md"
+                "file": "计算机体系结构/组成结构.md"
               }
             }
           }
@@ -233,10 +233,11 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "数据结构与算法/61B/图.md",
+    "计算机体系结构/组成结构.md",
     "images/Pasted image 20231206203721.png",
     "images/Pasted image 20231206203718.png",
     "论文/bert.md",
-    "数据结构与算法/61B/图.md",
     "images/Pasted image 20231206201116.png",
     "数理大乱炖/微分几何/曲面.md",
     "数理大乱炖/微分几何/曲线.md",
@@ -251,7 +252,6 @@
     "数据结构与算法/61B/堆.md",
     "数据结构与算法/61B/哈希.md",
     "images/Pasted image 20231206163305.png",
-    "images/Pasted image 20231206163224.png",
     "数据结构与算法/61B/接口与继承.md",
     "数据结构与算法/61B/Lists.md",
     "计算机体系结构/延迟.md",
