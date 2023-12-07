@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/内存.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/内存.md"
+                "file": "计算机体系结构/冯诺依曼结构.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231207202648.png",
+    "计算机体系结构/内存.md",
+    "images/Pasted image 20231207202510.png",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/冯诺依曼结构.md",
     "images/Pasted image 20231207202007.png",
@@ -244,8 +247,6 @@
     "images/Pasted image 20231207200216.png",
     "images/Pasted image 20231207191442.png",
     "images/Pasted image 20231207191124.png",
-    "images/Pasted image 20231207190413.png",
-    "计算机体系结构/内存.md",
     "计算机体系结构/组成结构.md",
     "数据结构与算法/61B/图.md",
     "论文/bert.md",
