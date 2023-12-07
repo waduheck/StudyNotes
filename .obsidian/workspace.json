@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/cpu.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/cpu.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/cpu.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/cpu.md"
+                "file": "计算机体系结构/冯诺依曼结构.md"
               }
             }
           }
@@ -237,7 +237,7 @@
     "images/Pasted image 20231207190234.png",
     "images/Pasted image 20231207185802.png",
     "计算机体系结构/内存.md",
-    "计算机体系结构/cpu.md",
+    "计算机体系结构/冯诺依曼结构.md",
     "images/Pasted image 20231207185116.png",
     "images/Pasted image 20231207185028.png",
     "计算机体系结构/组成结构.md",
