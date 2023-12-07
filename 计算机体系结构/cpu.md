@@ -1,3 +1,7 @@
+冯诺依曼结构
+![[Pasted image 20231207190413.png]]
 ## 处理单元
 ![[Pasted image 20231207185802.png]]
 ### 算数单元ALU
+
+![[Pasted image 20231207190234.png]]
