@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/指令集.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/指令集.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/指令集.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/指令集.md"
+                "file": "计算机体系结构/冯诺依曼结构.md"
               }
             }
           }
@@ -233,6 +233,8 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231210154632.png",
+    "计算机体系结构/指令集.md",
     "images/Pasted image 20231210153227.png",
     "images/Pasted image 20231210151935.png",
     "images/Pasted image 20231210144255.png",
@@ -240,7 +242,6 @@
     "images/Pasted image 20231210141246.png",
     "计算机体系结构/高级电路.md",
     "计算机体系结构/冯诺依曼结构.md",
-    "计算机体系结构/指令集.md",
     "images/Pasted image 20231210140357.png",
     "images/Pasted image 20231210140148.png",
     "images/Pasted image 20231210140130.png",
@@ -249,7 +250,6 @@
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/时序电路.md",
-    "images/Pasted image 20231210133252.png",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/组成结构.md",
     "数据结构与算法/61B/图.md",
