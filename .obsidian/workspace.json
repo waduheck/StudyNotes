@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md",
+                "file": "计算机体系结构/10.a.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md",
+                "file": "计算机体系结构/10.a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md",
+                "file": "计算机体系结构/10.a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/冯诺依曼结构.md"
+                "file": "计算机体系结构/10.a.md"
               }
             }
           }
@@ -233,10 +233,12 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "images/Pasted image 20231210132713.png",
+    "计算机体系结构/冯诺依曼结构.md",
+    "计算机体系结构/10.a.md",
     "images/Pasted image 20231207205500.png",
     "images/Pasted image 20231207205249.png",
     "images/Pasted image 20231207204839.png",
-    "计算机体系结构/冯诺依曼结构.md",
     "images/Pasted image 20231207204631.png",
     "images/Pasted image 20231207204537.png",
     "images/Pasted image 20231207204452.png",
@@ -244,7 +246,6 @@
     "images/Pasted image 20231207204325.png",
     "images/Pasted image 20231207204235.png",
     "images/Pasted image 20231207204106.png",
-    "images/Pasted image 20231207204017.png",
     "计算机体系结构/内存.md",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/组成结构.md",
@@ -268,7 +269,6 @@
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/未命名.md",
-    "数理大乱炖/概率论/上课/概率特征.md",
     "数理大乱炖/概率论/上课",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
