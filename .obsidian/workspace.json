@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/指令集.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/指令集.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/指令集.md",
+                "file": "计算机体系结构/冯诺依曼结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/指令集.md"
+                "file": "计算机体系结构/冯诺依曼结构.md"
               }
             }
           }
@@ -233,10 +233,10 @@
   },
   "active": "c98f37de053bb07a",
   "lastOpenFiles": [
+    "计算机体系结构/指令集.md",
     "images/Pasted image 20231210133252.png",
     "images/Pasted image 20231210132713.png",
     "计算机体系结构/冯诺依曼结构.md",
-    "计算机体系结构/指令集.md",
     "images/Pasted image 20231207205500.png",
     "images/Pasted image 20231207205249.png",
     "images/Pasted image 20231207204839.png",
@@ -245,7 +245,6 @@
     "images/Pasted image 20231207204452.png",
     "images/Pasted image 20231207204356.png",
     "images/Pasted image 20231207204325.png",
-    "images/Pasted image 20231207204235.png",
     "计算机体系结构/内存.md",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/组成结构.md",
