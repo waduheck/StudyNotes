@@ -48,5 +48,5 @@ ISA是编程模型的一部分，它确定了编译器和操作系统需要支�
 ![[Pasted image 20231211150059.png]]
 对Rtype的改进，使之兼容IType
 ![[Pasted image 20231211151316.png]]
-再加入LW与SW指令，两者都是I类型指令，
+再加入LW与SW指令，两者都是I类型指令，并且利用ALU中的加法指令实现基址+offset寻址
 ![[Pasted image 20231211152407.png]]
