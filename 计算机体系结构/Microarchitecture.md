@@ -46,3 +46,5 @@ ISA是编程模型的一部分，它确定了编译器和操作系统需要支�
 ![[Pasted image 20231211145648.png]]
 总体来说就是通过mux来进行处理方式的选择
 ![[Pasted image 20231211150059.png]]
+对Rtype的改进，使之兼容IType
+![[Pasted image 20231211151316.png]]
