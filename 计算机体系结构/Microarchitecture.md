@@ -56,3 +56,4 @@ ISA是编程模型的一部分，它确定了编译器和操作系统需要支�
 ![[Pasted image 20231211160403.png]]
 实现条件控制指令，其中PCSrc由ALU中的分支控制逻辑决定
 ![[Pasted image 20231211161645.png]]
+![[Pasted image 20231211162654.png]]
