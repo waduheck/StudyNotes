@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/bert.md",
+                "file": "计算机体系结构/Microarchitecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,16 +95,12 @@
             "id": "c98f37de053bb07a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机体系结构/Microarchitecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -231,8 +227,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c98f37de053bb07a",
+  "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231212102254.png",
+    "images/Pasted image 20231212102127.png",
+    "论文/bert.md",
+    "计算机体系结构/Microarchitecture.md",
+    "images/Pasted image 20231212101959.png",
     "images/Pasted image 20231212100838.png",
     "images/Pasted image 20231212100554.png",
     "images/Pasted image 20231212100509.png",
@@ -242,12 +243,8 @@
     "数据结构与算法/61B/图.md",
     "images/Pasted image 20231211205730.png",
     "images/Pasted image 20231211205038.png",
-    "计算机体系结构/Microarchitecture.md",
     "images/Pasted image 20231211162654.png",
     "images/Pasted image 20231211161645.png",
-    "images/Pasted image 20231211160403.png",
-    "images/Pasted image 20231211154158.png",
-    "images/Pasted image 20231211152407.png",
     "计算机体系结构/verilog.md",
     "计算机体系结构/时序电路.md",
     "计算机体系结构/延迟.md",
@@ -261,7 +258,6 @@
     "计算机体系结构/高级电路.md",
     "计算机体系结构/内存.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
-    "论文/bert.md",
     "数理大乱炖/微分几何/曲面.md",
     "数理大乱炖/微分几何/曲线.md",
     "数据结构与算法/61B/树.md",
