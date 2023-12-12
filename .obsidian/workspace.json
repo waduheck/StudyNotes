@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/图.md",
+                "file": "计算机体系结构/micro architecture/pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/图.md",
+                "file": "计算机体系结构/micro architecture/pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/图.md",
+                "file": "计算机体系结构/micro architecture/pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/图.md"
+                "file": "计算机体系结构/micro architecture/pipeline.md"
               }
             }
           }
@@ -229,6 +229,9 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231212145031.png",
+    "数据结构与算法/61B/图.md",
+    "计算机体系结构/micro architecture/pipeline.md",
     "images/Pasted image 20231212140314.png",
     "images/Pasted image 20231212135838.png",
     "images/Pasted image 20231212122254.png",
@@ -240,7 +243,6 @@
     "images/Pasted image 20231212120835.png",
     "计算机体系结构/micro architecture/multi- cycle.md",
     "images/Pasted image 20231212115525.png",
-    "images/Pasted image 20231212115506.png",
     "计算机体系结构/micro architecture/Microarchitecture.md",
     "计算机体系结构/micro architecture/时间分析.md",
     "计算机体系结构/mac编译verilog方法.md",
@@ -249,7 +251,6 @@
     "数据结构与算法/61B/接口与继承.md",
     "数据结构与算法/61B/面向对象语言特性.md",
     "数据结构与算法/61B/树.md",
-    "数据结构与算法/61B/图.md",
     "数据结构与算法/61B/堆.md",
     "数据结构与算法/61B/哈希.md",
     "数据结构与算法/61B/并查集.md",
@@ -265,7 +266,6 @@
     "计算机体系结构/未命名.md",
     "计算机体系结构/数据流模型.md",
     "计算机体系结构/组成结构.md",
-    "计算机体系结构/芯片.md",
     "数理大乱炖/概率论/上课",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
