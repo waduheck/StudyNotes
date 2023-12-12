@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/Microarchitecture.md",
+                "file": "计算机体系结构/micro architecture/时间分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/Microarchitecture.md",
+                "file": "计算机体系结构/micro architecture/时间分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/Microarchitecture.md",
+                "file": "计算机体系结构/micro architecture/时间分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/Microarchitecture.md"
+                "file": "计算机体系结构/micro architecture/时间分析.md"
               }
             }
           }
@@ -229,6 +229,11 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231212104351.png",
+    "计算机体系结构/mac编译verilog方法.md",
+    "计算机体系结构/micro architecture/时间分析.md",
+    "计算机体系结构/micro architecture/Microarchitecture.md",
+    "计算机体系结构/micro architecture",
     "images/Pasted image 20231212103509.png",
     "数据结构与算法/算法/时间与空间估计.md",
     "数据结构与算法/61B/接口与继承.md",
@@ -240,7 +245,6 @@
     "数据结构与算法/61B/并查集.md",
     "数理大乱炖/概率论/上课/二维分布.md",
     "数理大乱炖/概率论/上课/概率特征.md",
-    "计算机体系结构/Microarchitecture.md",
     "images/Pasted image 20231212102822.png",
     "images/Pasted image 20231212102558.png",
     "images/Pasted image 20231212102540.png",
@@ -251,7 +255,6 @@
     "论文/bert.md",
     "images/Pasted image 20231212101959.png",
     "images/Pasted image 20231212100838.png",
-    "images/Pasted image 20231212100554.png",
     "计算机体系结构/指令集.md",
     "计算机体系结构/冯诺依曼结构.md",
     "计算机体系结构/verilog.md",
@@ -262,9 +265,7 @@
     "计算机体系结构/数据流模型.md",
     "计算机体系结构/组成结构.md",
     "计算机体系结构/芯片.md",
-    "计算机体系结构/mac编译verilog方法.md",
     "计算机体系结构/存储元素.md",
-    "计算机体系结构/高级电路.md",
     "数理大乱炖/概率论/上课",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
@@ -273,7 +274,6 @@
     "计算机体系结构",
     "images/nerf阵营.avif",
     "images/visualization-splatting.pdf",
-    "images/未确认 510408.crdownload",
-    "人工智能/图形学"
+    "images/未确认 510408.crdownload"
   ]
 }
