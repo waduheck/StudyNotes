@@ -1,3 +1,12 @@
+## 方法
+Reorder buffer
+
+History buffer
+
+Future register file
+
+Checkpointing
+## 处理过程
  这张幻灯片描述了在流水线处理器中检查和处理异常的过程：
 
 1. **检测异常**：
