@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/micro architecture/pipeline.md",
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/micro architecture/pipeline.md",
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/micro architecture/pipeline.md",
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/micro architecture/pipeline.md"
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md"
               }
             }
           }
@@ -229,10 +229,12 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231213184626.png",
+    "计算机体系结构/存储元素.md",
+    "计算机体系结构/micro architecture/pipeline.md",
     "计算机体系结构/micro architecture/pipeline性能分析与调度.md",
     "计算机体系结构/micro architecture/Microarchitecture.md",
     "计算机体系结构/micro architecture/multi- cycle.md",
-    "计算机体系结构/micro architecture/pipeline.md",
     "计算机体系结构/micro architecture/pipeline异常处理.md",
     "images/Pasted image 20231213145044.png",
     "计算机体系结构/冯诺依曼结构.md",
@@ -264,7 +266,6 @@
     "计算机体系结构/时序电路.md",
     "计算机体系结构/延迟.md",
     "计算机体系结构/针对硬件的攻击.md",
-    "计算机体系结构/未命名.md",
     "数理大乱炖/概率论/上课",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
