@@ -21,6 +21,8 @@ ROB的工作流程：
 
 从ROB中读取数据的方法
 ![[Pasted image 20231213184626.png]]
+使用验证位与间接寻址法
+![[Pasted image 20231213185747.png]]
 ### History buffer
 
 Future register file
