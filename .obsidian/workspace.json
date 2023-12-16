@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑论证/理论.md",
+                "file": "1哲学心理学/社会与政治.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑论证/理论.md",
+                "file": "1哲学心理学/社会与政治.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑论证/理论.md",
+                "file": "1哲学心理学/社会与政治.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑论证/理论.md"
+                "file": "1哲学心理学/社会与政治.md"
               }
             }
           }
@@ -227,10 +227,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a42f4cb9a61a982",
+  "active": "70a1cf98edfbe078",
   "lastOpenFiles": [
-    "逻辑论证/例子.md",
     "逻辑论证/理论.md",
+    "1哲学心理学/社会与政治.md",
+    "1哲学心理学",
+    "逻辑论证/例子.md",
     "数据结构与算法/61B/堆.md",
     "数据结构与算法/61B/图.md",
     "images/Pasted image 20231216112751.png",
@@ -266,14 +268,12 @@
     "数理大乱炖/概率论/上课/概率特征.md",
     "论文/bert.md",
     "计算机体系结构/指令集.md",
-    "计算机体系结构/verilog.md",
     "数理大乱炖/概率论/上课",
     "images/ITRANSFORMER.pdf",
     "images/未确认 917254.crdownload",
     "数理大乱炖/大物",
     "数据结构与算法/算法",
     "计算机体系结构",
-    "images/nerf阵营.avif",
-    "images/visualization-splatting.pdf"
+    "images/nerf阵营.avif"
   ]
 }
