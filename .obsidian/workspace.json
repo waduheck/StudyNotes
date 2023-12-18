@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/算法/排序.md",
+                "file": "人工智能/信号处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/算法/排序.md",
+                "file": "人工智能/信号处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/算法/排序.md",
+                "file": "人工智能/信号处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/算法/排序.md"
+                "file": "人工智能/信号处理.md"
               }
             }
           }
@@ -229,8 +229,18 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
-    "数据结构与算法/算法/时间与空间估计.md",
+    "人工智能/损失函数.md",
+    "人工智能/信号处理.md",
+    "人工智能/一些术语.md",
+    "人工智能/杂七杂八.md",
+    "人工智能/注意力机制.md",
+    "人工智能/yolo.md",
+    "人工智能/ViT.md",
+    "人工智能/路径规划算法.md",
+    "人工智能/网络架构.md",
+    "人工智能/各个领域.md",
     "数据结构与算法/算法/排序.md",
+    "数据结构与算法/算法/时间与空间估计.md",
     "数据结构与算法/数据结构/范围查询.md",
     "数据结构与算法/61B/并查集.md",
     "数据结构与算法/61B/总结.md",
@@ -249,24 +259,15 @@
     "数据结构与算法/61B/图/树",
     "images/Pasted image 20231217204309.png",
     "数据结构与算法/61B/Lists.md",
-    "数据结构与算法/上课/并查集.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
-    "1灵感，有空来做/未整理.md",
     "images/Pasted image 20231216161212.png",
     "images/Pasted image 20231216160443.png",
     "images/Pasted image 20231216160328.png",
     "images/Pasted image 20231216152957.png",
     "images/Pasted image 20231216152935.png",
-    "数据结构与算法/61B/图/DAG.md",
     "数据结构与算法/数据结构",
     "images/Pasted image 20231216144924.png",
     "images/Pasted image 20231216144907.png",
-    "数据结构与算法/61B/图/图.md",
     "数据结构与算法/61B/图",
-    "数据结构与算法/八叉树.md",
-    "数据结构与算法/上课/算法.md",
-    "1哲学心理学/社会与政治.md",
-    "逻辑论证/理论.md",
     "1哲学心理学",
     "逻辑论证",
     "计算机体系结构/micro architecture",
