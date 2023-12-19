@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/算法/压缩.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/算法/压缩.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/算法/压缩.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/算法/压缩.md"
+                "file": "1灵感，有空来做/偶然碰到的知识点.md"
               }
             }
           }
@@ -227,13 +227,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a42f4cb9a61a982",
+  "active": "70a1cf98edfbe078",
   "lastOpenFiles": [
+    "数据结构与算法/算法/压缩.md",
     "images/Pasted image 20231219103206.png",
     "images/Pasted image 20231219103139.png",
     "images/Pasted image 20231219103117.png",
     "数据结构与算法/算法/排序.md",
-    "数据结构与算法/算法/压缩.md",
     "数据结构与算法/61B/总结.md",
     "images/Pasted image 20231218185234.png",
     "images/Pasted image 20231218185050.png",
@@ -242,7 +242,6 @@
     "images/Pasted image 20231218162839.png",
     "images/Pasted image 20231218162359.png",
     "images/Pasted image 20231218162236.png",
-    "images/Pasted image 20231218160605.png",
     "数据结构与算法/算法/找到中位数.md",
     "数据结构与算法/61B/并查集.md",
     "人工智能/图形学/光照模型.md",
