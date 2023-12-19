@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "数据结构与算法/61B/总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "数据结构与算法/61B/总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "数据结构与算法/61B/总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md"
+                "file": "数据结构与算法/61B/总结.md"
               }
             }
           }
@@ -227,8 +227,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231219112830.png",
+    "images/Pasted image 20231219112827.png",
+    "images/Pasted image 20231219112825.png",
+    "images/Pasted image 20231219112824.png",
+    "images/Pasted image 20231219112541.png",
+    "1灵感，有空来做/偶然碰到的知识点.md",
     "数据结构与算法/算法/压缩.md",
     "images/Pasted image 20231219103206.png",
     "images/Pasted image 20231219103139.png",
@@ -238,10 +244,6 @@
     "images/Pasted image 20231218185234.png",
     "images/Pasted image 20231218185050.png",
     "images/Pasted image 20231218185003.png",
-    "images/Pasted image 20231218162921.png",
-    "images/Pasted image 20231218162839.png",
-    "images/Pasted image 20231218162359.png",
-    "images/Pasted image 20231218162236.png",
     "数据结构与算法/算法/找到中位数.md",
     "数据结构与算法/61B/并查集.md",
     "人工智能/图形学/光照模型.md",
@@ -263,7 +265,6 @@
     "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
     "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
-    "数理大乱炖/大物/光.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
