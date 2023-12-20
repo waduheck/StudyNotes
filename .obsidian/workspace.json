@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字电路/上课笔记.md",
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数字电路/上课笔记.md",
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数字电路/上课笔记.md"
+                "file": "计算机体系结构/micro architecture/pipeline异常处理.md"
               }
             }
           }
@@ -227,8 +227,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "70a1cf98edfbe078",
+  "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "数字电路/上课笔记.md",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/micro architecture/pipeline性能分析与调度.md",
     "计算机体系结构/micro architecture/pipeline.md",
@@ -264,7 +265,6 @@
     "数理大乱炖/矩阵分析.md",
     "数理大乱炖/基函数.md",
     "数理大乱炖/微分几何/曲线.md",
-    "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
