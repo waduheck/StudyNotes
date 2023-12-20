@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/ViT.md",
+                "file": "计算机体系结构/micro architecture/寄存器.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/ViT.md",
+                "file": "计算机体系结构/micro architecture/寄存器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/ViT.md",
+                "file": "计算机体系结构/micro architecture/寄存器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/ViT.md"
+                "file": "计算机体系结构/micro architecture/寄存器.md"
               }
             }
           }
@@ -229,6 +229,9 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "计算机体系结构/micro architecture/OoO.md",
+    "计算机体系结构/micro architecture/寄存器.md",
+    "人工智能/ViT.md",
     "论文/bert.md",
     "论文/人工智能导论.md",
     "论文/代码精读任务.md",
@@ -239,7 +242,6 @@
     "人工智能/图形学/着色频率.md",
     "人工智能/图形学/纹理映射与mipmap方法.md",
     "人工智能/图形学/信号处理.md",
-    "计算机体系结构/micro architecture/OoO.md",
     "images/Pasted image 20231220191002.png",
     "images/Pasted image 20231220190704.png",
     "images/Pasted image 20231220190629.png",
@@ -263,8 +265,6 @@
     "数据结构与算法/61B/并查集.md",
     "人工智能/图形学/光照模型.md",
     "人工智能/图形学/三维建模+渲染.md",
-    "人工智能/图形学/阴影.md",
-    "数理大乱炖/概率论/多变量.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
