@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/micro architecture/OoO.md",
+                "file": "人工智能/信号处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/micro architecture/OoO.md",
+                "file": "人工智能/信号处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/micro architecture/OoO.md",
+                "file": "人工智能/信号处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/micro architecture/OoO.md"
+                "file": "人工智能/信号处理.md"
               }
             }
           }
@@ -229,11 +229,16 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "人工智能/图形学/几何表示.md",
+    "人工智能/图形学/抗锯齿.md",
+    "人工智能/图形学/着色频率.md",
+    "人工智能/图形学/纹理映射与mipmap方法.md",
+    "人工智能/图形学/信号处理.md",
+    "计算机体系结构/micro architecture/OoO.md",
     "images/Pasted image 20231220191002.png",
     "images/Pasted image 20231220190704.png",
     "images/Pasted image 20231220190629.png",
     "计算机体系结构/micro architecture/pipeline异常处理.md",
-    "计算机体系结构/micro architecture/OoO.md",
     "images/Pasted image 20231220185308.png",
     "数字电路/上课笔记.md",
     "计算机体系结构/存储元素.md",
@@ -248,15 +253,11 @@
     "1灵感，有空来做/偶然碰到的知识点.md",
     "数据结构与算法/算法/压缩.md",
     "images/Pasted image 20231219103206.png",
-    "images/Pasted image 20231219103139.png",
     "数据结构与算法/算法/排序.md",
     "数据结构与算法/算法/找到中位数.md",
     "数据结构与算法/61B/并查集.md",
     "人工智能/图形学/光照模型.md",
-    "人工智能/图形学/几何表示.md",
-    "人工智能/图形学/抗锯齿.md",
     "人工智能/图形学/三维建模+渲染.md",
-    "人工智能/图形学/信号处理.md",
     "人工智能/图形学/阴影.md",
     "数理大乱炖/概率论/多变量.md",
     "数理大乱炖/概率论/统计特性.md",
@@ -264,7 +265,6 @@
     "数理大乱炖/线性代数.md",
     "数理大乱炖/微分方程.md",
     "数理大乱炖/随机过程.md",
-    "数理大乱炖/数学分析.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
