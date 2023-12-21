@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/micro architecture/multi- cycle.md",
+                "file": "计算机体系结构/micro architecture/分支控制.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/micro architecture/multi- cycle.md",
+                "file": "计算机体系结构/micro architecture/分支控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/micro architecture/multi- cycle.md",
+                "file": "计算机体系结构/micro architecture/分支控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/micro architecture/multi- cycle.md"
+                "file": "计算机体系结构/micro architecture/分支控制.md"
               }
             }
           }
@@ -229,6 +229,9 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231221101028.png",
+    "计算机体系结构/micro architecture/multi- cycle.md",
+    "计算机体系结构/micro architecture/分支控制.md",
     "计算机体系结构/micro architecture/指令执行顺序.md",
     "images/Pasted image 20231221100210.png",
     "计算机体系结构/micro architecture/pipeline.md",
@@ -236,7 +239,6 @@
     "计算机体系结构/micro architecture/寄存器.md",
     "images/Pasted image 20231220203534.png",
     "计算机体系结构/micro architecture/Microarchitecture.md",
-    "计算机体系结构/micro architecture/multi- cycle.md",
     "计算机体系结构/micro architecture/时间分析.md",
     "人工智能/ViT.md",
     "论文/bert.md",
@@ -263,7 +265,6 @@
     "images/Pasted image 20231219112824.png",
     "1灵感，有空来做/偶然碰到的知识点.md",
     "数据结构与算法/算法/压缩.md",
-    "数据结构与算法/算法/排序.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
