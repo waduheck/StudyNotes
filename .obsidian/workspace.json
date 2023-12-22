@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/micro architecture/芯片架构.md",
+                "file": "计算机体系结构/内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/micro architecture/芯片架构.md",
+                "file": "计算机体系结构/内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/micro architecture/芯片架构.md",
+                "file": "计算机体系结构/内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/micro architecture/芯片架构.md"
+                "file": "计算机体系结构/内存.md"
               }
             }
           }
@@ -229,6 +229,11 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "计算机体系结构/逻辑门与逻辑运算.md",
+    "计算机体系结构/micro architecture/OoO.md",
+    "计算机体系结构/内存.md",
+    "images/Pasted image 20231222144235.png",
+    "计算机体系结构/micro architecture/芯片架构.md",
     "images/Pasted image 20231222143731.png",
     "images/Pasted image 20231222143046.png",
     "images/Pasted image 20231222143036.png",
@@ -238,13 +243,9 @@
     "images/Pasted image 20231222142121.png",
     "images/Pasted image 20231222135624.png",
     "images/Pasted image 20231222135517.png",
-    "images/Pasted image 20231222133916.png",
-    "images/Pasted image 20231222133852.png",
     "计算机体系结构/micro architecture/时间分析.md",
     "计算机体系结构/micro architecture/分支控制.md",
-    "计算机体系结构/micro architecture/芯片架构.md",
     "计算机体系结构/micro architecture/设计原则.md",
-    "计算机体系结构/micro architecture/OoO.md",
     "计算机体系结构/micro architecture/multi- cycle.md",
     "计算机体系结构/micro architecture/Microarchitecture.md",
     "计算机体系结构/micro architecture/指令执行顺序.md",
@@ -264,7 +265,6 @@
     "数字电路/上课笔记.md",
     "计算机体系结构/存储元素.md",
     "计算机体系结构/micro architecture/pipeline性能分析与调度.md",
-    "数据结构与算法/61B/总结.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
