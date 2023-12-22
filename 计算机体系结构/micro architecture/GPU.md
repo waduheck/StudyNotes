@@ -4,3 +4,7 @@
 ![[Pasted image 20231222155535.png]]
 
 ![[Pasted image 20231222155558.png]]
+
+
+threads 与 warp
+![[Pasted image 20231222162323.png]]
