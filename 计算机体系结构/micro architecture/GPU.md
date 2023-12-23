@@ -8,3 +8,6 @@
 
 threads 与 warp
 ![[Pasted image 20231222162323.png]]
+
+![[Pasted image 20231223214537.png]]
+
