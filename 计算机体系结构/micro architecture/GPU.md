@@ -1,3 +1,4 @@
+![[Pasted image 20231223232733.png]]
 ## MMX操作
 ![[Pasted image 20231222155420.png]]
 
