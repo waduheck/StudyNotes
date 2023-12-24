@@ -13,3 +13,11 @@
 
 ## remote memory
 ![[Pasted image 20231224191721.png]]
+
+## issues
+1. 不同core的l1缓存之间的一致性
+2. 
+## Subblocked
+![[Pasted image 20231224200345.png]]
+## 指令与数据separate or unified
+![[Pasted image 20231224200559.png]]
