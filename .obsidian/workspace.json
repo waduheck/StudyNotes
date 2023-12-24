@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "计算机体系结构/memory/cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "计算机体系结构/memory/cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "计算机体系结构/memory/cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md"
+                "file": "计算机体系结构/memory/cache.md"
               }
             }
           }
@@ -229,6 +229,9 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231224165802.png",
+    "images/Pasted image 20231224165639.png",
+    "1灵感，有空来做/偶然碰到的知识点.md",
     "1灵感，有空来做/未整理.md",
     "计算机体系结构/memory/cache.md",
     "images/Pasted image 20231224163848.png",
@@ -253,7 +256,6 @@
     "计算机体系结构/mac编译verilog方法.md",
     "计算机体系结构/micro architecture/组成结构.md",
     "计算机体系结构/针对硬件的攻击.md",
-    "images/Pasted image 20231224101612.png",
     "计算机体系结构/memory",
     "计算机体系结构/micro architecture/芯片架构.md",
     "计算机体系结构/micro architecture/GPU.md",
@@ -265,8 +267,6 @@
     "计算机体系结构/micro architecture/multi- cycle.md",
     "计算机体系结构/micro architecture/Microarchitecture.md",
     "计算机体系结构/micro architecture/pipeline.md",
-    "计算机体系结构/micro architecture/寄存器.md",
-    "人工智能/ViT.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
