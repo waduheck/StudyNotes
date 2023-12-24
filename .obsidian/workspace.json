@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/存储元素.md",
+                "file": "计算机体系结构/memory/内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/存储元素.md",
+                "file": "计算机体系结构/memory/内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/存储元素.md",
+                "file": "计算机体系结构/memory/内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/存储元素.md"
+                "file": "计算机体系结构/memory/内存.md"
               }
             }
           }
@@ -229,6 +229,8 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231224100340.png",
+    "计算机体系结构/存储元素.md",
     "计算机体系结构/数据流模型.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/memory/内存.md",
@@ -264,8 +266,6 @@
     "人工智能/图形学/着色频率.md",
     "人工智能/图形学/纹理映射与mipmap方法.md",
     "人工智能/图形学/信号处理.md",
-    "计算机体系结构/micro architecture/pipeline异常处理.md",
-    "数字电路/上课笔记.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
