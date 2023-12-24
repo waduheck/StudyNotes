@@ -10,3 +10,6 @@
 
 ## full associate
 ![[Pasted image 20231224170257.png]]
+
+## remote memory
+![[Pasted image 20231224191721.png]]
