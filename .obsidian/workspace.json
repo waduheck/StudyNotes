@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/memory/cache.md"
+                "file": "1灵感，有空来做/偶然碰到的知识点.md"
               }
             }
           }
@@ -229,9 +229,10 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "1灵感，有空来做/未整理.md",
+    "计算机体系结构/memory/cache.md",
     "images/Pasted image 20231224163848.png",
     "计算机体系结构/memory/内存.md",
-    "计算机体系结构/memory/cache.md",
     "images/Pasted image 20231224163326.png",
     "images/Pasted image 20231224160918.png",
     "images/Pasted image 20231224154127.png",
@@ -253,7 +254,6 @@
     "计算机体系结构/micro architecture/组成结构.md",
     "计算机体系结构/针对硬件的攻击.md",
     "images/Pasted image 20231224101612.png",
-    "images/Pasted image 20231224101151.png",
     "计算机体系结构/memory",
     "计算机体系结构/micro architecture/芯片架构.md",
     "计算机体系结构/micro architecture/GPU.md",
