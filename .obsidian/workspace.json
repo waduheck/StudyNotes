@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/memory/类型.md",
+                "file": "计算机体系结构/memory/内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/memory/类型.md",
+                "file": "计算机体系结构/memory/内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/memory/类型.md",
+                "file": "计算机体系结构/memory/内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/memory/类型.md"
+                "file": "计算机体系结构/memory/内存.md"
               }
             }
           }
@@ -229,11 +229,12 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231224153249.png",
+    "计算机体系结构/memory/类型.md",
     "images/Pasted image 20231224152506.png",
     "images/Pasted image 20231224152032.png",
     "images/Pasted image 20231224152013.png",
     "计算机体系结构/memory/内存.md",
-    "计算机体系结构/memory/类型.md",
     "images/QQ20231224-102332-HD.mp4",
     "images/Pasted image 20231224101826.png",
     "计算机体系结构/存储元素.md",
@@ -252,7 +253,6 @@
     "images/Pasted image 20231224100902.png",
     "images/Pasted image 20231224100838.png",
     "images/Pasted image 20231224100815.png",
-    "images/Pasted image 20231224100747.png",
     "计算机体系结构/memory",
     "计算机体系结构/micro architecture/芯片架构.md",
     "计算机体系结构/micro architecture/GPU.md",
