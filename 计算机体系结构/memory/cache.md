@@ -21,3 +21,6 @@
 ![[Pasted image 20231224200345.png]]
 ## 指令与数据separate or unified
 ![[Pasted image 20231224200559.png]]
+![[Pasted image 20231224200840.png]]
+
+![[Pasted image 20231224200946.png]]
