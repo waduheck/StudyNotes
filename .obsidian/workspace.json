@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "计算机体系结构/memory/虚拟内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "计算机体系结构/memory/虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "计算机体系结构/memory/虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/memory/cache.md"
+                "file": "计算机体系结构/memory/虚拟内存.md"
               }
             }
           }
@@ -229,10 +229,13 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231225144115.png",
+    "images/Pasted image 20231225144059.png",
+    "计算机体系结构/memory/cache.md",
+    "计算机体系结构/memory/虚拟内存.md",
     "images/Pasted image 20231225142208.png",
     "images/Pasted image 20231225141558.png",
     "1灵感，有空来做/偶然碰到的知识点.md",
-    "计算机体系结构/memory/cache.md",
     "images/Pasted image 20231225115420.png",
     "images/Pasted image 20231225115358.png",
     "images/Pasted image 20231225115345.png",
@@ -240,8 +243,6 @@
     "images/Pasted image 20231225115254.png",
     "images/Pasted image 20231225114712.png",
     "images/Pasted image 20231225114646.png",
-    "images/Pasted image 20231225114519.png",
-    "images/Pasted image 20231225113646.png",
     "计算机体系结构/memory/内存.md",
     "计算机体系结构/memory/类型.md",
     "1灵感，有空来做/未整理.md",
@@ -266,7 +267,6 @@
     "计算机体系结构/micro architecture/分支控制.md",
     "计算机体系结构/micro architecture/multi- cycle.md",
     "计算机体系结构/micro architecture/Microarchitecture.md",
-    "计算机体系结构/micro architecture/pipeline.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
