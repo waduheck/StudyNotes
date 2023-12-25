@@ -1,4 +1,5 @@
 ## improving
+![[a6f06f29ef76f118e2036b31d4d982fd_720.png]]
 ![[Pasted image 20231225105610.png]]
 这张PPT幻灯片介绍了一些提高基本缓存性能的方法，主要分为两类：减少缓存未命中率（miss rate）和减少缓存未命中的延迟或成本（miss latency/cost）。
 
@@ -15,6 +16,8 @@
 
 4. **软件方法（Software approaches）**：
    - 优化程序的访存模式，如循环变换和数据预取，以减少缓存未命中。
+   - ![[5e4402d6b137826b07eb9835f48f7a20_720.png]]
+   - ![[9608f5c1cab9820ff06b90385ff22a39_720.png]]
 
 ### 减少缓存未命中的延迟或成本
 
@@ -26,6 +29,7 @@
 
 3. **子块/分区（Subblocking/sectoring）**：
    - 将缓存行分为更小的单元，可以减少在每次缓存未命中时需要传输的数据量。
+   - ![[a250b737a82e7572461d53b248bea3e2.png]]
 
 4. **更好的替换/插入策略（Better replacement/insertion policies）**：
    - 与上文相同，有效的缓存替换策略不仅可以减少未命中率，也可以减少由于缓存未命中引起的延迟。
@@ -64,6 +68,7 @@
 2. 
 ## Subblocked
 ![[Pasted image 20231224200345.png]]
+
 ## 指令与数据separate or unified
 ![[Pasted image 20231224200559.png]]
 ![[Pasted image 20231224200840.png]]
