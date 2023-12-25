@@ -163,3 +163,9 @@ paralle 与 isolated之间减少latency的方法
 ![[Pasted image 20231225115420.png]]
 
 ![[Pasted image 20231225115254.png]]
+### 预执行
+![[Pasted image 20231225141558.png]]
+
+
+OoO中的实际例子
+![[Pasted image 20231225142208.png]]
