@@ -149,7 +149,17 @@ paralle 与 isolated之间减少latency的方法
 ## prefetch
 ![[Pasted image 20231225113646.png]]
 ![[Pasted image 20231225114519.png]]
+![[Pasted image 20231225115320.png]]
 ![[Pasted image 20231225114712.png]]
 
 
 ![[Pasted image 20231225114646.png]]
+
+### stride prefetcher
+![[Pasted image 20231225115345.png]]
+
+![[Pasted image 20231225115358.png]]
+
+![[Pasted image 20231225115420.png]]
+
+![[Pasted image 20231225115254.png]]
