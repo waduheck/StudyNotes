@@ -148,3 +148,4 @@ paralle 与 isolated之间减少latency的方法
 
 ## prefetch
 ![[Pasted image 20231225113646.png]]
+![[Pasted image 20231225114519.png]]
