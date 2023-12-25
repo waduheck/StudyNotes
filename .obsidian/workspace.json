@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "计算机体系结构/memory/虚拟内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "计算机体系结构/memory/虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/memory/cache.md",
+                "file": "计算机体系结构/memory/虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/memory/cache.md"
+                "file": "计算机体系结构/memory/虚拟内存.md"
               }
             }
           }
@@ -229,6 +229,8 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231225185035.png",
+    "计算机体系结构/memory/cache.md",
     "计算机体系结构/memory/虚拟内存.md",
     "计算机体系结构/memory/内存.md",
     "计算机体系结构/memory/类型.md",
@@ -242,7 +244,6 @@
     "images/Pasted image 20231225144948.png",
     "images/Pasted image 20231225144758.png",
     "images/Pasted image 20231225144622.png",
-    "计算机体系结构/memory/cache.md",
     "1灵感，有空来做/偶然碰到的知识点.md",
     "1灵感，有空来做/未整理.md",
     "images/QQ20231224-102332-HD.mp4",
