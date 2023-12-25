@@ -27,8 +27,13 @@
 
 
 ![[Pasted image 20231224202532.png]]
+paralle 与 isolated之间减少latency的方法
+![[Pasted image 20231225105046.png]]
+
 
 ![[Pasted image 20231225104910.png]]
+![[Pasted image 20231225105323.png]]
+
 
 ![[Pasted image 20231225103421.png]]
 减少latency的方法
