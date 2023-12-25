@@ -133,5 +133,13 @@ paralle 与 isolated之间减少latency的方法
 
 简而言之，MLP是一个衡量处理器在内存访问方面并行能力的指标，它可以显著影响程序的执行效率。通过允许多个内存访问同时进行，处理器可以更好地利用其资源，减少因等待内存访问完成而造成的时间浪费。
 
-## multi-core shared cache带来的冲突
+## multi-core shared issues
+### cache带来的冲突
 ![[Pasted image 20231225111359.png]]
+需要改进cache的调度算法来避免
+
+### 缓存一致性
+![[Pasted image 20231225111648.png]]
+
+解决办法
+![[Pasted image 20231225111813.png]]
