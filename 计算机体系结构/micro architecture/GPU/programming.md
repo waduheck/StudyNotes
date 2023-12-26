@@ -16,3 +16,7 @@
 ![[Pasted image 20231226101353.png]]
 ![[Pasted image 20231226101426.png]]
 ![[Pasted image 20231226101445.png]]
+
+## memory accese
+![[Pasted image 20231226101808.png]]
+
