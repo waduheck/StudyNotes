@@ -11,3 +11,8 @@
 ![[Pasted image 20231226100822.png]]
 
 ![[Pasted image 20231226100952.png]]
+
+## 几种gpu架构
+![[Pasted image 20231226101353.png]]
+![[Pasted image 20231226101426.png]]
+![[Pasted image 20231226101445.png]]
