@@ -121,3 +121,11 @@
 ## data transfers
 当data之间的处理是independent时
 ![[Pasted image 20231226114048.png]]
+
+### 统一内存
+![[Pasted image 20231226115505.png]]
+
+![[Pasted image 20231226115436.png]]
+### 合作编程
+假如不同的任务在不同的device上效率不同
+![[Pasted image 20231226115034.png]]
