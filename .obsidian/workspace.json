@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/gaussian edit/疑点.md",
+                "file": "论文/gaussian edit/总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/gaussian edit/疑点.md",
+                "file": "论文/gaussian edit/总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/gaussian edit/疑点.md",
+                "file": "论文/gaussian edit/总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/gaussian edit/疑点.md"
+                "file": "论文/gaussian edit/总结.md"
               }
             }
           }
@@ -229,8 +229,8 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
-    "论文/3d gaussian 疑点.md",
     "论文/gaussian edit/疑点.md",
+    "论文/3d gaussian 疑点.md",
     "论文/gaussian edit/总结.md",
     "人工智能/图形学/光线追踪.md",
     "论文/gaussian edit",
