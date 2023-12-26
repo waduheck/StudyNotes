@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/图形学/图形学基础知识.md",
+                "file": "计算机视觉与图形学/图形学/图形学基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/cv/CV.md",
+                "file": "计算机视觉与图形学/cv/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/图形学/光栅化.md",
+                "file": "计算机视觉与图形学/图形学/光栅化.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/gaussian edit/总结.md",
+                "file": "人工智能/ViT.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/gaussian edit/总结.md",
+                "file": "人工智能/ViT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/gaussian edit/总结.md",
+                "file": "人工智能/ViT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/gaussian edit/总结.md"
+                "file": "人工智能/ViT.md"
               }
             }
           }
@@ -227,15 +227,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a42f4cb9a61a982",
+  "active": "70a1cf98edfbe078",
   "lastOpenFiles": [
+    "计算机视觉与图形学/cv/3d editing",
+    "计算机视觉与图形学/cv/3d representations",
+    "论文/gaussian edit/总结.md",
+    "计算机视觉与图形学",
     "论文/gaussian edit/3d editing.md",
     "人工智能/各个领域.md",
     "人工智能/未命名",
-    "论文/gaussian edit/总结.md",
     "论文/gaussian edit/疑点.md",
     "论文/3d gaussian 疑点.md",
-    "人工智能/图形学/光线追踪.md",
+    "计算机视觉与图形学/图形学/光线追踪.md",
     "论文/gaussian edit",
     "逻辑论证/理论.md",
     "论文/bert.md",
@@ -250,13 +253,12 @@
     "置身事内/第一章.md",
     "1灵感，有空来做/偶然碰到的知识点.md",
     "人工智能/路径规划算法.md",
-    "人工智能/图形学/MVS.md",
-    "人工智能/图形学/transform.md",
-    "人工智能/图形学/信号处理.md",
-    "人工智能/图形学/纹理映射与mipmap方法.md",
-    "人工智能/图形学/光照模型.md",
-    "人工智能/图形学/光栅化.md",
-    "人工智能/图形学/抗锯齿.md",
+    "计算机视觉与图形学/图形学/MVS.md",
+    "计算机视觉与图形学/图形学/transform.md",
+    "计算机视觉与图形学/图形学/信号处理.md",
+    "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
+    "计算机视觉与图形学/图形学/光照模型.md",
+    "计算机视觉与图形学/图形学/光栅化.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
@@ -272,8 +274,6 @@
     "计算机体系结构/memory",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
-    "数据结构与算法/61B/图",
-    "1哲学心理学",
-    "逻辑论证"
+    "数据结构与算法/61B/图"
   ]
 }
