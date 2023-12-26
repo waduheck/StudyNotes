@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/micro architecture/GPU.md",
+                "file": "计算机体系结构/micro architecture/GPU/programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/micro architecture/GPU.md",
+                "file": "计算机体系结构/micro architecture/GPU/programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/micro architecture/GPU.md",
+                "file": "计算机体系结构/micro architecture/GPU/programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/micro architecture/GPU.md"
+                "file": "计算机体系结构/micro architecture/GPU/programming.md"
               }
             }
           }
@@ -229,6 +229,11 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231226092128.png",
+    "计算机体系结构/micro architecture/GPU/GPU.md",
+    "计算机体系结构/micro architecture/GPU/programming.md",
+    "计算机体系结构/micro architecture/GPU",
+    "images/Pasted image 20231226092105.png",
     "images/Pasted image 20231226090932.png",
     "images/Pasted image 20231226090848.png",
     "计算机体系结构/存储元素.md",
@@ -241,8 +246,6 @@
     "images/Pasted image 20231225193558.png",
     "images/Pasted image 20231225193448.png",
     "images/Pasted image 20231225192648.png",
-    "images/Pasted image 20231225192619.png",
-    "images/Pasted image 20231225191958.png",
     "计算机体系结构/memory/cache.md",
     "计算机体系结构/memory/内存.md",
     "计算机体系结构/memory/类型.md",
@@ -260,20 +263,17 @@
     "计算机体系结构/针对硬件的攻击.md",
     "计算机体系结构/memory",
     "计算机体系结构/micro architecture/芯片架构.md",
-    "计算机体系结构/micro architecture/GPU.md",
     "计算机体系结构/micro architecture/时间分析.md",
     "计算机体系结构/micro architecture/指令执行顺序.md",
     "计算机体系结构/micro architecture/设计原则.md",
     "计算机体系结构/micro architecture/OoO.md",
     "计算机体系结构/micro architecture/分支控制.md",
-    "计算机体系结构/micro architecture/multi- cycle.md",
     "数据结构与算法/61B/图/树",
     "数据结构与算法/数据结构",
     "数据结构与算法/61B/图",
     "1哲学心理学",
     "逻辑论证",
     "计算机体系结构/micro architecture",
-    "数理大乱炖/概率论/上课",
-    "images/ITRANSFORMER.pdf"
+    "数理大乱炖/概率论/上课"
   ]
 }
