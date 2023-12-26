@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/图形学/光线追踪.md",
+                "file": "论文/gaussian edit/疑点.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/图形学/光线追踪.md",
+                "file": "论文/gaussian edit/疑点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/图形学/光线追踪.md",
+                "file": "论文/gaussian edit/疑点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/图形学/光线追踪.md"
+                "file": "论文/gaussian edit/疑点.md"
               }
             }
           }
@@ -229,9 +229,13 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "论文/3d gaussian 疑点.md",
+    "论文/gaussian edit/疑点.md",
+    "论文/gaussian edit/总结.md",
+    "人工智能/图形学/光线追踪.md",
+    "论文/gaussian edit",
     "逻辑论证/理论.md",
     "论文/bert.md",
-    "论文/3d gaussian 疑点.md",
     "数理大乱炖/微分几何/曲面.md",
     "数理大乱炖/微分几何/曲线.md",
     "数理大乱炖/基函数.md",
@@ -252,9 +256,6 @@
     "人工智能/图形学/光栅化.md",
     "人工智能/图形学/抗锯齿.md",
     "人工智能/图形学/着色频率.md",
-    "数理大乱炖/流形,李群及刚体变换/流形,李群及刚体变换.md",
-    "数理大乱炖/流形,李群及刚体变换/李群与李代数.md",
-    "数理大乱炖/流形,李群及刚体变换/刚体变换.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
@@ -273,7 +274,6 @@
     "数据结构与算法/61B/图",
     "1哲学心理学",
     "逻辑论证",
-    "计算机体系结构/micro architecture",
-    "数理大乱炖/概率论/上课"
+    "计算机体系结构/micro architecture"
   ]
 }
