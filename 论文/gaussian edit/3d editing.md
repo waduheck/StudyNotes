@@ -1,1 +1,0 @@
-使用nerf与diffusion
