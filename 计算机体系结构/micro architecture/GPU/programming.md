@@ -1,3 +1,5 @@
+![[Pasted image 20231226102947.png]]
+
 ![[Pasted image 20231226092128.png]]
 ![[Pasted image 20231226092226.png]]
 ![[Pasted image 20231226092504.png]]
@@ -35,3 +37,5 @@
 - 合并访问（Coalesced Access）意味着线程束中的线程访问连续的内存地址，这样它们就能共享同一个内存读写事务。
 ![[Pasted image 20231226102620.png]]
 ![[Pasted image 20231226102633.png]]
+![[Pasted image 20231226102831.png]]
+
