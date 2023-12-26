@@ -66,4 +66,5 @@
 
 ### sharing memory bank conflict
 根据鸽巢原理，当往较小的存储元素中塞入大量线程时会导致conflict
+![[Pasted image 20231226104259.png]]
 ![[Pasted image 20231226104217.png]]
