@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机体系结构/summary.md",
+                "file": "计算机体系结构/micro architecture/GPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机体系结构/summary.md",
+                "file": "计算机体系结构/micro architecture/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机体系结构/summary.md",
+                "file": "计算机体系结构/micro architecture/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机体系结构/summary.md"
+                "file": "计算机体系结构/micro architecture/GPU.md"
               }
             }
           }
@@ -229,26 +229,26 @@
   },
   "active": "3a42f4cb9a61a982",
   "lastOpenFiles": [
+    "images/Pasted image 20231226090932.png",
+    "images/Pasted image 20231226090848.png",
+    "计算机体系结构/存储元素.md",
+    "计算机体系结构/summary.md",
     "images/Pasted image 20231225195508.png",
     "images/Pasted image 20231225195454.png",
     "images/Pasted image 20231225195441.png",
     "images/Pasted image 20231225195425.png",
     "计算机体系结构/memory/虚拟内存.md",
-    "计算机体系结构/summary.md",
     "images/Pasted image 20231225193558.png",
     "images/Pasted image 20231225193448.png",
     "images/Pasted image 20231225192648.png",
     "images/Pasted image 20231225192619.png",
     "images/Pasted image 20231225191958.png",
-    "images/Pasted image 20231225191853.png",
-    "images/Pasted image 20231225190416.png",
     "计算机体系结构/memory/cache.md",
     "计算机体系结构/memory/内存.md",
     "计算机体系结构/memory/类型.md",
     "1灵感，有空来做/偶然碰到的知识点.md",
     "1灵感，有空来做/未整理.md",
     "images/QQ20231224-102332-HD.mp4",
-    "计算机体系结构/存储元素.md",
     "计算机体系结构/逻辑门与逻辑运算.md",
     "计算机体系结构/高级电路.md",
     "计算机体系结构/micro architecture/冯诺依曼结构.md",

@@ -1,6 +1,10 @@
 不太懂：
 1. SIMD、SIMT、SPMD之间的关系
 
+![[Pasted image 20231226090848.png]]
+
+![[Pasted image 20231226090932.png]]
+
 
 ![[Pasted image 20231223232733.png]]
 ## MMX操作
