@@ -118,3 +118,6 @@
 
 
 
+## data transfers
+当data之间的处理是independent时
+![[Pasted image 20231226114048.png]]
