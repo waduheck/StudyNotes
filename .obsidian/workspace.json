@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
+                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
+                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
+                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md"
+                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md"
               }
             }
           }
@@ -217,8 +217,11 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "1哲学心理学/哲学理论/真理的探寻/柏拉图-洞穴理论.md",
+    "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
+    "1哲学心理学/哲学理论/幸福、快乐的衡量",
+    "1哲学心理学/哲学理论/真理的探寻",
     "1哲学心理学/哲学理论/社会与政治.md",
-    "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
     "1哲学心理学/哲学理论",
     "1哲学心理学/逻辑论证/例子.md",
     "1哲学心理学/逻辑论证/理论.md",
@@ -248,7 +251,6 @@
     "数理大乱炖/矩阵分析.md",
     "数理大乱炖/数学分析.md",
     "数理大乱炖/随机过程.md",
-    "数理大乱炖/线性代数.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
@@ -260,8 +262,6 @@
     "images/Pasted image 20231226104259.png",
     "images/Pasted image 20231226104217.png",
     "计算机体系结构/micro architecture/GPU",
-    "images/QQ20231224-102332-HD.mp4",
-    "计算机体系结构/memory",
-    "数据结构与算法/61B/图/树"
+    "images/QQ20231224-102332-HD.mp4"
   ]
 }
