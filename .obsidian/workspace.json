@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/gaussian edit/总结.md",
+                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/gaussian edit/总结.md",
+                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/gaussian edit/总结.md",
+                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/gaussian edit/总结.md"
+                "file": "1哲学心理学/哲学理论/柏拉图-洞穴理论.md"
               }
             }
           }
@@ -217,8 +217,13 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "论文/gaussian edit/疑点.md",
+    "1哲学心理学/哲学理论/社会与政治.md",
+    "1哲学心理学/哲学理论/柏拉图-洞穴理论.md",
+    "1哲学心理学/哲学理论",
+    "1哲学心理学/逻辑论证/例子.md",
+    "1哲学心理学/逻辑论证/理论.md",
     "论文/gaussian edit/总结.md",
+    "论文/gaussian edit/疑点.md",
     "论文/人工智能导论.md",
     "人工智能/路径规划算法.md",
     "人工智能/损失函数.md",
@@ -236,7 +241,6 @@
     "论文/3d gaussian 疑点.md",
     "计算机视觉与图形学/图形学/光线追踪.md",
     "论文/gaussian edit",
-    "逻辑论证/理论.md",
     "论文/bert.md",
     "数理大乱炖/微分几何/曲面.md",
     "数理大乱炖/微分几何/曲线.md",
@@ -245,9 +249,6 @@
     "数理大乱炖/数学分析.md",
     "数理大乱炖/随机过程.md",
     "数理大乱炖/线性代数.md",
-    "数字电路/上课笔记.md",
-    "置身事内/第一章.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
@@ -261,7 +262,6 @@
     "计算机体系结构/micro architecture/GPU",
     "images/QQ20231224-102332-HD.mp4",
     "计算机体系结构/memory",
-    "数据结构与算法/61B/图/树",
-    "数据结构与算法/数据结构"
+    "数据结构与算法/61B/图/树"
   ]
 }
