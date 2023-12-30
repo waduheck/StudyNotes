@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/1概述.md",
+                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/1概述.md",
+                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/1概述.md",
+                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/1概述.md"
+                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md"
               }
             }
           }
