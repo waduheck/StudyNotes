@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/zero123/疑点.md",
+                "file": "数据结构与算法/61B/图/树/树.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/zero123/疑点.md",
+                "file": "数据结构与算法/61B/图/树/树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/zero123/疑点.md",
+                "file": "数据结构与算法/61B/图/树/树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/zero123/疑点.md"
+                "file": "数据结构与算法/61B/图/树/树.md"
               }
             }
           }
@@ -217,8 +217,14 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "论文/gaussian edit/总结.md",
+    "数据结构与算法/61B/图/树/前缀树.md",
+    "数据结构与算法/61B/图/树/线段树.md",
+    "数据结构与算法/61B/图/树/树.md",
+    "数据结构与算法/61B/图/图.md",
+    "数据结构与算法/上课/树.md",
+    "论文/3d gaussian 疑点.md",
     "论文/zero123/疑点.md",
+    "论文/gaussian edit/总结.md",
     "论文/zero123",
     "论文/gaussian edit/疑点.md",
     "1灵感，有空来做/未整理.md",
@@ -247,12 +253,6 @@
     "1哲学心理学/逻辑论证/例子.md",
     "1哲学心理学/逻辑论证/理论.md",
     "论文/人工智能导论.md",
-    "人工智能/路径规划算法.md",
-    "人工智能/损失函数.md",
-    "论文/gaussian edit/改进思路.md",
-    "计算机视觉与图形学/cv/3d representations/如题.md",
-    "论文/gaussian edit/3d editing.md",
-    "计算机视觉与图形学/cv/3d editing/gaussian splatting.md",
     "计算机视觉与图形学/cv/3d editing",
     "计算机视觉与图形学/cv/3d representations",
     "images/Pasted image 20231226115505.png",
