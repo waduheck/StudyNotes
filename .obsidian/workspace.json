@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/61B/图/树/树.md",
+                "file": "数据结构与算法/61B/图/树/线索二叉树.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/61B/图/树/树.md",
+                "file": "数据结构与算法/61B/图/树/线索二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/61B/图/树/树.md",
+                "file": "数据结构与算法/61B/图/树/线索二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/61B/图/树/树.md"
+                "file": "数据结构与算法/61B/图/树/线索二叉树.md"
               }
             }
           }
@@ -217,9 +217,11 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "数据结构与算法/61B/图/树/树.md",
+    "数据结构与算法/61B/图/树/线索二叉树.md",
+    "数据结构与算法/61B/图/树/未命名",
     "数据结构与算法/61B/图/树/前缀树.md",
     "数据结构与算法/61B/图/树/线段树.md",
-    "数据结构与算法/61B/图/树/树.md",
     "数据结构与算法/61B/图/图.md",
     "数据结构与算法/上课/树.md",
     "论文/3d gaussian 疑点.md",
@@ -252,9 +254,7 @@
     "1哲学心理学/哲学理论",
     "1哲学心理学/逻辑论证/例子.md",
     "1哲学心理学/逻辑论证/理论.md",
-    "论文/人工智能导论.md",
     "计算机视觉与图形学/cv/3d editing",
-    "计算机视觉与图形学/cv/3d representations",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
