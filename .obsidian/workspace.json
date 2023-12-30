@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "论文/gaussian edit/总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "论文/gaussian edit/总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md",
+                "file": "论文/gaussian edit/总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1灵感，有空来做/偶然碰到的知识点.md"
+                "file": "论文/gaussian edit/总结.md"
               }
             }
           }
@@ -217,6 +217,10 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "论文/gaussian edit/疑点.md",
+    "论文/gaussian edit/总结.md",
+    "1灵感，有空来做/未整理.md",
+    "1灵感，有空来做/偶然碰到的知识点.md",
     "环境配置.md",
     "人工智能/训练方法/数据处理/数据清洗.md",
     "人工智能/训练方法/数据处理/数据增强.md",
@@ -240,8 +244,6 @@
     "1哲学心理学/哲学理论",
     "1哲学心理学/逻辑论证/例子.md",
     "1哲学心理学/逻辑论证/理论.md",
-    "论文/gaussian edit/总结.md",
-    "论文/gaussian edit/疑点.md",
     "论文/人工智能导论.md",
     "人工智能/路径规划算法.md",
     "人工智能/损失函数.md",
@@ -250,11 +252,9 @@
     "论文/gaussian edit/3d editing.md",
     "计算机视觉与图形学/cv/3d editing/gaussian splatting.md",
     "计算机视觉与图形学/cv/3d editing/nerf.md",
-    "人工智能/ViT.md",
     "计算机视觉与图形学/cv/3d editing",
     "计算机视觉与图形学/cv/3d representations",
     "计算机视觉与图形学",
-    "人工智能/各个领域.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
