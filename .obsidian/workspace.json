@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/训练方法/数据处理/数据清洗.md",
+                "file": "环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/训练方法/数据处理/数据清洗.md",
+                "file": "环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/训练方法/数据处理/数据清洗.md",
+                "file": "环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/训练方法/数据处理/数据清洗.md"
+                "file": "环境配置.md"
               }
             }
           }
@@ -217,8 +217,8 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "人工智能/训练方法/数据处理/数据增强.md",
     "人工智能/训练方法/数据处理/数据清洗.md",
+    "人工智能/训练方法/数据处理/数据增强.md",
     "人工智能/训练方法/预训练/fine-tune.md",
     "人工智能/训练方法/数据处理",
     "人工智能/训练方法/预训练/linear-probe.md",
