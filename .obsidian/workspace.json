@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
+                "file": "人工智能/训练方法/自监督（无监督）/1概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
+                "file": "人工智能/训练方法/自监督（无监督）/1概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
+                "file": "人工智能/训练方法/自监督（无监督）/1概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md"
+                "file": "人工智能/训练方法/自监督（无监督）/1概述.md"
               }
             }
           }
@@ -217,8 +217,16 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "1哲学心理学/哲学理论/真理的探寻/柏拉图-洞穴理论.md",
+    "人工智能/训练方法/自监督（无监督）/生成式学习.md",
+    "人工智能/训练方法/自监督（无监督）/对比学习.md",
+    "人工智能/训练方法/自监督（无监督）/1概述.md",
+    "images/Pasted image 20231230102434.png",
+    "images/Pasted image 20231218185234.png",
+    "人工智能/训练方法/自监督（无监督）.md",
+    "人工智能/训练方法/自监督（无监督）",
     "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
+    "人工智能/训练方法",
+    "1哲学心理学/哲学理论/真理的探寻/柏拉图-洞穴理论.md",
     "1哲学心理学/哲学理论/幸福、快乐的衡量",
     "1哲学心理学/哲学理论/真理的探寻",
     "1哲学心理学/哲学理论/社会与政治.md",
@@ -240,17 +248,11 @@
     "计算机视觉与图形学/cv/3d representations",
     "计算机视觉与图形学",
     "人工智能/各个领域.md",
-    "人工智能/未命名",
     "论文/3d gaussian 疑点.md",
     "计算机视觉与图形学/图形学/光线追踪.md",
     "论文/gaussian edit",
     "论文/bert.md",
     "数理大乱炖/微分几何/曲面.md",
-    "数理大乱炖/微分几何/曲线.md",
-    "数理大乱炖/基函数.md",
-    "数理大乱炖/矩阵分析.md",
-    "数理大乱炖/数学分析.md",
-    "数理大乱炖/随机过程.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
@@ -259,9 +261,6 @@
     "images/Pasted image 20231226112545.png",
     "images/Pasted image 20231226104926.png",
     "images/Pasted image 20231226104916.png",
-    "images/Pasted image 20231226104259.png",
-    "images/Pasted image 20231226104217.png",
-    "计算机体系结构/micro architecture/GPU",
-    "images/QQ20231224-102332-HD.mp4"
+    "计算机体系结构/micro architecture/GPU"
   ]
 }
