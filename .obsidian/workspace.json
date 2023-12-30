@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md",
+                "file": "人工智能/训练方法/预训练/linear-probe.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md",
+                "file": "人工智能/训练方法/预训练/linear-probe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md",
+                "file": "人工智能/训练方法/预训练/linear-probe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/训练方法/自监督（无监督）/对比学习.md"
+                "file": "人工智能/训练方法/预训练/linear-probe.md"
               }
             }
           }
@@ -217,8 +217,10 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "人工智能/训练方法/自监督（无监督）/生成式学习.md",
     "人工智能/训练方法/自监督（无监督）/对比学习.md",
+    "人工智能/训练方法/预训练/linear-probe.md",
+    "人工智能/训练方法/预训练",
+    "人工智能/训练方法/自监督（无监督）/生成式学习.md",
     "人工智能/训练方法/自监督（无监督）/1概述.md",
     "images/Pasted image 20231230102434.png",
     "images/Pasted image 20231218185234.png",
@@ -260,7 +262,6 @@
     "images/Pasted image 20231226112605.png",
     "images/Pasted image 20231226112545.png",
     "images/Pasted image 20231226104926.png",
-    "images/Pasted image 20231226104916.png",
-    "计算机体系结构/micro architecture/GPU"
+    "images/Pasted image 20231226104916.png"
   ]
 }
