@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "环境配置.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "环境配置.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "环境配置.md",
+                "file": "1灵感，有空来做/偶然碰到的知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "环境配置.md"
+                "file": "1灵感，有空来做/偶然碰到的知识点.md"
               }
             }
           }
@@ -217,6 +217,7 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "环境配置.md",
     "人工智能/训练方法/数据处理/数据清洗.md",
     "人工智能/训练方法/数据处理/数据增强.md",
     "人工智能/训练方法/预训练/fine-tune.md",
@@ -254,7 +255,6 @@
     "计算机视觉与图形学/cv/3d representations",
     "计算机视觉与图形学",
     "人工智能/各个领域.md",
-    "论文/3d gaussian 疑点.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
