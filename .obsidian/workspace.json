@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人工智能/训练方法/预训练/linear-probe.md",
+                "file": "人工智能/训练方法/预训练/fine-tune.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人工智能/训练方法/预训练/linear-probe.md",
+                "file": "人工智能/训练方法/预训练/fine-tune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人工智能/训练方法/预训练/linear-probe.md",
+                "file": "人工智能/训练方法/预训练/fine-tune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人工智能/训练方法/预训练/linear-probe.md"
+                "file": "人工智能/训练方法/预训练/fine-tune.md"
               }
             }
           }
@@ -217,8 +217,9 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "人工智能/训练方法/自监督（无监督）/对比学习.md",
     "人工智能/训练方法/预训练/linear-probe.md",
+    "人工智能/训练方法/预训练/fine-tune.md",
+    "人工智能/训练方法/自监督（无监督）/对比学习.md",
     "人工智能/训练方法/预训练",
     "人工智能/训练方法/自监督（无监督）/生成式学习.md",
     "人工智能/训练方法/自监督（无监督）/1概述.md",
@@ -254,7 +255,6 @@
     "计算机视觉与图形学/图形学/光线追踪.md",
     "论文/gaussian edit",
     "论文/bert.md",
-    "数理大乱炖/微分几何/曲面.md",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
