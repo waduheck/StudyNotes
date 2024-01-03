@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/图形学/MVS.md",
+                "file": "计算机视觉与图形学/图形学/光照模型.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/图形学/MVS.md",
+                "file": "计算机视觉与图形学/图形学/光照模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/图形学/MVS.md",
+                "file": "计算机视觉与图形学/图形学/光照模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/图形学/MVS.md"
+                "file": "计算机视觉与图形学/图形学/光照模型.md"
               }
             }
           }
@@ -217,35 +217,35 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "计算机视觉与图形学/图形学/阴影.md",
-    "计算机视觉与图形学/图形学/transform.md",
-    "计算机视觉与图形学/图形学/信号处理.md",
     "计算机视觉与图形学/图形学/几何表示.md",
-    "计算机视觉与图形学/图形学/三维建模+渲染.md",
     "计算机视觉与图形学/图形学/抗锯齿.md",
-    "计算机视觉与图形学/图形学/MVS.md",
-    "论文/灵感.md",
-    "论文/gaussian edit/疑点.md",
+    "计算机视觉与图形学/图形学/光栅化.md",
     "论文/gaussian edit/总结.md",
+    "论文/gaussian edit/疑点.md",
+    "论文/灵感.md",
+    "论文/代码精读任务.md",
+    "论文/人工智能导论.md",
+    "论文/bert.md",
+    "论文/gaussian splatting改进.md",
+    "计算机视觉与图形学/图形学/transform.md",
+    "计算机视觉与图形学/cv/MVS.md",
+    "计算机视觉与图形学/cv/CV.md",
+    "计算机视觉与图形学/cv/特征提取.md",
+    "计算机视觉与图形学/cv/各种算子，滤波.md",
+    "计算机视觉与图形学/cv/对极几何.md",
+    "计算机视觉与图形学/cv/3d editing/gaussian splatting.md",
+    "计算机视觉与图形学/cv/3d editing/nerf.md",
+    "计算机视觉与图形学/图形学/光照模型.md",
+    "计算机视觉与图形学/图形学/三维建模+渲染.md",
+    "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
+    "计算机视觉与图形学/图形学/信号处理.md",
+    "计算机视觉与图形学/图形学/图形学基础知识.md",
+    "计算机视觉与图形学/图形学/阴影.md",
     "数据结构与算法/上课/树.md",
     "数据结构与算法/上课/上课笔记.md",
     "数据结构与算法/61B/IntListandSLList.png",
-    "数据结构与算法/61B/Lists.md",
-    "数据结构与算法/61B/图/树/线索二叉树.md",
-    "数据结构与算法/61B/图/DAG.md",
-    "数据结构与算法/61B/图/树/线段树.md",
-    "数据结构与算法/61B/图/树/树.md",
-    "数据结构与算法/61B/图/树/前缀树.md",
     "数据结构与算法/61B/图/树/未命名",
-    "数据结构与算法/61B/图/图.md",
-    "论文/3d gaussian 疑点.md",
-    "论文/zero123/疑点.md",
     "论文/zero123",
-    "1灵感，有空来做/未整理.md",
-    "1灵感，有空来做/偶然碰到的知识点.md",
-    "环境配置.md",
-    "人工智能/训练方法/数据处理/数据清洗.md",
-    "人工智能/训练方法/数据处理/数据增强.md",
     "人工智能/训练方法/数据处理",
     "人工智能/训练方法/预训练",
     "images/Pasted image 20231230102434.png",
