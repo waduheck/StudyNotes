@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/灵感.md",
+                "file": "计算机视觉与图形学/图形学/信号处理.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/灵感.md",
+                "file": "计算机视觉与图形学/图形学/信号处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/灵感.md",
+                "file": "计算机视觉与图形学/图形学/信号处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/灵感.md"
+                "file": "计算机视觉与图形学/图形学/信号处理.md"
               }
             }
           }
@@ -217,8 +217,8 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
-    "论文/gaussian edit/疑点.md",
     "论文/灵感.md",
+    "论文/gaussian edit/疑点.md",
     "论文/gaussian edit/总结.md",
     "数据结构与算法/上课/树.md",
     "数据结构与算法/上课/上课笔记.md",
