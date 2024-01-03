@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理.md",
+                "file": "计算机视觉与图形学/图形学/MVS.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理.md",
+                "file": "计算机视觉与图形学/图形学/MVS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理.md",
+                "file": "计算机视觉与图形学/图形学/MVS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理.md"
+                "file": "计算机视觉与图形学/图形学/MVS.md"
               }
             }
           }
@@ -217,6 +217,9 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "计算机视觉与图形学/图形学/transform.md",
+    "计算机视觉与图形学/图形学/阴影.md",
+    "计算机视觉与图形学/图形学/信号处理.md",
     "论文/灵感.md",
     "论文/gaussian edit/疑点.md",
     "论文/gaussian edit/总结.md",
@@ -245,12 +248,9 @@
     "人工智能/训练方法/自监督（无监督）/对比学习.md",
     "人工智能/训练方法/预训练",
     "人工智能/训练方法/自监督（无监督）/生成式学习.md",
-    "人工智能/训练方法/自监督（无监督）/1概述.md",
     "images/Pasted image 20231230102434.png",
     "images/Pasted image 20231218185234.png",
-    "人工智能/训练方法/自监督（无监督）.md",
     "人工智能/训练方法/自监督（无监督）",
-    "1哲学心理学/哲学理论/幸福、快乐的衡量/功利主义的发展.md",
     "人工智能/训练方法",
     "1哲学心理学/哲学理论/幸福、快乐的衡量",
     "1哲学心理学/哲学理论/真理的探寻",
