@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/对比学习串讲.md",
+                "file": "论文/灵感.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/对比学习串讲.md",
+                "file": "论文/灵感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/对比学习串讲.md",
+                "file": "论文/灵感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/对比学习串讲.md"
+                "file": "论文/灵感.md"
               }
             }
           }
@@ -217,11 +217,11 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "论文/对比学习串讲.md",
     "images/Pasted image 20240103111819.png",
     "images/Pasted image 20240103111817.png",
     "images/Pasted image 20240103111717.png",
     "计算机视觉与图形学/图形学/光照模型.md",
-    "论文/对比学习串讲.md",
     "计算机视觉与图形学/图形学/几何表示.md",
     "计算机视觉与图形学/图形学/抗锯齿.md",
     "计算机视觉与图形学/图形学/光栅化.md",
@@ -261,7 +261,6 @@
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
-    "images/Pasted image 20231226114048.png",
-    "images/Pasted image 20231226112605.png"
+    "images/Pasted image 20231226114048.png"
   ]
 }
