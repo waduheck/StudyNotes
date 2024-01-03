@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光照模型.md",
+                "file": "论文/对比学习串讲.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光照模型.md",
+                "file": "论文/对比学习串讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光照模型.md",
+                "file": "论文/对比学习串讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光照模型.md"
+                "file": "论文/对比学习串讲.md"
               }
             }
           }
@@ -217,6 +217,11 @@
   },
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
+    "images/Pasted image 20240103111819.png",
+    "images/Pasted image 20240103111817.png",
+    "images/Pasted image 20240103111717.png",
+    "计算机视觉与图形学/图形学/光照模型.md",
+    "论文/对比学习串讲.md",
     "计算机视觉与图形学/图形学/几何表示.md",
     "计算机视觉与图形学/图形学/抗锯齿.md",
     "计算机视觉与图形学/图形学/光栅化.md",
@@ -235,14 +240,11 @@
     "计算机视觉与图形学/cv/对极几何.md",
     "计算机视觉与图形学/cv/3d editing/gaussian splatting.md",
     "计算机视觉与图形学/cv/3d editing/nerf.md",
-    "计算机视觉与图形学/图形学/光照模型.md",
     "计算机视觉与图形学/图形学/三维建模+渲染.md",
     "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
     "计算机视觉与图形学/图形学/信号处理.md",
     "计算机视觉与图形学/图形学/图形学基础知识.md",
     "计算机视觉与图形学/图形学/阴影.md",
-    "数据结构与算法/上课/树.md",
-    "数据结构与算法/上课/上课笔记.md",
     "数据结构与算法/61B/IntListandSLList.png",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
@@ -260,8 +262,6 @@
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png",
     "images/Pasted image 20231226114048.png",
-    "images/Pasted image 20231226112605.png",
-    "images/Pasted image 20231226112545.png",
-    "images/Pasted image 20231226104926.png"
+    "images/Pasted image 20231226112605.png"
   ]
 }
