@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/生成式模型串讲.md",
+                "file": "论文/灵感.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/生成式模型串讲.md",
+                "file": "论文/灵感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/生成式模型串讲.md",
+                "file": "论文/灵感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/生成式模型串讲.md"
+                "file": "论文/灵感.md"
               }
             }
           }
@@ -218,8 +218,9 @@
   "active": "4095a319c4cb7ed1",
   "lastOpenFiles": [
     "论文/对比学习串讲.md",
-    "论文/生成式模型串讲.md",
     "论文/灵感.md",
+    "1灵感，有空来做/偶然碰到的知识点.md",
+    "论文/生成式模型串讲.md",
     "images/Pasted image 20240103111819.png",
     "images/Pasted image 20240103111817.png",
     "images/Pasted image 20240103111717.png",
@@ -245,7 +246,6 @@
     "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
     "计算机视觉与图形学/图形学/信号处理.md",
     "计算机视觉与图形学/图形学/图形学基础知识.md",
-    "计算机视觉与图形学/图形学/阴影.md",
     "数据结构与算法/61B/IntListandSLList.png",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
