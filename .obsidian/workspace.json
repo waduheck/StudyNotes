@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光线追踪.md",
+                "file": "计算机视觉与图形学/图形学/信号处理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5776f3321893b26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school work/神经网络漫谈.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光线追踪.md",
+                "file": "school work/神经网络漫谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光线追踪.md",
+                "file": "school work/神经网络漫谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/图形学/光线追踪.md"
+                "file": "school work/神经网络漫谈.md"
               }
             }
           }
@@ -215,10 +227,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4095a319c4cb7ed1",
+  "active": "5776f3321893b26c",
   "lastOpenFiles": [
-    "1灵感，有空来做/偶然碰到的知识点.md",
     "计算机视觉与图形学/图形学/信号处理.md",
+    "数据结构与算法/上课/树.md",
+    "school work/神经网络漫谈.md",
+    "计算机视觉与图形学/图形学/光线追踪.md",
+    "school work",
+    "1灵感，有空来做/偶然碰到的知识点.md",
     "计算机视觉与图形学/图形学/阴影.md",
     "计算机视觉与图形学/cv/尺度空间表达与金字塔分辨率.md",
     "计算机视觉与图形学/cv/MVS.md",
@@ -235,7 +251,6 @@
     "计算机视觉与图形学/图形学/几何表示.md",
     "计算机视觉与图形学/图形学/光照模型.md",
     "计算机视觉与图形学/图形学/光栅化.md",
-    "计算机视觉与图形学/图形学/光线追踪.md",
     "images/时域卷机.png",
     "论文/灵感.md",
     "论文/对比学习串讲.md",
@@ -245,8 +260,6 @@
     "images/Pasted image 20240103111717.png",
     "论文/gaussian edit/总结.md",
     "论文/gaussian edit/疑点.md",
-    "论文/代码精读任务.md",
-    "论文/人工智能导论.md",
     "数据结构与算法/61B/IntListandSLList.png",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
@@ -259,7 +272,6 @@
     "1哲学心理学/哲学理论/幸福、快乐的衡量",
     "1哲学心理学/哲学理论/真理的探寻",
     "1哲学心理学/哲学理论",
-    "计算机视觉与图形学/cv/3d editing",
     "images/Pasted image 20231226115505.png",
     "images/Pasted image 20231226115436.png",
     "images/Pasted image 20231226115034.png"
