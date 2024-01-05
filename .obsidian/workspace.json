@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理/傅立叶变换.md",
+                "file": "school work/神经网络漫谈.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理/傅立叶变换.md",
+                "file": "school work/神经网络漫谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理/傅立叶变换.md",
+                "file": "school work/神经网络漫谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/图形学/信号处理/傅立叶变换.md"
+                "file": "school work/神经网络漫谈.md"
               }
             }
           }
@@ -229,8 +229,11 @@
   },
   "active": "5776f3321893b26c",
   "lastOpenFiles": [
-    "计算机视觉与图形学/图形学/信号处理/信号处理.md",
+    "images/Pasted image 20240105110923.png",
     "计算机视觉与图形学/图形学/信号处理/傅立叶变换.md",
+    "images/Pasted image 20240105110643.png",
+    "images/Pasted image 20240105110546.png",
+    "计算机视觉与图形学/图形学/信号处理/信号处理.md",
     "images/Pasted image 20240105105234.png",
     "images/Pasted image 20240105104840.png",
     "images/Pasted image 20240105104751.png",
@@ -264,8 +267,6 @@
     "论文/对比学习串讲.md",
     "论文/生成式模型串讲.md",
     "images/Pasted image 20240103111819.png",
-    "images/Pasted image 20240103111817.png",
-    "images/Pasted image 20240103111717.png",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
     "人工智能/训练方法/数据处理",
