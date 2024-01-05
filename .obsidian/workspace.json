@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school work/神经网络漫谈.md",
+                "file": "school work/导论思政.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school work/神经网络漫谈.md",
+                "file": "school work/导论思政.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school work/神经网络漫谈.md",
+                "file": "school work/导论思政.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school work/神经网络漫谈.md"
+                "file": "school work/导论思政.md"
               }
             }
           }
@@ -229,12 +229,12 @@
   },
   "active": "5776f3321893b26c",
   "lastOpenFiles": [
+    "school work/神经网络漫谈.md",
     "school work/导论思政.md",
     "计算机视觉与图形学/图形学/三维建模+渲染.md",
     "计算机视觉与图形学/图形学/图形学基础知识.md",
     "计算机视觉与图形学/图形学/几何表示.md",
     "论文/gaussian splatting改进.md",
-    "school work/神经网络漫谈.md",
     "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
     "计算机视觉与图形学/图形学/信号处理/信号处理.md",
     "计算机视觉与图形学/图形学/信号处理/我们如何让机器理解图片——二维傅立叶变换.md",
