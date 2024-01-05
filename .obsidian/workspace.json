@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/cv/MVS.md",
+                "file": "school work/导论思政.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/cv/MVS.md",
+                "file": "school work/导论思政.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/cv/MVS.md",
+                "file": "school work/导论思政.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/cv/MVS.md"
+                "file": "school work/导论思政.md"
               }
             }
           }
@@ -229,6 +229,9 @@
   },
   "active": "5776f3321893b26c",
   "lastOpenFiles": [
+    "论文/3d gaussian 疑点.md",
+    "计算机视觉与图形学/cv/nerf改进.md",
+    "计算机视觉与图形学/cv/MVS.md",
     "school work/导论思政.md",
     "school work/神经网络漫谈.md",
     "计算机视觉与图形学/图形学/三维建模+渲染.md",
@@ -257,7 +260,6 @@
     "1灵感，有空来做/偶然碰到的知识点.md",
     "计算机视觉与图形学/图形学/阴影.md",
     "计算机视觉与图形学/cv/尺度空间表达与金字塔分辨率.md",
-    "计算机视觉与图形学/cv/MVS.md",
     "计算机视觉与图形学/cv/CV.md",
     "计算机视觉与图形学/cv/特征提取.md",
     "计算机视觉与图形学/cv/各种算子，滤波.md",
@@ -265,8 +267,6 @@
     "1灵感，有空来做/未整理.md",
     "计算机视觉与图形学/图形学/transform.md",
     "计算机视觉与图形学/图形学/光照模型.md",
-    "论文/灵感.md",
-    "论文/对比学习串讲.md",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
     "人工智能/训练方法/数据处理",
