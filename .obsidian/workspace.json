@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "school work/神经网络漫谈.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "school work/神经网络漫谈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "school work/神经网络漫谈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "school work/神经网络漫谈.md"
               }
             }
           }
@@ -229,6 +229,7 @@
   },
   "active": "7e64616b0becdfed",
   "lastOpenFiles": [
+    "README.md",
     "环境配置.md",
     "school work/gaussian splatting与nerf——新视角合成新范式.md",
     "school work/神经网络漫谈.md",
@@ -267,7 +268,6 @@
     "计算机视觉与图形学/cv/CV.md",
     "计算机视觉与图形学/cv/特征提取.md",
     "计算机视觉与图形学/cv/各种算子，滤波.md",
-    "计算机视觉与图形学/cv/对极几何.md",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
     "人工智能/训练方法/数据处理",
