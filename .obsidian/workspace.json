@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school work/神经网络漫谈.md",
+                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school work/神经网络漫谈.md",
+                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school work/神经网络漫谈.md"
+                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md"
               }
             }
           }
@@ -227,12 +227,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7e64616b0becdfed",
+  "active": "3b847502bfbe341d",
   "lastOpenFiles": [
+    "school work/神经网络漫谈.md",
     "README.md",
     "环境配置.md",
     "school work/gaussian splatting与nerf——新视角合成新范式.md",
-    "school work/神经网络漫谈.md",
     "论文/gaussian edit/疑点.md",
     "计算机视觉与图形学/图形学/信号处理/信号处理.md",
     "论文/relate work/cv.md",
