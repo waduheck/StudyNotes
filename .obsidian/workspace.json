@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "7e64616b0becdfed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "5776f3321893b26c",
             "type": "leaf",
             "state": {
@@ -88,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,7 +225,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b847502bfbe341d",
+  "active": "7e64616b0becdfed",
   "lastOpenFiles": [
     "环境配置.md",
     "school work/gaussian splatting与nerf——新视角合成新范式.md",
