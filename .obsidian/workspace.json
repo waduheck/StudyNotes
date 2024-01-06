@@ -71,9 +71,11 @@
             "id": "7e64616b0becdfed",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md"
+                "file": "README.md"
               }
             }
           }
