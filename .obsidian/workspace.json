@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
+                "file": "数据结构与算法/上课/树.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
+                "file": "数据结构与算法/上课/树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md",
+                "file": "数据结构与算法/上课/树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "school work/gaussian splatting与nerf——新视角合成新范式.md"
+                "file": "数据结构与算法/上课/树.md"
               }
             }
           }
@@ -229,10 +229,20 @@
   },
   "active": "3b847502bfbe341d",
   "lastOpenFiles": [
+    "数据结构与算法/61B/图/树/树.md",
+    "数据结构与算法/上课/树.md",
+    "数据结构与算法/上课/二叉树.md",
+    "数据结构与算法/算法/排序.md",
+    "数据结构与算法/数据结构/高纬数据.md",
+    "数据结构与算法/数据结构/范围查询.md",
+    "数据结构与算法/上课/堆.md",
+    "数据结构与算法/上课/上课笔记.md",
+    "数据结构与算法/算法/时间与空间估计.md",
+    "1哲学心理学/哲学理论/社会与政治.md",
+    "school work/gaussian splatting与nerf——新视角合成新范式.md",
     "school work/神经网络漫谈.md",
     "README.md",
     "环境配置.md",
-    "school work/gaussian splatting与nerf——新视角合成新范式.md",
     "论文/gaussian edit/疑点.md",
     "计算机视觉与图形学/图形学/信号处理/信号处理.md",
     "论文/relate work/cv.md",
@@ -246,9 +256,6 @@
     "论文/gaussian splatting改进.md",
     "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
     "计算机视觉与图形学/图形学/信号处理/我们如何让机器理解图片——二维傅立叶变换.md",
-    "计算机视觉与图形学/图形学/光线追踪.md",
-    "计算机视觉与图形学/图形学/光栅化.md",
-    "计算机视觉与图形学/图形学/抗锯齿.md",
     "images/Pasted image 20240105113514.png",
     "images/Pasted image 20240105113322.png",
     "images/Pasted image 20240105112800.png",
@@ -260,14 +267,7 @@
     "images/Pasted image 20240105104840.png",
     "images/Pasted image 20240105104751.png",
     "计算机视觉与图形学/图形学/信号处理",
-    "数据结构与算法/上课/树.md",
     "school work",
-    "1灵感，有空来做/偶然碰到的知识点.md",
-    "计算机视觉与图形学/图形学/阴影.md",
-    "计算机视觉与图形学/cv/尺度空间表达与金字塔分辨率.md",
-    "计算机视觉与图形学/cv/CV.md",
-    "计算机视觉与图形学/cv/特征提取.md",
-    "计算机视觉与图形学/cv/各种算子，滤波.md",
     "数据结构与算法/61B/图/树/未命名",
     "论文/zero123",
     "人工智能/训练方法/数据处理",
