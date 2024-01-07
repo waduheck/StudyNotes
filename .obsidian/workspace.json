@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构与算法/上课/树.md",
+                "file": "计算机视觉与图形学/图形学/图形学基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构与算法/上课/树.md",
+                "file": "计算机视觉与图形学/图形学/图形学基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/上课/树.md"
+                "file": "计算机视觉与图形学/图形学/图形学基础知识.md"
               }
             }
           }
@@ -227,10 +227,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3b847502bfbe341d",
+  "active": "00ea76b9a76a1e33",
   "lastOpenFiles": [
-    "数据结构与算法/61B/图/树/树.md",
     "数据结构与算法/上课/树.md",
+    "数据结构与算法/61B/图/树/树.md",
     "数据结构与算法/上课/二叉树.md",
     "数据结构与算法/算法/排序.md",
     "数据结构与算法/数据结构/高纬数据.md",
