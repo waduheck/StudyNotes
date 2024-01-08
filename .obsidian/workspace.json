@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机视觉与图形学/图形学/图形学基础知识.md",
+                "file": "数理大乱炖/概率论/上课/考点.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机视觉与图形学/图形学/图形学基础知识.md",
+                "file": "数理大乱炖/概率论/上课/考点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机视觉与图形学/图形学/图形学基础知识.md",
+                "file": "数理大乱炖/概率论/上课/考点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机视觉与图形学/图形学/图形学基础知识.md"
+                "file": "数理大乱炖/概率论/上课/考点.md"
               }
             }
           }
@@ -229,13 +229,15 @@
   },
   "active": "00ea76b9a76a1e33",
   "lastOpenFiles": [
+    "数据结构与算法/上课/堆.md",
+    "数理大乱炖/概率论/上课/考点.md",
+    "计算机视觉与图形学/图形学/图形学基础知识.md",
     "数据结构与算法/上课/树.md",
     "数据结构与算法/61B/图/树/树.md",
     "数据结构与算法/上课/二叉树.md",
     "数据结构与算法/算法/排序.md",
     "数据结构与算法/数据结构/高纬数据.md",
     "数据结构与算法/数据结构/范围查询.md",
-    "数据结构与算法/上课/堆.md",
     "数据结构与算法/上课/上课笔记.md",
     "数据结构与算法/算法/时间与空间估计.md",
     "1哲学心理学/哲学理论/社会与政治.md",
@@ -251,11 +253,9 @@
     "计算机视觉与图形学/cv/nerf改进.md",
     "计算机视觉与图形学/cv/MVS.md",
     "计算机视觉与图形学/图形学/三维建模+渲染.md",
-    "计算机视觉与图形学/图形学/图形学基础知识.md",
     "计算机视觉与图形学/图形学/几何表示.md",
     "论文/gaussian splatting改进.md",
     "计算机视觉与图形学/图形学/纹理映射与mipmap方法.md",
-    "计算机视觉与图形学/图形学/信号处理/我们如何让机器理解图片——二维傅立叶变换.md",
     "images/Pasted image 20240105113514.png",
     "images/Pasted image 20240105113322.png",
     "images/Pasted image 20240105112800.png",
